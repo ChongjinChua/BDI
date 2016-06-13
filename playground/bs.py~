@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+
+import bs4
+import requests
+
+print("hi")
+r = requests.get('www.morningstar.com/stocks/xnas/aapl/quote.html')
+print(r)
+html = r.text
+page = bs4.BeautifulSoup(html)
+print(page)
+soup = bs4.BeautifulSoup(html,'html.parser')
+print(soup)
+
