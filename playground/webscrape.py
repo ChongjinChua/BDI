@@ -21,7 +21,7 @@ class Render(QWebPage):
         self.app.quit()
 ###
         
-url = 'http://financials.morningstar.com/balance-sheet/bs.html?t=AAPL&region=USA&culture=en_US'
+url = 'http://www.reuters.com/finance/stocks/financialHighlights?symbol=MMM'
 r = Render(url)
 html = r.frame.toHtml()
 page = BeautifulSoup(html, 'html.parser')

@@ -1,0 +1,2439 @@
+hi
+<!--[if !IE]> This has been served from cache <![endif]-->
+<!--[if !IE]> Request served from apache server: S264630NJ2XSF19 <![endif]-->
+<!--[if !IE]> Cached on Wed, 22 Jun 2016 03:27:20 GMT and will expire on Wed, 22 Jun 2016 03:32:19 GMT <![endif]-->
+<!--[if !IE]> token: 7935776b-318a-437a-afaa-01e48cd55929 <![endif]-->
+<!--[if !IE]> CSTAT-UUID: d9d3c5be-4db8-47cb-b032-0da0c5e9b94c <![endif]-->
+<!--[if !IE]> App Server /S264630NJ2XSF49/ <![endif]-->
+<!DOCTYPE doctype html>
+
+<html>
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta charset="utf-8">
+<meta content="width=device-width" name="viewport">
+<meta content="on" http-equiv="x-dns-prefetch-control">
+<meta content="INDEX, FOLLOW" name="robots">
+<link href="//s1.reutersmedia.net" rel="dns-prefetch">
+<link href="//s2.reutersmedia.net" rel="dns-prefetch">
+<link href="//s3.reutersmedia.net" rel="dns-prefetch">
+<link href="//s4.reutersmedia.net" rel="dns-prefetch">
+<link href="//static.reuters.com" rel="dns-prefetch">
+<script type="text/javascript">
+
+// Rubicon Initialize
+(function() {
+    var account_id = 11384;
+    var rct = document.createElement('script');
+        rct.type = 'text/javascript';
+        rct.async = true;
+        rct.src = (document.location.protocol === 'https:' ? 'https:' : 'http:') + '//ads.rubiconproject.com/header/' + account_id + '.js';
+    var node = document.getElementsByTagName('script')[0];
+        node.parentNode.appendChild(rct);
+})();
+
+</script><div class="linebreak"></div>
+<script src="//reuters-d.openx.net/w/1.0/jstag?nc=4735792-reuters" type="text/javascript"></script><div class="linebreak"></div>
+<script src="http://www.reuters.com/reuters_bootstrap.js" type="text/javascript"></script>
+<script src="http://www.reuters.com/reuters_gpt_bootstrap.js" type="text/javascript"></script>
+<!-- AdBlock Plus Begin-->
+<script type="text/javascript">var abp;</script>
+<script src="http://s4.reutersmedia.net/resources_v2/js/px.js?ch=1" type="text/javascript"></script>
+<script src="http://s4.reutersmedia.net/resources_v2/js/px.js?ch=2" type="text/javascript"></script>
+<!-- AdBlock Plus End-->
+<script type="text/javascript">
+    var parallelMediaHosts = new Array();
+    parallelMediaHosts.push("s1.reutersmedia.net");parallelMediaHosts.push("s2.reutersmedia.net");parallelMediaHosts.push("s3.reutersmedia.net");parallelMediaHosts.push("s4.reutersmedia.net");</script>
+<script src="http://s3.reutersmedia.net/resources_v2/js/libraries/jquery-2.2.2.min.js" type="text/javascript"></script>
+<title>3M Co (MMM)  Financials | Reuters.com</title>
+<meta content="Reuters" name="site edition"/>
+<link href="http://www.reuters.com/finance/stocks/financialHighlights?symbol=MMM" rel="canonical"/>
+<meta content="Reuters Editorial" name="Author"/>
+<meta content="Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&amp;P, and Nasdaq at Reuters.com" name="description"/>
+<meta content="NYSE,Nasdaq,S&amp;P,trading,US market,Asian market,Dow Jones,FTSE,DJIA,DAX,stocks,bonds,shares" name="keywords"/>
+<meta content="summary_large_image" name="twitter:card">
+<meta content="Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&amp;P, and Nasdaq at Reuters.com" name="twitter:description"/>
+<meta content="@Reuters" name="twitter:site"/>
+<meta content="@Reuters" name="twitter:creator"/>
+<link href="https://plus.google.com/+Reuters" rel="publisher"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="Reuters" property="og:site_name"/>
+<meta content="Reuters" name="site edition"/>
+<meta content="https://www.facebook.com/Reuters" property="article:publisher"/>
+<meta content="${Instrument_CompanyName} ${Instrument_Ric}  Financials | Reuters.com" property="og:title"/>
+<meta content="http://www.reuters.com/finance/stocks/financialHighlights?symbol=MMM" property="og:url"/>
+<meta content="section" property="og:type"/>
+<meta content="Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&amp;P, and Nasdaq at Reuters.com" property="og:description"/>
+<script type="application/ld+json">
+		      {
+		        "@context": "http://schema.org",
+		        "@type": "WebPage",
+		        "headline": "${Instrument_CompanyName} ${Instrument_Ric}  Financials | Reuters.com",
+		        "url": "http://www.reuters.com/finance/stocks/financialHighlights?symbol=MMM", 
+		        "thumbnailUrl": "",
+		        "dateCreated": "",
+		        "description": "Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&P, and Nasdaq at Reuters.com",
+		        "publisher": "Reuters",
+		        "creator": [],
+		        "keywords": ["NYSE","Nasdaq","S&P","trading","US market","Asian market","Dow Jones","FTSE","DJIA","DAX","stocks","bonds","shares","Stocks"]
+		      }
+		</script>
+<script type="text/javascript">
+            var _sf_async_config = _sf_async_config || {};
+            
+            _sf_async_config.uid = 52639; 
+            _sf_async_config.domain = 'reuters.com';  
+            _sf_async_config.topStorageDomain = 'reuters.com'; 
+            _sf_async_config.path = $('link[rel=canonical]').attr('href').replace('http://www.','') ; 
+            _sf_async_config.flickerControl = false;
+            
+            var _sf_startpt = (new Date()).getTime();
+        </script><script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script><meta content="us.reuters/markets/stocks" name="DCSext.DartZone"/>
+<meta content="Markets - Research &amp; Data" name="DCSext.rChannel"/>
+<meta content="BETAUS" name="DCSext.rCountry"/>
+<meta content="Stocks - Financials" name="DCSext.ContentChannel"/>
+<meta content="Markets" name="DCSext.ContentType"/>
+<meta content="Markets" name="WT.cg_n"/>
+<meta content="Stocks" name="WT.cg_s"/>
+<link href="http://s3.reutersmedia.net/resources_v2/images/favicon/favicon.ico" rel="shortcut icon">
+<link href="http://s3.reutersmedia.net/resources_v2/images/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+<link href="http://s1.reutersmedia.net/resources_v2/images/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+<link href="http://s3.reutersmedia.net/resources_v2/images/favicon/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
+<link href="http://s2.reutersmedia.net/resources_v2/css/core.css" rel="stylesheet" type="text/css"/>
+<link href="http://s4.reutersmedia.net/resources_v2/css/core-legacy.css" rel="stylesheet" type="text/css"/>
+<script src="http://s2.reutersmedia.net/resources_v2/js/libraries/cookie.js" type="text/javascript"></script>
+<script src="http://s3.reutersmedia.net/resources_v2/js/libraries/modernizr-01.2016.js" type="text/javascript"></script>
+<script src="https://use.typekit.net/ecz1nfj.js" type="text/javascript"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script src="http://s2.reutersmedia.net/resources_v2/js/core.js" type="text/javascript"></script>
+<script src="http://s4.reutersmedia.net/resources_v2/js/libraries/slideshow.js" type="text/javascript"></script>
+<script src="http://s2.reutersmedia.net/resources_v2/js/search.js" type="text/javascript"></script>
+<script src="http://s4.reutersmedia.net/resources_v2/js/rcom-scroll-tracker.js"></script>
+<script type="text/javascript">
+    $(document).ready( function() {
+          var sclTracking = new rcom_scrollTracker("Markets");
+          if( inAppleMobileDevice() )
+            document.addEventListener("scroll", sclTracking, false);
+          else
+            $(window).scroll( sclTracking );
+    });
+    </script>
+<link href="/resources_v2/css/rcom-companyOverview.css" rel="stylesheet"/>
+<link href="/resources_v2/css/rcom-section.css" rel="stylesheet"/>
+<script language="javascript" src="/resources_v2/js/rcom-section.js"></script>
+<script type="text/javascript"> 
+        var pageXrefresh = 720; 
+    </script>
+<script src="http://s2.reutersmedia.net/resources_v2/js/core-refresh.js" type="text/javascript"></script>
+<noscript><meta content="720;url=/home" http-equiv="refresh"/></noscript>
+</link></link></link></link></meta></link></link></link></link></link></meta></meta></meta></meta></meta></head>
+<body class="BETAUS "><section class="hidden" id="breakingNewsContainer">
+<div class="group wrap" id="breakingNews">
+<div class="breaking-content">
+<div class="breaking-news-type"></div>
+<div class="breaking-news-content"></div>
+</div>
+<div class="close-btn">X</div>
+</div>
+</section>
+<script type="text/javascript">
+function drawBreakingNews(res) {
+    if (typeof res === 'undefined' || $.isEmptyObject(res) || isClosedBreakingNews(res)) {
+        return;
+    }
+
+    if (res.type !== '') {
+        var typeKey = "breakingNews." + res.type;
+        var typeStr = '' + res.label + ':';
+        $('.breaking-news-type').text(typeStr);
+        var typeClass = res.type;
+    } else {
+        var typeClass = 'happening';
+    }
+
+    $('#breakingNewsContainer').addClass(typeClass);
+    var breakingNewsContent = '';
+    if (res.url != '') {
+        breakingNewsContent = $('<a>').attr('href', res.url).html(res.headline);
+    } else {
+        breakingNewsContent = res.headline;
+    }
+    $('.breaking-news-content').html(res.headline);
+    if (res.url != '') {
+        var linkTxt = 'VIEW MORE';
+        if( res.actionCall && res.actionCall != '' ){
+        	linkTxt = res.actionCall;
+        }
+        var link = $('<a>').attr({href: res.url, id:'breaking-news-link', onClick:'linkCloseBreakingNews()'}).html(linkTxt);
+        $('.breaking-news-content').append(link);
+    }
+    $('#breakingNewsContainer').data('breakingNewsJson', res);
+    $('#breakingNewsContainer').removeClass('hidden');
+    $('#headerMain').css( "padding-top","30px" );
+    $('.edition-header').css( "padding-top","30px" );
+    
+    $('.edition-selector, .edition-label').click(function () {
+        setTimeout(function () {
+            if (($('.edition-container').hasClass('active')) && ($('.edition-container').css('padding-top') !== '30px') && (!$('#breakingNewsContainer').hasClass('hidden'))) {
+                $('.edition-container').css('padding-top', '30px');
+            } else if (!$('.edition-container').hasClass('active')) {
+                $('.edition-container').css('padding-top', '');
+            }
+        }, 1)
+    });
+    $(window).scroll(function () {
+        if (!$('#breakingNewsContainer').hasClass('hidden')) {
+            if (($('#headerNav').hasClass('fixed')) && ($('#headerNav').css('top') !== '29px')) {
+                $('#headerNav').css('top', '29px');
+            } else if (!$('#headerNav').hasClass('fixed')) {
+                $('#headerNav').css('top', '');
+            }
+        }
+        if (($('.nav-white-space').hasClass('fixed')) && (!$('#breakingNewsContainer').hasClass('hidden'))) {
+            $('.nav-white-space').css('padding-top', '30px');
+        } else if (!$('.nav-white-space').hasClass('fixed')) {
+            $('.nav-white-space').css('padding-top', '');
+        }
+    });
+    $('#breakingNewsContainer .close-btn').click(function () {
+        $('#headerMain').css('padding-top', '');
+        $('.edition-container').css('padding-top', '');
+        $('.edition-header').css('padding-top', '');
+        $('#headerNav').css('top', '');
+        $('.nav-white-space').css('padding-top', '');
+    });
+}
+
+function isClosedBreakingNews(obj) {
+    var flag = false;
+    var lastCloseNews = Reuters.utils.getFromLocalStorage('lastclose.breakingnews');
+    if (lastCloseNews) {
+        if (obj.headline === lastCloseNews.headline 
+                && obj.url === lastCloseNews.url && obj.type === lastCloseNews.type) {
+            flag = true;
+        }
+    }
+    return flag;
+}
+
+function saveClosedBreakingNews(obj) {
+    Reuters.utils.setToLocalStorage('lastclose.breakingnews', obj);
+}
+
+function linkCloseBreakingNews() {
+    var breakingNewsObj = $('#breakingNewsContainer').data('breakingNewsJson');
+    saveClosedBreakingNews(breakingNewsObj);
+}
+
+$(function() {
+    $('.close-btn').on('click', function() {
+        $('#breakingNewsContainer').addClass('hidden');
+        var breakingNewsObj = $('#breakingNewsContainer').data('breakingNewsJson');
+        saveClosedBreakingNews(breakingNewsObj);
+    });
+    $()
+    Reuters.utils.loadScript("breakingNewsAjax","/assets/breakingNews?view=json&sp=drawBreakingNews");
+
+});
+</script>
+<div class="linebreak"></div>
+<style>
+.inter_bg{position:fixed; width:100%; height:100%; background:#000; opacity:0.8; top:0px; z-index:214748300; left:0px; display:none;}
+#div_gpt_intro, #div_gpt_intro2{position: fixed;z-index: 10000000000000000000;margin: 0px auto;left: 15%;right: 15%;top: 164px;text-align: center; width:640px;}
+.close_button{
+background: url(http://static.reuters.com/resources/media/rcom/nf0yL.png) no-repeat right;
+position: absolute;
+top: -20px;
+right: -20px;
+height: 20px;
+width: 100px;
+display: none;
+cursor: pointer;
+color:#fff;
+font-size: 1.6em;
+font-weight: bold;
+}
+</style>
+<div class="inter_bg"></div>
+<div class="close_button" onclick="javascript:$('.inter_bg').hide();$('#div_gpt_intro').hide();$('#div_gpt_intro2').hide();"></div>
+<div id="div_gpt_intro2" style="display:none;"></div>
+<script>
+
+if (TR3.extractDartZone().indexOf("jp.reuters") > -1)
+{
+ $('.close_button').html("閉じる");
+}
+
+
+// determine if cookie exists
+var x = readCookie('r_inter');
+
+if (x=='true') {
+  // if cookie exists, do nothing
+ TR3.log('inter cookie:true');
+}
+else{  
+// if cookie doesnt exist, write cookie and fire ad
+   //createCookie('r_inter','true',1);
+   //inter_pop();
+   //setTimeout(function(){close_pop();}, 10000);
+   displayAd("div_gpt_intro2",TR3.extractDartZone(), [640,480], "type=intro_gpt;" + adParams2 );
+}
+
+function inter_pop() {
+    $('.inter_bg').show();
+    $('.close_button').show();
+    $( "#div_gpt_intro2" ).append( $(".close_button" ) );
+}
+
+function close_pop(){
+    $('.inter_bg').fadeOut();
+   $('.close_button').fadeOut();
+   $( '#div_gpt_intro2').fadeOut();
+}
+
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+
+</script><div id="div_gpt_intro" style="display:none;"></div>
+<script>
+// determine if cookie exists
+var x = readCookie('r_inter');
+
+if (x=='true') {
+  // if cookie exists, do nothing
+ TR3.log('inter cookie:true');
+}
+else{  
+// if cookie doesnt exist, write cookie and fire ad
+  
+   setTimeout(function(){close_pop2();}, 15000);
+   displayAd("div_gpt_intro",TR3.extractDartZone(), '', "type=intro_gpt;" + adParams2 );
+    //createCookie('r_inter','true',1);
+}
+
+function close_pop2(){
+   $( '#div_gpt_intro').fadeOut();
+}
+
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-W9SLGS" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>if (location.href.indexOf('/commentsChild?') == -1){ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+    (window,document,'script','dataLayer','GTM-W9SLGS'); }</script>
+<!-- End Google Tag Manager -->
+<header id="headerMain">
+<div class="container group">
+<div class="edition-container group">
+<div class="edition-label">Edition:</div>
+<div class="edition-selector">
+<div class="edition">United States</div>
+<div class="edition-arrow"></div>
+</div>
+</div>
+<div class="reuters-nav-main">
+<h2 class="reuters-logo">
+<a href="/" title="Reuters"></a>
+</h2>
+</div>
+<div class="utilities" id="utilities"></div>
+</div>
+</header>
+<nav id="headerNav">
+<div class="container group">
+<div class="header-mini-logo">
+<a href="/" title="Reuters"></a>
+</div>
+<ul class="horizontal-list nav-list">
+<li class="nav-item home-tab active-icon no-subnav" id="nav-item-1">
+<a class="nav-link-sec" href="/home">
+<div class="home-icon"></div>
+<span class="text"></span>
+</a>
+</li>
+<li class="nav-item " id="nav-item-2">
+<a class="nav-link-sec" href="/finance">Business</a>
+<div class="subnav" id="subnav-2">
+<div class="subnav-inset">
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/finance">Business Home</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/legal">Legal</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/deals">Deals</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/subjects/aerospace-and-defense">Aerospace &amp; Defense</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/subjects/banks">Finance</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/subjects/autos">Autos</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/summits">Reuters Summits</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="nav-item active" id="nav-item-3">
+<a class="nav-link-sec" href="/finance/markets">Markets</a>
+<div class="subnav" id="subnav-3">
+<div class="subnav-inset">
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/finance/markets">Markets Home</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/markets/us">U.S. Markets</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/markets/europe">European Markets</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/markets/asia">Asian Markets</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/finance/global-market-data">Global Market Data</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/markets/indices">Indices</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/stocks">Stocks</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/bonds">Bonds</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/finance/currencies">Currencies</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/commodities">Comm &amp; Energy</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/futures">Futures</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/funds">Funds</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/finance/EarningsUS">Earnings</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/markets/dividends">Dividends</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="nav-item " id="nav-item-4">
+<a class="nav-link-sec" href="/news/world">World</a>
+<div class="subnav" id="subnav-4">
+<div class="subnav-inset">
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/news/world">World Home</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/news/us">U.S.</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/subjects/specialReports">Special Reports</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="http://www.reuters.com/investigates">Reuters Investigates</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/subjects/euro-zone">Euro Zone</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/subjects/middle-east">Middle East</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/places/china">China</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/places/japan">Japan</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/places/mexico">Mexico</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/places/brazil">Brazil</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/places/africa">Africa</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/places/russia">Russia</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/places/india">India</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="nav-item " id="nav-item-5">
+<a class="nav-link-sec" href="/politics">Politics</a>
+<div class="subnav" id="subnav-5">
+<div class="subnav-inset">
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/politics">Politics Home</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/politics/election2016">Election 2016</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="http://polling.reuters.com">Polling Explorer</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="http://blogs.reuters.com/talesfromthetrail">Tales from the Trail</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="http://www.reuters.com/election2016/the-undecided ">What Voters Want</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/subjects/supreme-court">Supreme Court</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="nav-item " id="nav-item-6">
+<a class="nav-link-sec" href="/news/technology">Tech</a>
+<div class="subnav" id="subnav-6">
+<div class="subnav-inset">
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/news/technology">Technology Home</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/news/science">Science</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/bizfinance/technology/Top100Innovators">Top 100 Global Innovators</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/news/environment">Environment</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/innovation">Innovation</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="nav-item " id="nav-item-7">
+<a class="nav-link-sec" href="/commentary/">Commentary</a>
+<div class="subnav" id="subnav-7">
+<div class="subnav-inset">
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/commentary/">Commentary Home </a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/tools/podcasts/">Podcasts</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="nav-item " id="nav-item-8">
+<a class="nav-link-sec" href="http://blogs.reuters.com/breakingviews/">Breakingviews</a>
+<div class="subnav" id="subnav-8">
+<div class="subnav-inset">
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="http://blogs.reuters.com/breakingviews/">Breakingviews Home</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/video/breakingviews">Breakingviews Video</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="nav-item " id="nav-item-9">
+<a class="nav-link-sec" href="/finance/personal-finance">Money</a>
+<div class="subnav" id="subnav-9">
+<div class="subnav-inset">
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/finance/personal-finance">Money Home</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/finance/personal-finance/retirement">Retirement</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/subjects/us-lipper-awards">Lipper Awards</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="https://commerce.us.reuters.com/purchase/default.do">Analyst Research</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="http://alerts.us.reuters.com/US/company.asp">Alerts</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="http://portfolio.us.reuters.com/US/watchlist/create.asp">Watchlist</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="http://portfolio.us.reuters.com/US/public/index.asp">Portfolio</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp">Stock Screener</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="http://funds.us.reuters.com/US/screener/screener.asp">Fund Screener</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="nav-item " id="nav-item-10">
+<a class="nav-link-sec" href="/news/lifestyle">Life</a>
+<div class="subnav" id="subnav-10">
+<div class="subnav-inset">
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/news/health">Health</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/news/sports">Sports</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/news/entertainment/arts">Arts</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="/news/entertainment">Entertainment</a>
+</li>
+</ul>
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/news/oddlyEnough">Oddly Enough</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="http://blogs.reuters.com/faithworld">Faithworld</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="nav-item pictures-tab active-icon active-text " id="nav-item-11">
+<a class="nav-link-sec" href="/news/pictures">
+<div class="pictures-icon"></div>
+<span class="text">Pictures</span>
+</a>
+<div class="subnav" id="subnav-11">
+<div class="subnav-inset">
+<ul class="subnav-list">
+<li>
+<a class="nav-link-subsec" href="/news/pictures">Pictures Home</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="http://widerimage.reuters.com">The Wider Image</a>
+</li>
+<li>
+<a class="nav-link-subsec" href="http://widerimage.reuters.com/photographer">Photographers</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="nav-item video-tab active-icon active-text no-subnav" id="nav-item-12">
+<a class="nav-link-sec" href="/video">
+<div class="video-icon"></div>
+<span class="text">Video</span>
+</a>
+</li>
+<li class="nav-item search-tab active-icon no-subnav"><div class="search-icon"></div></li>
+</ul>
+<div id="searchBar">
+<form action="/search/news" autocomplete="off" class="search-form" id="searchForm" method="get" name="searchbox">
+<input class="search-field" id="searchfield" maxlength="128" name="blob" onfocus="this.value = this.value;" size="30" type="text" value="">
+<span class="search-line"></span>
+<input class="search-submit-button" id="search-submit-button" onmousedown="if(document.forms['searchbox'].blob.value == 'Search Reuters') { document.forms['searchbox'].blob.value = ''; }" type="submit" value="">
+<div class="search-close-button"></div>
+</input></input></form>
+</div>
+</div>
+</nav>
+<div class="nav-white-space"></div>
+<div class="edition-header">
+<div class="container">
+<div class="selection-header"></div>
+<ul class="edition-list">
+<li>
+<div class="item">
+<a href="http://af.reuters.com">Africa</a>
+</div>
+<div class="item">
+<a href="http://lta.reuters.com">América Latina</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="http://ara.reuters.com">عربي</a>
+</div>
+<div class="item">
+<a href="http://ar.reuters.com">Argentina</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="http://br.reuters.com">Brasil</a>
+</div>
+<div class="item">
+<a href="http://ca.reuters.com">Canada</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a class="" href="http://cn.reuters.com">中国</a>
+</div>
+<div class="item">
+<a class="" href="http://de.reuters.com">Deutschland</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="http://es.reuters.com">España</a>
+</div>
+<div class="item">
+<a href="http://fr.reuters.com">France</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a class="" href="http://in.reuters.com">India</a>
+</div>
+<div class="item">
+<a href="http://it.reuters.com">Italia</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a class="" href="http://jp.reuters.com">日本</a>
+</div>
+<div class="item">
+<a href="http://mx.reuters.com">México</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a href="http://ru.reuters.com">РОССИЯ</a>
+</div>
+<div class="item">
+<a class="" href="http://uk.reuters.com">United Kingdom</a>
+</div>
+</li>
+<li>
+<div class="item">
+<a class="active" href="http://www.reuters.com">United States</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div id="overlayForSearch"></div><div class="section bleeding" id="bannerStrip">
+<div class="sectionContent">
+<div class="sectionColumns">
+<div class="gridPanel grid12">
+<div id="div_gpt_lb"><div class="ad" id="leaderboard">
+<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'leaderboard' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('leaderboard' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('leaderboard' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('leaderboard' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_lb", dz_final,  [[728, 90],[970,250],[970,90],[970,66],[1,1]], "type=leaderboard;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('leaderboard' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_lb", dz_final,  [[728, 90],[970,250],[970,90],[970,66],[1,1]], "type=leaderboard;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_lb", dz_final,  [[728, 90],[970,250],[970,90],[970,66],[1,1]], "type=leaderboard;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_lb", dz_final,  [[728, 90],[970,250],[970,90],[970,66],[1,1]], "type=leaderboard;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+</div>
+</div><div class="linebreak"></div>
+<style>
+#div_gpt_lb{display: inline-block;
+position: relative;
+text-align: center;
+width: 976px;}
+
+#div_gpt_mpu, #div_gpt_home_rr1, #div_gpt_rr2, #div_gpt_article_sp3, #div_gpt_mpulow, #div_gpt_bd2{margin-bottom:20px;}
+.mpu .ad {clear:left;}
+.column2 .ad{margin-bottom: 0px !important;}
+.pageSponsor{width: 270px !important;}
+#div_gpt_mpu{float: left;}
+</style>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<div class="sectionContent">
+<div id="sectionHeader"><style type="text/css">.quoteBox div div.value {font-size:16px;}</style><div id="sectionTitle">
+<h1>3M Co (MMM)</h1>
+</div>
+<script language="javascript">
+if (Reuters.tns) {
+    Reuters.tns.currentCompany = 'MMM';
+}
+</script>
+<style>
+#div_gpt_tradelogo{
+float: right;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+</style><div class="linebreak"></div>
+<div id="div_gpt_tradelogo"><div class="ad" id="tradelogo">
+<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'tradelogo' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('tradelogo' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('tradelogo' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('tradelogo' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('tradelogo' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+</div>
+</div><div class="linebreak"></div>
+<div class="linebreak"></div>
+<div id="sectionHeaderTopics"><div id="headerTopics">
+<div class="sectionRelatedTopics">
+<ul>
+<h3>Related Topics: </h3>
+<li><a href="/finance/stocks">Stocks</a></li><li><a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp">Stock Screener</a></li><li><a href="/finance/global-market-data">Market Data</a></li><li><a href="/sectors/industrials">Industrials</a></li><li><a href="/sectors/industries/overview?industryCode=55">Industrial Conglomerates</a></li></ul>
+</div>
+</div>
+</div><div style="clear: both"><div id="div_gpt_investingchannel"><div class="ad" id="investingchannel">
+<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'investingchannel' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('investingchannel' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('investingchannel' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('investingchannel' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('investingchannel' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+</div>
+</div></div>
+<div class="linebreak"></div>
+<div id="companyOverviewTabSection">
+<div id="companyOverviewTabs">
+<ul>
+<li>
+<a href="/finance/stocks/overview?symbol=MMM">
+                
+                        Overview
+                    </a>
+</li>
+<li>
+<a href="/finance/stocks/companyNews?symbol=MMM">
+                
+                        News
+                    </a>
+</li>
+<li>
+<a href="/finance/stocks/MMM/key-developments">
+                
+                        Key Developments
+                    </a>
+</li>
+<li>
+<a href="/finance/stocks/companyOfficers?symbol=MMM">
+                
+                        People
+                    </a>
+</li>
+<li>
+<a href="/finance/stocks/chart?symbol=MMM">
+                
+                        Charts
+                    </a>
+</li>
+<li class="current">
+<a href="/finance/stocks/financialHighlights?symbol=MMM">
+                
+                        Financials
+                    </a>
+</li>
+<li>
+<a href="/finance/stocks/analyst?symbol=MMM">
+                
+                        Analysts
+                    </a>
+</li>
+<li>
+<a href="/finance/stocks/analystResearch?symbol=MMM">
+                    
+                            Research
+                        </a>
+</li>
+<li>
+<a href="/finance/stocks/social-pulse?symbol=MMM">
+                    
+                            Pulse
+                        </a>
+</li>
+</ul>
+</div>
+</div>
+<div class="module">
+<div class="moduleBody">
+<div id="headerQuoteContainer">
+<div class="sectionQuote nasdaqChange">
+<div class="sectionQuoteDetail">
+<span class="nasdaqChangeHeader">
+				MMM on New York Consolidated</span>
+<br class="clear"><br class="clear">
+<span style="font-size: 23px;">
+				171.37</span><span>USD</span><br/>
+<span class="nasdaqChangeTime">21 Jun 2016</span>
+</br></br></div>
+</div>
+<div class="sectionQuote priceChange">
+<div class="sectionQuoteDetail">
+<span class="priceDetail">
+				    Change	(% chg)</span>
+<br class="clear"><br class="clear">
+<span class="valueContent">
+<span class="pos">		    
+						    $0.14</span>
+<span class="valueContentPercent">
+<span class="pos">
+					            (+0.08%)
+					        </span>
+</span>
+</span>
+</br></br></div>
+</div>
+<div class="sectionQuote">
+<div class="sectionQuoteDetailTop">
+<span>Prev Close</span>
+<br class="clear">
+<span>$171.23</span>
+</br></div>
+<div class="sectionQuoteDetail">
+<span>Open</span>
+<br class="clear">
+<span>$171.18</span>
+</br></div>
+</div>
+<div class="sectionQuote">
+<div class="sectionQuoteDetailTop">
+<span>Day's High</span>
+<br class="clear">
+<span class="sectionQuoteDetailHigh">$171.97</span>
+</br></div>
+<div class="sectionQuoteDetail">
+<span>Day's Low</span>
+<br class="clear">
+<span class="sectionQuoteDetailLow">$171.06</span>
+</br></div>
+</div>
+<div class="sectionQuote">
+<div class="sectionQuoteDetailTop">
+<span>Volume</span>
+<br class="clear">
+<span>1,889,460</span>
+</br></div>
+<div class="sectionQuoteDetail">
+<span>Avg. Vol</span>
+<br class="clear">
+<span>1,969,813</span>
+</br></div>
+</div>
+<div class="sectionQuote">
+<div class="sectionQuoteDetailTop">
+<span>52-wk High</span>
+<br class="clear">
+<span class="sectionQuoteDetailHigh">$172.80</span>
+</br></div>
+<div class="sectionQuoteDetail">
+<span>52-wk Low</span>
+<br class="clear">
+<span class="sectionQuoteDetailLow">$134.00</span>
+</br></div>
+</div>
+<br class="clear">
+</br></div>
+</div>
+</div>
+</div><div class="sectionColumns">
+<div class="column1 gridPanel grid8">
+<div class="columnCenter"><div class="gridPanel grid8"><div class="module">
+<div class="moduleHeader">
+<h3>
+					Revenue &amp; Earnings Per Share</h3>
+</div>
+<div class="moduleBody">
+</div>
+</div>
+</div></div><div class="module">
+<div class="moduleHeader">
+<h3>
+					Consensus Estimates Analysis</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="0" cellspacing="0" class="dataTable" width="100%">
+<tbody>
+<tr>
+<th> </th>
+<th class="data"># of Estimates</th>
+<th class="data">Mean</th>
+<th class="data">High</th>
+<th class="data">Low</th>
+<th class="data">1 Year Ago</th>
+</tr>
+<tr>
+<td class="dataTitle" colspan="6">SALES (in millions)</td>
+</tr>
+<tr class="stripe">
+<td>Quarter Ending Jun-16</td>
+<td class="data">13</td>
+<td class="data">7,725.26</td>
+<td class="data">7,863.76</td>
+<td class="data">7,576.44</td>
+<td class="data">8,377.56</td>
+</tr>
+<tr class="">
+<td>Quarter Ending Sep-16</td>
+<td class="data">12</td>
+<td class="data">7,849.08</td>
+<td class="data">8,014.65</td>
+<td class="data">7,647.00</td>
+<td class="data">8,465.56</td>
+</tr>
+<tr class="stripe">
+<td>Year Ending Dec-16</td>
+<td class="data">16</td>
+<td class="data">30,440.40</td>
+<td class="data">30,986.30</td>
+<td class="data">30,000.00</td>
+<td class="data">32,568.10</td>
+</tr>
+<tr class="">
+<td>Year Ending Dec-17</td>
+<td class="data">16</td>
+<td class="data">31,316.70</td>
+<td class="data">32,055.20</td>
+<td class="data">30,346.00</td>
+<td class="data">33,977.10</td>
+</tr>
+<tr>
+<td class="dataTitle" colspan="6">Earnings (per share)</td>
+</tr>
+<tr class="stripe">
+<td>Quarter Ending Jun-16</td>
+<td class="data">16</td>
+<td class="data">2.07</td>
+<td class="data">2.12</td>
+<td class="data">2.01</td>
+<td class="data">2.27</td>
+</tr>
+<tr class="">
+<td>Quarter Ending Sep-16</td>
+<td class="data">15</td>
+<td class="data">2.18</td>
+<td class="data">2.22</td>
+<td class="data">2.14</td>
+<td class="data">2.38</td>
+</tr>
+<tr class="stripe">
+<td>Year Ending Dec-16</td>
+<td class="data">18</td>
+<td class="data">8.25</td>
+<td class="data">8.35</td>
+<td class="data">8.10</td>
+<td class="data">8.77</td>
+</tr>
+<tr class="">
+<td>Year Ending Dec-17</td>
+<td class="data">18</td>
+<td class="data">8.94</td>
+<td class="data">9.30</td>
+<td class="data">8.51</td>
+<td class="data">9.44</td>
+</tr>
+<tr>
+<td>LT Growth Rate (%)</td>
+<td class="data">5</td>
+<td class="data">8.47</td>
+<td class="data">10.00</td>
+<td class="data">6.32</td>
+<td class="data">8.65</td>
+</tr>
+</tbody>
+</table>
+<div class="footnote">
+Sales and Profit Figures in US Dollar (USD);
+</div>
+</div>
+</div>
+<div class="linebreak"></div>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+					Valuation Ratios</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="1" cellspacing="0" class="dataTable" width="100%">
+<tbody>
+<tr>
+<th width="40%"> </th>
+<th class="data" width="15%"><strong>Company</strong></th>
+<th class="data" width="15%"><strong>industry</strong></th>
+<th class="data" width="15%"><strong>sector</strong></th>
+</tr>
+<tr class="stripe">
+<td>P/E Ratio (TTM)</td>
+<td class="data">21.99</td>
+<td class="data">20.70</td>
+<td class="data">25.73</td>
+</tr>
+<tr>
+<td>
+               P/E High - Last 5 Yrs.</td>
+<td class="data">21.95</td>
+<td class="data">33.97</td>
+<td class="data">49.68</td>
+</tr>
+<tr class="stripe">
+<td>              
+              P/E Low - Last 5 Yrs.</td>
+<td class="data">13.72</td>
+<td class="data">13.81</td>
+<td class="data">14.79</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr class="stripe">
+<td>
+              Beta</td>
+<td class="data">1.10</td>
+<td class="data">1.08</td>
+<td class="data">0.90</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr class="stripe">
+<td>
+              Price to Sales (TTM)</td>
+<td class="data">3.45</td>
+<td class="data">0.89</td>
+<td class="data">2.32</td>
+</tr>
+<tr>
+<td>
+              Price to Book (MRQ)</td>
+<td class="data">8.85</td>
+<td class="data">2.01</td>
+<td class="data">2.29</td>
+</tr>
+<tr class="stripe">
+<td>
+              Price to Tangible Book (MRQ)</td>
+<td class="data">--</td>
+<td class="data">3.11</td>
+<td class="data">2.90</td>
+</tr>
+<tr>
+<td>
+              Price to Cash Flow (TTM)</td>
+<td class="data">16.30</td>
+<td class="data">14.49</td>
+<td class="data">13.25</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr>
+<td>
+              % Owned Institutions</td>
+<td class="data">67.10</td>
+<td class="data">1.70</td>
+<td class="data">1.80</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="linebreak"></div>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+					Dividends</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="1" cellspacing="0" class="dataTable" width="100%">
+<tbody>
+<tr>
+<th width="40%"> </th>
+<th class="data" width="15%"><strong>Company</strong></th>
+<th class="data" width="15%"><strong>industry</strong></th>
+<th class="data" width="15%"><strong>sector</strong></th>
+</tr>
+<tr class="stripe">
+<td>Dividend Yield</td>
+<td class="data">2.59</td>
+<td class="data">2.02</td>
+<td class="data">1.67</td>
+</tr>
+<tr>
+<td>
+		 	Dividend Yield - 5 Year Avg</td>
+<td class="data">2.32</td>
+<td class="data">1.89</td>
+<td class="data">1.51</td>
+</tr>
+<tr class="stripe">
+<td>
+		 	Dividend 5 Year Growth Rate</td>
+<td class="data">14.32</td>
+<td class="data">8.70</td>
+<td class="data">4.95</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr class="stripe">
+<td>
+			Payout Ratio(TTM)</td>
+<td class="data">52.58</td>
+<td class="data">22.26</td>
+<td class="data">19.92</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="linebreak"></div>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+					Growth Rates</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="1" cellspacing="0" class="dataTable" width="100%">
+<tbody>
+<tr>
+<th width="40%"> </th>
+<th class="data" width="15%"><strong>Company</strong></th>
+<th class="data" width="15%"><strong>industry</strong></th>
+<th class="data" width="15%"><strong>sector</strong></th>
+</tr>
+<tr class="stripe">
+<td>Sales (MRQ) vs Qtr. 1 Yr. Ago</td>
+<td class="data">-2.23</td>
+<td class="data">-6.39</td>
+<td class="data">9.09</td>
+</tr>
+<tr>
+<td>
+			Sales (TTM) vs TTM 1 Yr. Ago</td>
+<td class="data">-4.63</td>
+<td class="data">-1.23</td>
+<td class="data">5.73</td>
+</tr>
+<tr class="stripe">
+<td>
+			Sales - 5 Yr. Growth Rate</td>
+<td class="data">2.57</td>
+<td class="data">4.79</td>
+<td class="data">6.67</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr class="stripe">
+<td>
+			EPS (MRQ) vs Qtr. 1 Yr. Ago</td>
+<td class="data">10.93</td>
+<td class="data">-109.82</td>
+<td class="data">6.63</td>
+</tr>
+<tr>
+<td>
+			EPS (TTM) vs TTM 1 Yr. Ago</td>
+<td class="data">3.36</td>
+<td class="data">--</td>
+<td class="data">--</td>
+</tr>
+<tr class="stripe">
+<td>
+			EPS - 5 Yr. Growth Rate</td>
+<td class="data">6.14</td>
+<td class="data">4.72</td>
+<td class="data">9.85</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr class="stripe">
+<td>
+			Capital Spending - 5 Yr. Growth Rate</td>
+<td class="data">6.01</td>
+<td class="data">9.19</td>
+<td class="data">10.22</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="linebreak"></div>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+					Financial Strength</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="1" cellspacing="0" class="dataTable" width="100%">
+<tbody>
+<tr>
+<th width="40%"> </th>
+<th class="data" width="15%"><strong>Company</strong></th>
+<th class="data" width="15%"><strong>industry</strong></th>
+<th class="data" width="15%"><strong>sector</strong></th>
+</tr>
+<tr class="stripe">
+<td>Quick Ratio (MRQ)</td>
+<td class="data">1.01</td>
+<td class="data">1.03</td>
+<td class="data">1.76</td>
+</tr>
+<tr>
+<td>
+			Current Ratio (MRQ)</td>
+<td class="data">1.51</td>
+<td class="data">1.42</td>
+<td class="data">2.15</td>
+</tr>
+<tr class="stripe">
+<td>
+			LT Debt to Equity (MRQ)</td>
+<td class="data">76.08</td>
+<td class="data">82.24</td>
+<td class="data">69.22</td>
+</tr>
+<tr>
+<td>
+			Total Debt to Equity (MRQ)</td>
+<td class="data">94.94</td>
+<td class="data">124.77</td>
+<td class="data">95.20</td>
+</tr>
+<tr class="stripe">
+<td>
+			Interest Coverage (TTM)</td>
+<td class="data">61.18</td>
+<td class="data">15.54</td>
+<td class="data">15.50</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="linebreak"></div>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+					Profitability Ratios</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="1" cellspacing="0" class="dataTable" width="100%">
+<tbody>
+<tr>
+<th width="40%"> </th>
+<th class="data" width="15%"><strong>Company</strong></th>
+<th class="data" width="15%"><strong>industry</strong></th>
+<th class="data" width="15%"><strong>sector</strong></th>
+</tr>
+<tr class="stripe">
+<td>Gross Margin (TTM)</td>
+<td class="data">49.53</td>
+<td class="data">22.83</td>
+<td class="data">35.30</td>
+</tr>
+<tr>
+<td>
+			Gross Margin - 5 Yr. Avg.</td>
+<td class="data">48.03</td>
+<td class="data">22.87</td>
+<td class="data">30.14</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr>
+<td>
+			EBITD Margin (TTM)</td>
+<td class="data">28.49</td>
+<td class="data">--</td>
+<td class="data">--</td>
+</tr>
+<tr class="stripe">
+<td>
+			EBITD - 5 Yr. Avg</td>
+<td class="data">26.42</td>
+<td class="data">10.02</td>
+<td class="data">19.37</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr class="stripe">
+<td>
+			Operating Margin (TTM)</td>
+<td class="data">23.27</td>
+<td class="data">4.83</td>
+<td class="data">16.50</td>
+</tr>
+<tr>
+<td>
+			Operating Margin - 5 Yr. Avg.</td>
+<td class="data">21.91</td>
+<td class="data">5.69</td>
+<td class="data">12.91</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr>
+<td>
+			Pre-Tax Margin (TTM)</td>
+<td class="data">22.81</td>
+<td class="data">4.67</td>
+<td class="data">14.07</td>
+</tr>
+<tr class="stripe">
+<td>
+			Pre-Tax Margin - 5 Yr. Avg.</td>
+<td class="data">21.51</td>
+<td class="data">6.59</td>
+<td class="data">10.72</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr class="stripe">
+<td>
+			Net Profit Margin (TTM)</td>
+<td class="data">16.34</td>
+<td class="data">2.81</td>
+<td class="data">9.51</td>
+</tr>
+<tr>
+<td>
+			Net Profit Margin - 5 Yr. Avg.</td>
+<td class="data">15.36</td>
+<td class="data">4.62</td>
+<td class="data">7.03</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr>
+<td>
+			Effective Tax Rate (TTM)</td>
+<td class="data">28.37</td>
+<td class="data">19.74</td>
+<td class="data">36.04</td>
+</tr>
+<tr class="stripe">
+<td>
+			Effective Tax Rate - 5 Yr. Avg.</td>
+<td class="data">28.56</td>
+<td class="data">28.22</td>
+<td class="data">28.42</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="linebreak"></div>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+					Efficiency</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="1" cellspacing="0" class="dataTable" width="100%">
+<tbody>
+<tr>
+<th width="40%"> </th>
+<th class="data" width="15%"><strong>Company</strong></th>
+<th class="data" width="15%"><strong>industry</strong></th>
+<th class="data" width="15%"><strong>sector</strong></th>
+</tr>
+<tr class="stripe">
+<td>Revenue/Employee (TTM)</td>
+<td class="data">336,572</td>
+<td class="data">941,240</td>
+<td class="data">534,151,475</td>
+</tr>
+<tr>
+<td>
+		Net Income/Employee (TTM)</td>
+<td class="data">54,983</td>
+<td class="data">130,969</td>
+<td class="data">52,082,665</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr>
+<td>
+		Receivable Turnover (TTM)</td>
+<td class="data">6.77</td>
+<td class="data">3.96</td>
+<td class="data">20.79</td>
+</tr>
+<tr class="stripe">
+<td>
+		Inventory Turnover (TTM)</td>
+<td class="data">4.14</td>
+<td class="data">4.57</td>
+<td class="data">18.03</td>
+</tr>
+<tr>
+<td>
+		Asset Turnover (TTM)</td>
+<td class="data">0.95</td>
+<td class="data">0.76</td>
+<td class="data">0.65</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="linebreak"></div>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+					Management Effectiveness</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="1" cellspacing="0" class="dataTable" width="100%">
+<tbody>
+<tr>
+<th width="40%"> </th>
+<th class="data" width="15%"><strong>Company</strong></th>
+<th class="data" width="15%"><strong>industry</strong></th>
+<th class="data" width="15%"><strong>sector</strong></th>
+</tr>
+<tr class="stripe">
+<td>Return on Assets (TTM)</td>
+<td class="data">15.46</td>
+<td class="data">1.93</td>
+<td class="data">4.69</td>
+</tr>
+<tr>
+<td>
+			Return on Assets - 5 Yr. Avg.</td>
+<td class="data">14.49</td>
+<td class="data">3.22</td>
+<td class="data">4.06</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr>
+<td>
+			Return on Investment (TTM)</td>
+<td class="data">19.18</td>
+<td class="data">2.55</td>
+<td class="data">6.34</td>
+</tr>
+<tr class="stripe">
+<td>
+			Return on Investment - 5 Yr. Avg.</td>
+<td class="data">18.25</td>
+<td class="data">5.49</td>
+<td class="data">5.73</td>
+</tr>
+<tr class="separator"><td colspan="5"></td></tr>
+<tr class="stripe">
+<td>
+			Return on Equity (TTM)</td>
+<td class="data">38.28</td>
+<td class="data">-1.32</td>
+<td class="data">9.75</td>
+</tr>
+<tr>
+<td>
+			Return on Equity - 5 Yr. Avg.</td>
+<td class="data">29.98</td>
+<td class="data">8.22</td>
+<td class="data">9.82</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="linebreak"></div>
+<div id="div_gpt_stock_sp1"><div class="ad" id="BizDev_Stock_SP1">
+<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'BizDev_Stock_SP1' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('BizDev_Stock_SP1' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('BizDev_Stock_SP1' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('BizDev_Stock_SP1' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_stock_sp1", dz_final, [[620,260],[620,200]], "type=BizDev_Stock_SP1;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('BizDev_Stock_SP1' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_stock_sp1", dz_final, [[620,260],[620,200]], "type=BizDev_Stock_SP1;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_stock_sp1", dz_final, [[620,260],[620,200]], "type=BizDev_Stock_SP1;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_stock_sp1", dz_final, [[620,260],[620,200]], "type=BizDev_Stock_SP1;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+</div>
+</div><div class="linebreak"></div>
+<div class="linebreak"></div>
+</div>
+<div class="column2 gridPanel grid4">
+<div id="div_gpt_mpu"><div class="ad" id="mpu">
+<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'mpu' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('mpu' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('mpu' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('mpu' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_mpu", dz_final, [[300, 250],[300,600],[300,1050],[160,600],[120,600]], "type=mpu;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('mpu' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_mpu", dz_final, [[300, 250],[300,600],[300,1050],[160,600],[120,600]], "type=mpu;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_mpu", dz_final, [[300, 250],[300,600],[300,1050],[160,600],[120,600]], "type=mpu;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_mpu", dz_final, [[300, 250],[300,600],[300,1050],[160,600],[120,600]], "type=mpu;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+</div>
+</div><div class="linebreak"></div>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+<a href="/finance/stocks/incomeStatement?symbol=MMM">
+					Growth for 3M Co</a>
+</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="0" cellspacing="0" class="dataTable" width="100%">
+<tbody class="dataSmall">
+<tr>
+<th class="data"> </th>
+<th class="data"><strong>1 Year</strong></th>
+<th class="data"><strong>3 Year</strong></th>
+<th class="data"><strong>5 Year</strong></th>
+</tr>
+<tr class="stripe">
+<td>Sales %</td>
+<td class="data">-4.86</td>
+<td class="data">0.41</td>
+<td class="data">2.57</td>
+</tr>
+<tr>
+<td>EPS (TTM) %</td>
+<td class="data">1.31</td>
+<td class="data">6.28</td>
+<td class="data">6.14</td>
+</tr>
+<tr class="stripe">
+<td>Dividend %</td>
+<td class="data">19.88</td>
+<td class="data">20.21</td>
+<td class="data">14.32</td>
+</tr>
+</tbody>
+</table>
+<div class="footnote">Note: Units in Millions of US Dollars</div><div class="moreLink">
+<a href="/finance/stocks/incomeStatement?symbol=MMM">» View Financial Statements</a></div></div>
+</div>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+					Performance for 3M Co</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="1" cellspacing="0" class="dataTable" width="100%">
+<tbody class="dataSmall">
+<tr>
+<th>Period</th>
+<th class="data">%<br/>Actual</th>
+<th class="data">% vs.<br/>S&amp;P; 500</th>
+<th class="data">Rank In<br/>Industry</th>
+<th class="data">Industry<br/>Rank</th>
+</tr>
+<tr class="stripe">
+<td>4 Week</td>
+<td class="data">3.08</td>
+<td class="data">1.34</td>
+<td class="data">99</td>
+<td class="data">58</td>
+</tr>
+<tr>
+<td>13 Week</td>
+<td class="data">3.88</td>
+<td class="data">2.30</td>
+<td class="data">99</td>
+<td class="data">60</td>
+</tr>
+<tr class="stripe">
+<td>26 Week</td>
+<td class="data">16.10</td>
+<td class="data">12.64</td>
+<td class="data">99</td>
+<td class="data">25</td>
+</tr>
+<tr>
+<td>52 Week</td>
+<td class="data">7.73</td>
+<td class="data">9.11</td>
+<td class="data">99</td>
+<td class="data">10</td>
+</tr>
+<tr class="stripe">
+<td>YTD</td>
+<td class="data">13.67</td>
+<td class="data">11.52</td>
+<td class="data">99</td>
+<td class="data">24</td>
+</tr>
+</tbody></table>
+<div class="footnote">Note:: Rank is a percentile that ranges from 0 to 99, with 99 = best.</div></div>
+</div>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+<a href="/finance/stocks/companyNews?symbol=MMM">
+					3M Co News</a>
+</h3>
+</div>
+<div class="moduleBody">
+<ul>
+<li><a href="/article/idUSASC08RHU?type=companyNews">BRIEF-3M wins patent infringement lawsuit against Dental Direkt</a>
+</li><li><a href="/article/idUSASC08QAY?type=companyNews">BRIEF-3M awarded contract for 177,000 body armor plates</a>
+</li><li><a href="/article/idUSASC08OOG?type=companyNews">BRIEF-3M sets quarterly dividend of $1.11/share</a>
+</li><li><a href="/article/us-3m-results-idUSKCN0XN1FC?type=companyNews">Post-it maker 3M's profit beats estimates on lower costs</a>
+</li><li><a href="/article/idUSFWN17T0JV?type=companyNews">BRIEF-3M would reduce 250 positions worldwide - conf call</a>
+</li></ul>
+<div class="moreLink">
+<a href="/finance/stocks/companyNews?symbol=MMM">» More MMM News</a></div></div>
+</div>
+<script>
+	var topStoryGrid = $('#topStory').find('.grid8');
+	if (topStoryGrid.hasClass('grid8')) {
+	    if ($('#latestHeadlines')) {
+	        $('#latestHeadlines').remove();
+	    }
+	};
+</script>
+<div class="module">
+<div class="moduleHeader">
+<h3>
+					Institutional Holders</h3>
+</div>
+<div class="moduleBody">
+<table cellpadding="0" cellspacing="1" class="dataTable" width="100%">
+<tbody class="dataSmall">
+<tr class="stripe">
+<td><strong>% Shares Owned:</strong></td>
+<td class="data">67.15%</td>
+</tr>
+<tr>
+<td><strong># of Holders:</strong></td>
+<td class="data">2,019</td>
+</tr>
+
+<tr class="stripe">
+<td><strong>Total Shares Held:</strong></td>
+<td class="data">407,264,031</td>
+</tr>
+<tr>
+<td><strong>3 Mo. Net Change: </strong></td>
+<td class="data">
+<span class="changeUp">-3,655,233</span>
+</td>
+</tr>
+<tr class="stripe">
+<td><strong># New Positions:</strong></td>
+<td class="data">100</td>
+</tr>
+<tr>
+<td><strong># Closed Positions:</strong></td>
+<td class="data">68</td>
+</tr>
+<tr class="stripe">
+<td><strong># Increased Positions:</strong></td>
+<td class="data">762</td>
+</tr>
+<tr>
+<td><strong># Reduced Positions:</strong></td>
+<td class="data">812</td>
+</tr>
+<tr class="stripe">
+<td><strong># Net Buyers:</strong></td>
+<td class="data">
+<span class="changeUp">-50</span>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="footnote">NYSE and AMEX quotes delayed by at least 20 minutes. NASDAQ delayed by at least 15 minutes. For a complete list of exchanges and delays, please <a href="javascript:Reuters.utils.popup('/info/disclaimer', 540, 525, 3, 'bottomNav')">click here</a>.</div></div>
+</div>
+<div id="div_gpt_mpulow"><div class="ad" id="mpulow">
+<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'mpulow' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('mpulow' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('mpulow' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('mpulow' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_mpulow", dz_final, [[300, 250],[300,600],[1,1]], "type=mpulow;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('mpulow' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_mpulow", dz_final, [[300, 250],[300,600],[1,1]], "type=mpulow;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_mpulow", dz_final, [[300, 250],[300,600],[1,1]], "type=mpulow;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_mpulow", dz_final, [[300, 250],[300,600],[1,1]], "type=mpulow;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+</div>
+</div><div class="linebreak"></div>
+</div>
+<div class="column3">
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<div class="sectionContent">
+<div class="sectionColumns">
+<div class="gridPanel grid12">
+<div id="footerTopicTarget"></div><div id="footerTopics">
+<div class="sectionRelatedTopics">
+<ul>
+<h3>Related Topics: </h3>
+<li><a href="/finance/stocks">Stocks</a></li><li><a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp">Stock Screener</a></li><li><a href="/finance/global-market-data">Market Data</a></li><li><a href="/sectors/industrials">Industrials</a></li><li><a href="/sectors/industries/overview?industryCode=55">Industrial Conglomerates</a></li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<section class="footer">
+<div class="group wrap" id="">
+<div id="section-follow-buttons"><span class="footer-follow">Follow Reuters: </span>
+<ul>
+<li id="foot-twitter"><a href="http://www.twitter.com/reuters" target="_blank"><span class="follow-button follow-twitter">Follow Us On Twitter</span></a></li>
+<li id="foot-facebook"><a href="http://www.facebook.com/Reuters" target="_blank"><span class="follow-button follow-facebook">Follow Us On Facebook</span></a></li>
+<li id="foot-rssfeed"><a href="http://www.reuters.com/tools/rss" target="_blank"><span class="follow-button follow-rss">Follow Us On RSS</span></a></li>
+<li id="foot-instagram"><a href=" https://instagram.com/reuters/" target="_blank"><span class="follow-button follow-instagram">Follow Us On Instagram</span></a></li>
+<li id="foot-youtube"><a href="https://www.youtube.com/user/ReutersVideo" target="_blank"><span class="follow-button follow-youtube">Follow Us On YouTube</span></a></li>
+<li id="foot-linkedin"><a href="https://www.linkedin.com/company/thomson-reuters_1400" target="_blank"><span class="follow-button follow-linkedin">Follow Us On LinkedIn</span></a></li>
+<!-- <li id="foot-newsletters"><a href="http://newslink.reuters.com/join/subscribe" target="_blank"><span class="follow-button follow-newsletter">Follow Us On NewsLetters</span></a></li> -->
+</ul></div><div class="footer-more-links"><span>
+<span class="footer-more">Subscribe: </span>
+<a href="http://www.reuters.com/tools/rss">Feeds</a> | <a href="http://newslink.reuters.com/join/subscribe">Newsletters</a> | <a href="/tools/podcasts">Podcasts</a> | <a href="/tools/mobile">Apps</a>
+</span></div></div>
+</section><section class="footer-body">
+<div class="group wrap" id="">
+<div class="footer-services-link"><!-- <span class="footer-services">Reuters Services</span>
+<a href="http://agency.reuters.com">Reuters News Agency</a> | <a href="http://agency.reuters.com/en/platforms-delivery/reuters-brand-attribution-guidelines.html">Brand Attribution Guidelines</a> -->
+<a href="http://agency.reuters.com" target="_blank">Reuters News Agency</a> | <a href="http://agency.reuters.com/en/platforms-delivery/reuters-brand-attribution-guidelines.html" target="_blank">Brand Attribution Guidelines</a> | <a href="http://thomsonreuters.com/site/delivery-options/" target="_blank">Delivery Options</a></div><div class="disclaimer"><div class="footer-summary">
+<!--  <p class="footer-summary-title">News and Media Division of <a href="http://thomsonreuters.com/" target="_blank">Thomson Reuters</a></p>
+      <p>Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual funds information available on Reuters.com, video, mobile, and interactive television platforms. Thomson Reuters journalists are subject to an <a href="http://handbook.reuters.com/index.php?title=Main_Page">Editorial Handbook</a> which requires fair presentation and disclosure of relevant interests.</p>
+      <p>NYSE and AMEX quotes delayed by at least 20 minutes. Nasdaq delayed by at least 15 minutes. For a complete list of exchanges and delays, please <a href="/info/disclaimer">click here</a>.</p> -->
+<p>Reuters is the news and media division of <a href="http://thomsonreuters.com/" target="_blank">Thomson Reuters</a>. Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual funds information available on Reuters.com, video, mobile, and interactive television platforms. Learn more about Thomson Reuters products:</p>
+</div></div><div class="product-container">
+<a href="http://financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software.html" target="_blank">
+<div class="product">
+<div class="prod-title">Eikon</div>
+<div class="prod-content">Information, analytics and exclusive news on financial markets - delivered in an intuitive desktop and mobile interface 
+        </div>
+</div>
+</a>
+<a href="http://financial.thomsonreuters.com/en/products/infrastructure/trading-infrastructure/elektron-enterprise-data-management.html" target="_blank">
+<div class="product">
+<div class="prod-title">Elektron</div>
+<div class="prod-content">Everything you need to empower your workflow and enhance your entreprise data management 
+      </div>
+</div>
+</a>
+<a href="https://risk.thomsonreuters.com/products/world-check" target="_blank">
+<div class="product">
+<div class="prod-title">World-Check</div>
+<div class="prod-content">Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks 
+      </div>
+</div>
+</a>
+<a href="http://legalsolutions.thomsonreuters.com/law-products/westlaw-legal-research/" target="_blank">
+<div class="product">
+<div class="prod-title">Westlaw</div>
+<div class="prod-content">The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs  
+      </div>
+</div>
+</a>
+<a href="https://tax.thomsonreuters.com/products/brands/onesource/" target="_blank">
+<div class="product">
+<div class="prod-title">ONESOURCE</div>
+<div class="prod-content">Information, analytics and exclusive news on financial markets - delivered in an intuitive desktop and mobile interface 
+      </div>
+</div>
+</a>
+<a href="https://tax.thomsonreuters.com/products/brands/checkpoint/" target="_blank">
+<div class="product prod-last">
+<div class="prod-title">CHECKPOINT</div>
+<div class="prod-content">The industry leader for online information for tax, accounting and finance professionals 
+      </div>
+</div>
+</a>
+</div><div class="linebreak"></div>
+<div class="footer-policy-links">
+<p> All quotes delayed a minimum of 15 minutes. <a href="/info/disclaimer">See here for a complete list</a> of exchanges and delays. </p>
+<div class="footer-policies">
+<ul>
+<li class="h-links">
+<div class="reuters-copyright">
+<script type="text/javascript">
+            var year = new Date();
+            document.write('<a href="http://thomsonreuters.com/copyright/">&copy;  ' + year.getFullYear() + ' Reuters. All Rights Reserved.</a>');
+        </script>
+</div>
+</li>
+<li class="h-links"><a href="http://reuters.zendesk.com/" target="_blank">Site Feedback</a></li>
+<li class="h-links"><a href="https://reuters.zendesk.com/anonymous_requests/new" target="_blank">Corrections</a></li>
+<li class="h-links"><a href="http://sales.reuters.com/">Advertise With Us</a></li>
+<li class="h-links"><a href="/advertising-guidelines">Advertising Guidelines</a></li>
+<li class="h-links"><a href="#" id="_bapw-link"><img align="top" border="0" id="_bapw-icon" src="https://cdn.betrad.com/pub/icon1.png" width="11"/> AdChoices</a></li>
+<li class="h-links"><a href="/terms-of-use">Terms of Use</a></li>
+<li class="h-links h-links-last"><a href="/privacy-policy">Privacy Policy</a></li>
+<!-- <li class="h-links"><a href="http://reuters.zendesk.com/" target="_blank">Site Feedback</a></li>
+<li class="h-links"><a href="https://reuters.zendesk.com/anonymous_requests/new" target="_blank">Corrections</a></li>
+<li class="h-links"><a href="http://sales.reuters.com/">Advertise With Us</a></li>
+<li class="h-links"><a href="/advertising-guidelines">Advertising Guidelines</a></li>
+<li class="h-links"><a href="#" id="_bapw-link" ><img id="_bapw-icon" border="0" width="11" align="top" src="https://cdn.betrad.com/pub/icon1.png" /> AdChoices</a></li>
+<li class="h-links"><a href="/terms-of-use">Terms of Use</a></li>
+<li class="h-links"><a href="/privacy-policy">Privacy Policy</a></li>
+ <li class="h-links"><a href="http://thomsonreuters.com/copyright/">Copyright</a></li> -->
+</ul>
+<script type="text/javascript">
+!function(){function e(e){var o=new Image;o.src=r+"l.betrad.com/pub/p.gif?pid="+n+"&ocid="+t+"&i"+e+"=1&r="+Math.random()}var n=285,t=1237,o=!1,a=document,i=a.getElementById("_bapw-link"),c="https:"==a.location.protocol,r=(c?"https":"http")+"://",d=r+(c?"a248.e.akamai.net/betterad.download.akamai.com/91609":"cdn.betrad.com")+"/pub/";a.getElementById("_bapw-icon").src=d+"icon1.png",i.onmouseover=function(){/#$/.test(i.href)&&(i.href="http://info.evidon.com/pub_info/"+n+"?v=1")},i.onclick=function(){function c(e,n){function t(){r.onload=r.onreadystatechange=null,i.removeChild(r),n()}var i=a.getElementsByTagName("head")[0]||a.documentElement,c=o,r=a.createElement("script");r.src=e,r.onreadystatechange=function(){c||"loaded"!=this.readyState&&"complete"!=this.readyState||(c=!0,t())},r.onload=t,i.insertBefore(r,i.firstChild)}var l=window._bap_p_overrides;return l&&l.hasOwnProperty(n)&&l[n].new_window?(e("c"),!0):(this.onclick="return "+o,c(r+"ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js",function(){c(d+"pub2.js",function(){BAPW.i(i,{pid:n,ocid:t})})}),o)},e("i")}();
+</script>
+</div>
+<!-- <div class="reuters-copyright">
+&copy; 2016 Reuters All Rights Reserved
+</div> --></div><script async data-cfasync="false" src="https://api.b2c.com/api/init-97nl8esjtnxj40gyn4.js"></script>
+<noscript><img src="https://api.b2c.com/api/noscript-97nl8esjtnxj40gyn4.gif"/></noscript><div class="linebreak"></div>
+</div>
+</section>
+</footer>
+<script src="http://s2.reutersmedia.net/resources_v2/js/core-base.js" type="text/javascript"></script>
+<script src="http://s3.reutersmedia.net/resources_v2/js/core-login.js" type="text/javascript"></script>
+<script src="http://s4.reutersmedia.net/resources_v2/js/core-header.js" type="text/javascript"></script>
+<script src="http://s2.reutersmedia.net/resources_v2/js/core-tracking.js" type="text/javascript"></script>
+<script src="http://s2.reutersmedia.net/resources_v2/js/rcom-social-share.js" type="text/javascript"></script>
+<script language="javascript" src="http://www.reuters.com/reuters_gpt_bootstrap_footer.js" type="text/javascript"></script>
+</body>
+<section>
+<div class="group" id="">
+<script type="text/javascript">
+        var _sf_startpt = (new Date()).getTime();
+        var _sf_async_config = _sf_async_config || {};
+        
+        _sf_async_config.sections = 'Stocks'; 
+        _sf_async_config.autoDetect = false;
+        
+        _sf_async_config.authors = 'Reuters Editorial'; 
+        _sf_async_config.type = 'Markets'; 
+
+        (function(){
+          function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+            document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+             loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    </script>
+</div>
+</section>
+</html>
+
