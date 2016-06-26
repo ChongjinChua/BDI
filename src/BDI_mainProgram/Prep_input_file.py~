@@ -11,10 +11,110 @@ import sys
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 from PyQt4.QtWebKit import *
+from bs4 import *
 import pandas
+import requests
+'''
+class MS_Render(QWebPage):
+  def __init__(self, cb):
+    self.app = QApplication(sys.argv)  
+    QWebPage.__init__(self)  
+    self.loadFinished.connect(self._loadFinished)  
+    self.html_list = []
+    self.cb = cb
+
+  def load(self, urls):
+    self.urls = urls
+    self.crawl()
+    self.app.exec_()
+
+  def crawl(self):
+    print("crawling...")
+    if self.urls:
+      url = self.urls.pop(0)
+      print("Downloading {0}...".format(url))      
+      self.mainFrame().load(QUrl(url))
+    else:
+      #self.app.quit() needs to be called before loading next url
+      self.app.quit()
+      print("Done with Rendering MorningStar!")
+    
+  def _loadFinished(self, result):
+    print("finished loading!")
+    frame = self.mainFrame()  
+    url = str(frame.url().toString())
+    html = frame.toHtml()
+    self.html_list.append(html)
+    self.cb(url, html)
+    self.crawl()
+'''
 
 class Render(QWebPage):
+  def __init__(self, symbols, cb):
+    self.app = QApplication(sys.argv)
+    QWebPage.__init__(self)
+    self.loadFinished.connect(self._loadFinished)
+    self.symbols = symbols
+    self.num_symbols = len(self.symbols)
+    self.cb = cb
+    self.ms_urls = []
+    self.r_urls = []
+    self.crawl()
+    self.app.exec_()
 
+  def crawl(self):
+
+    if self.ms_urls:
+      url = self.ms_urls.pop(0)
+      print("Downloading {0}...".format(url))      
+      self.mainFrame().load(QUrl(url))
+      
+    else if self.r_urls:
+      url = self.r_urls.pop(0)
+      print("Downloading {0}...".format(url))
+      r = requests.get(url,headers={'User-Agent':'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0'})
+      html_list.append(BeautifulSoup(r.text,'html.parser'))
+      
+    else:
+      #this chunk of code is stolen from 
+      for symbol, has_more
+      #self.app.quit() needs to be called before loading next url
+      self.app.quit()
+      print("Done with Rendering MorningStar!")
+
+    for symbol in symbols[0:3]:
+      MS_url1 = MS_is_head + symbol + MS_tail
+      MS_url2 = MS_bs_head + symbol + MS_tail
+      MS_url3 = MS_cf_head + symbol + MS_tail
+      MS_url4 = MS_r_head + symbol + MS_tail
+      R_url1 = R_fh_head + symbol
+      R_url2 = R_o_head + symbol
+      MS_url_list = [MS_url1]#,MS_url2,MS_url3,MS_url4]
+      R_url_list = [R_url1,R_url2]
+
+  def lookahead(self,symbols):
+    #make iterable 'symbols' into an iterator
+    it = iter(symbols)
+    #get the first element
+    last = next(it)
+    
+    for cur in it: #starting from second element
+      yield last,True
+      last = cur
+    #report last value
+    yield last,False
+
+def scrape(url, html):
+    pass # add scraping code here
+
+def R_Render(R_url_list):
+  html_list = []
+  for url in R_url_list:
+    print("Downloading {0}...".format(url))
+    r = requests.get(url,headers={'User-Agent':'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0'})
+    html_list.append(BeautifulSoup(r.text,'html.parser'))
+
+  return html_list
 
 csvfile = "../../input_files/constituents-financials.csv"
 MS_is_head = "http://financials.morningstar.com/income-statement/is.html?t="
@@ -27,16 +127,34 @@ R_o_head = "http://www.reuters.com/finance/stocks/overview?symbol="
 
 data = pandas.read_csv(csvfile)
 symbols = data.Symbol.tolist()
+ms = MS_Render(cb=scrape)
+print("done initializing")
 
-url_list = []
-for symbol in symbols[0:2]:
+for symbol in symbols[0:3]:
     MS_url1 = MS_is_head + symbol + MS_tail
     MS_url2 = MS_bs_head + symbol + MS_tail
     MS_url3 = MS_cf_head + symbol + MS_tail
     MS_url4 = MS_r_head + symbol + MS_tail
     R_url1 = R_fh_head + symbol
     R_url2 = R_o_head + symbol
-    url_list.append(tuple([MS_url1,MS_url2,MS_url3,MS_url4,R_url1,R_url2]))
+    MS_url_list = [MS_url1]#,MS_url2,MS_url3,MS_url4]
+    R_url_list = [R_url1,R_url2]
 
-    html1 = 
+    print("Rendering MorningStar webpage...")
+    ms.load(MS_url_list)
+    print("Rendering Reuters webpage...")
+    r = R_Render(R_url_list)
+
+    print(len(ms.html_list))
+    print(len(r))
+
+'''
+for item in ms.html_list:
+   print(item)
+   print("-----------------------------------------\n-------------------------------------------\n---------------------------------------\n-----------------------------------------")
+
+for item in r:
+   print(item)
+   print("-----------------------------------------\n-------------------------------------------\n---------------------------------------\n-----------------------------------------")
+'''
 

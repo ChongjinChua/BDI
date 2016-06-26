@@ -9,4 +9,4 @@ r = requests.get('http://www.reuters.com/finance/stocks/financialHighlights?symb
 html = r.text
 page = BeautifulSoup(html,'html.parser')
 #data = page.find('tr',{'class':'gr_table_row4'})
-print(page)
+print(type(html))
