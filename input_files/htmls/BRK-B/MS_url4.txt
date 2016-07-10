@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="//im.mstar.com/css/reports.css" rel="stylesheet" type="text/css">
+<title>Data Definitions</title>
+<script type="text/javascript">window.onerror=function(msg){$("body").attr("JSError",msg);}</script>
+<style>
+body {
+	background:#fdfdfd;
+	margin:0;
+	padding:0;
+}
+</style>
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<script type="text/javascript">window.onerror=function(msg){$("body").attr("JSError",msg);}</script>
+</head>
+<body>
+<div class="r_defwrap r_txt6" id="top">
+  <div class="r_txt1">Stock Data Definitions</div>
+  <div class="r_txt5">Key Ratios</div>
+  <div class="hspacer1"></div>
+  <ul class="alpha_sort">
+    <li> <a href="#number"> # </a> </li>
+    <li> <a href="#a" class="active"> A </a> </li>
+    <li> <a href="#b" class="active"> B </a> </li>
+    <li> <a href="#c" class="active"> C </a> </li>
+    <li> <a href="#d" class="active"> D </a> </li>
+    <li> <a href="#e" class="active"> E </a> </li>
+    <li> <a href="#f" class="active"> F </a> </li>
+    <li> <a href="#g" class="active"> G </a> </li>
+    <li> <a href="#h"> H </a> </li>
+    <li> <a href="#i" class="active"> I </a> </li>
+    <li> <a href="#j"> J </a> </li>
+    <li> <a href="#k"> K </a> </li>
+    <li> <a href="#l" class="active"> L </a> </li>
+    <li> <a href="#m"> M </a> </li>
+    <li> <a href="#n" class="active"> N </a> </li>
+    <li> <a href="#o" class="active"> O </a> </li>
+    <li> <a href="#p" class="active"> P </a> </li>
+    <li> <a href="#q" class="active"> Q </a> </li>
+    <li> <a href="#r" class="active"> R </a> </li>
+    <li> <a href="#s" class="active"> S </a> </li>
+    <li> <a href="#t" class="active"> T </a> </li>
+    <li> <a href="#u"> U </a> </li>
+    <li> <a href="#v"> V </a> </li>
+    <li> <a href="#w" class="active"> W </a> </li>
+    <li> <a href="#x"> X </a> </li>
+    <li> <a href="#y"> Y </a> </li>
+    <li> <a href="#z"> Z </a> </li>
+  </ul>
+  <div class="row2">
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="a"> A </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Account Payable</span> <br>
+        Debts owed by a company or other party for goods or services that are payable within one year. </p>
+    </div>
+    <p> <span class="str">Account Receivable</span> <br>
+      Debts owed to a company or other party for goods or services that are payable within one year. </p>
+    <p> <span class="str">Accrued Liabilities</span> <br>
+      Liabilities recognized by firm even though related payables have future due dates. </p>
+    <p> <span class="str">Asset Turnover</span> <br>
+      This figure represents how many dollars in revenue a company has generated per dollar of assets. Asset Turnover is calculated by dividing total revenues for the period by total assets for the same period. In comparison, the industry average and S&amp;P 500 are shown for the most recent fiscal year. Asset turnover can give an indication of how efficient a company is. A high asset turnover, which expresses how many times a company sells, or turns over, its assets in a year is a sign of high efficiency. </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="b"> B </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Book Value</span> <br>
+        The value of a security on the day of purchase or the acquisition value.
+        
+        Also refers to the amount of net assets belonging to the owners of a business based on the balance sheet values. Book value can be a useful guide in determining under-valued stocks. </p>
+    </div>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="c"> C </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Capital Expenditures</span> <br>
+        Capital expenditure makes up a company's tangible expenditures that are expected to benefit future periods. These physical assets include property, industrial buildings and equipment. </p>
+    </div>
+    <p> <span class="str">Cash</span> <br>
+      Cash refers to short-term, safe investments. 
+      
+      You can get your hands on cash relatively quickly. Examples include savings accounts, money-market accounts, and short-term CDs. 
+      
+      Cash, while safe, typically doesn’t earn as much as stocks or bonds.
+      
+      Hence, cash is the most liquid form of investment. </p>
+    <p> <span class="str">Cash Flow from Operations</span> <br>
+      Cash flow before any investment or financing activities. If a company cannot generate adequate operating cash flow, it may need to rely on outside funding to meet its financial obligations.
+      
+      Cash flow from operations is the cash version of net income. Net income figures include non cash costs such as depreciation and excludes other cash expenditures, such as purchases of plants or equipment.
+      
+      Cash flow adjusts the income figures to a cash basis. Cash flow from operations is cash flow after adjusting for operating differences such as depreciation, but before adjusting for investments (such as purchases of plants or equipment) or financing. This information is taken directly from the cash-flow statement of the company's most-recent annual report.
+      
+      Example: A media company posts net income of only $73 million. Its cash flow from operations, on the other hand, is $1.4 billion. (The reason: Big depreciation and amortization charges weigh down net income, but since they really aren't cash outlays, these changes have no effect on cash flow.) The company is a much healthier company than its net income would lead you to believe.
+      
+      Many investors focus on cash flow from operations instead of net income because there's less room for management to manipulate, or accounting rules to distort, cash flow.
+      
+      If net income is much larger than cash flow from operations, it's a signal that the company's earnings quality-the usefulness of earnings-is questionable.
+      
+      If cash flow from operations exceeds net income, on the other hand, the company may be much healthier than its net income suggests. That's why many investors, when they try to value a stock, will use the price/cash-flow ratio the share price divided by cash flow from operations per share-instead of the P/E ratio. </p>
+    <p> <span class="str">Cost of Good Sold (COGS)</span> <br>
+      Cost of goods sold (COGS for short) is the expense a company incurred in order to manufacture, create, or sell a product. It includes the purchase price of the raw material as well as the expenses of turning it into a product. Cost of goods sold (COGS) is also known as cost of revenue or cost of sales. </p>
+    <p> <span class="str">Current Assets</span> <br>
+      Cash plus any assets that a company expects to convert to cash within a year, such as short-term investments, accounts receivable, and inventories. The current assets figure doesn’t mean much in isolation, but in comparison with current liabilities (see Current Ratio), it’s a good measure of a company’s short-term liquidity. </p>
+    <p> <span class="str">Current Liabilities</span> <br>
+      Liabilities that a company expects to pay within a year, such as short-term debt, accounts payable, and interest payable. The current liabilities figure doesn’t mean much in isolation, but in comparison with current assets (see Current Ratio) it’s a good measure of a company’s short-term liquidity. </p>
+    <p> <span class="str">Current Ratio</span> <br>
+      Current assets of a company divided by current liabilities. The ratio shows the company's ability to pay its current obligations. This ratio is used to determine how much cash is available to cover its current liabilities.
+      
+      This concept is also known as working captital ratio. </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="d"> D </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Days Inventory</span> <br>
+        The number of days in inventory, also referred to as inventory holding period and average inventory period, is an indication of how a company is keeping up with demand for its product.
+        
+        Calculation
+        Days in Inventory = 365 / Inventory Turnover
+        
+        For the Pros
+        A low ratio shows that a company is not keeping enough inventory to meet demand. A high ratio indicates that there is low demand for the product being sold. </p>
+    </div>
+    <p> <span class="str">Days Sales Outstanding</span> <br>
+      Number of days in period divided by the company's receivable turnover.
+      
+      Calculation: Days in Sales = 365 / Receivable Turnover </p>
+    <p> <span class="str">Debt/Equity</span> <br>
+      A measure of a company's financial leverage calculated by dividing its total liabilities by stockholders' equity. It indicates what proportion of equity and debt the company is using to finance its assets.
+      
+      Note: Sometimes only interest-bearing, long-term debt is used instead of total liabilities in the calculation. </p>
+    <p> <span class="str">Dividends</span> <br>
+      The trailing one- and three-year annualized growth rates in dividends per share. Increasing dividends is usually a signal that management has confidence in the company's continued earnings power. Dividend growth—especially growth that has been steady from year to year—is a good sign for those investing for income. </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="e"> E </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Earnings Per Share (EPS)</span> <br>
+        How much profit a company has made per share within a given period.
+        
+        EPS is a fairly arbitrary number by itself, because the company can control the number of shares outstanding through splits and buybacks.
+        
+        But comparing a company’s most recent EPS to its EPS in previous years and quarters (adjusted for any splits) is one of the most common ways of telling how fast the company’s profits are growing. </p>
+    </div>
+    <p> <span class="str">EBT Margin</span> <br>
+      EBT Margin refers to the ratio of earnings before tax (EBT) to sales revenue. It's a measure of the company's performance before the deduction of income taxes. It can also be expressed as (1 - tax rate) </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="f"> F </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Financial Leverage</span> <br>
+        Financial leverage is defined as total assets divided by total shareholders' equity. The higher the ratio, the more debt a company uses in its capital structure. For comparison, the industry average and S&amp;P 500 average are shown for the most recent fiscal year. </p>
+    </div>
+    <p> <span class="str">Fixed Assets Turnover</span> <br>
+      This figure represents how many dollars in revenue a company has generated per dollar of fixed assets. Fixed Assets Turnover is calculated by dividing total revenues for the period by total fixed assets for the same period. </p>
+    <p> <span class="str">Free Cash Flow</span> <br>
+      Equal to operating cash flow minus capital spending.
+      
+      Free cash flow represents the cash a company has left over after investing in the growth of its business.
+      
+      Young, aggressive companies often have negative free cash flow, because they’re investing heavily in their futures. As companies mature, though, they should start generating free cash flow. </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="g"> G </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Gross Margin</span> <br>
+        Gross Margin refers to the ratio of gross profit to sales revenue. It represents the percent of total revenue that the company retains after the costs of production have been paid. It's an important measure of the profitability of the company's core operations, aside from depreciation and other machinations and contingencies. </p>
+    </div>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="i"> I </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Intangibles</span> <br>
+        Intangible assets are assets that cannot be physically identified, such as goodwill, patents, and trademarks. 
+        
+        Intangible assets lack physical form, and their market value is not easily obtained: they are usually unique and hence not traded in the marketplace. 
+        
+        Because price signals cannot be used to value an intangible asset, complicated valuation techniques often must be employed. </p>
+    </div>
+    <p> <span class="str">Inventory</span> <br>
+      Inventory is the balance in an asset account, such as raw materials, supplies, work-in-process, and finished goods. </p>
+    <p> <span class="str">Inventory Turnover</span> <br>
+      Inventory turnover ratio indicates how fast firms sell their inventory items, measured in terms of rate of movement of goods into and out of the firm.
+      
+      Calculation
+      Inventory Turnover Ratio = (Cost of goods sold) / (Average Inventory)
+      
+      For the Pros
+      Some analysts calculate the inventory turnover ratio by dividing sales, rather than cost of goods sold, by the average inventory. </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="l"> L </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Long-Term Assets</span> <br>
+        Also known as Noncurrent Assets </p>
+    </div>
+    <p> <span class="str">Long-Term Debt</span> <br>
+      Money that a company has borrowed for a period of time longer than a year. 
+      
+      A company’s long-term debt has little relevance as a raw number, but when compared with shareholders’ equity, it’s a good measure of how leveraged the company is. 
+      
+      An excessive amount of long-term debt is dangerous, because the interest on that debt must be paid no matter how well the business is doing. Also, rising longterm debt over time is a warning sign. </p>
+    <p> <span class="str">Long-Term Liabilities</span> <br>
+      Also known as Noncurrent Liabilities </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="n"> N </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Net Income</span> <br>
+        The difference when subtracting all expenses and losses of a period from all revenues and gains of the period. Sometimes referred to as earnings. </p>
+    </div>
+    <p> <span class="str">Net Margin</span> <br>
+      This figure is a measure of profitability. 
+      
+      It is equal to annual net income divided by revenues over the trailing 12 months. The resulting figure is then multiplied by 100. This figure gives a more accurate picture of a company's recent performance than the most-recent annual net margin figure, which may be more than a year old. The company's net income and revenues are found in the income statement of its annual report and recent 10-Qs. 
+      
+      Example: A major retailer's net margin declined from 7.7% to 2.9% over a four year period. Over the trailing 12 months, the company's net margin continued to decline, to 2.5%. </p>
+    <p> <span class="str">Noncurrent Assets</span> <br>
+      Assets that the company expects to keep for more than one year.
+      
+      They include plants and equipment, long-term investments, goodwill and other intangibles, and deferred costs.
+      
+      Noncurrent assets plus current assets equal total assets. </p>
+    <p> <span class="str">Noncurrent Liabilities</span> <br>
+      Money a company owes, but not until one year or more in the future.
+      
+      Although a variety of line items can appear under this heading, the most important one by far is long-term debt. In fact, noncurrent liabilities can be used in a pinch as a proxy for a company’s long-term debt. </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="o"> O </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Operating Income</span> <br>
+        The gross profit less operating expenses, as reported by the company for each of the past five fiscal years. Gross profit is equal to revenues minus costs of goods sold or costs of services provided.
+        
+        Operating Expenses are expenses incurred within the normal operations of a business. These include selling, general, and administrative expenses, and also depreciation and amortization of fixed assets. Operating Income excludes interest income and interest expense. </p>
+    </div>
+    <p> <span class="str">Operating Margin %</span> <br>
+      Operating Margin refers to the ratio of operating income (or earnings before interest and taxes EBIT) to sales revenue. It represents the percent of total revenue that the company retains from ordinary business activities, excludes expenses, such as interest and taxes </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="p"> P </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Payables Period</span> <br>
+        Number of days in period divided by the company's payables turnover.
+        
+        Calculation: Payables Period = 365 / Payables Turnover </p>
+    </div>
+    <p> <span class="str">Property, Plant and Equipment</span> <br>
+      Property, Plant and Equipment (PPE) is a balance sheet’s item, which represents all owned property, plant &amp; equipment of the company before depreciation, amortization and depletion. </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="q"> Q </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Quick Ratio</span> <br>
+        Equal to a company’s current assets minus inventory, divided by current liabilities. The quick ratio measures a company’s balance-sheet liquidity. </p>
+    </div>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="r"> R </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Receivables Turnover</span> <br>
+        Receivable turnover indicates the effectiveness of a firm in collecting debts and extending credit.
+        
+        Calculation
+        Receivable Turnover = Revenue / Average (Receivable - Notes Receivable) </p>
+    </div>
+    <p> <span class="str">Research and Development (R&amp;D)</span> <br>
+      Investigative activities that a business chooses to conduct with the intention of making a discovery that can either lead to the development of new products or procedures, or to improvement of existing products or procedures. Research and development is one of the means by which business can experience future growth by developing new products or processes to improve and expand their operations. </p>
+    <p> <span class="str">Return on Assets (ROA)</span> <br>
+      This figure is the percentage a company earns on its assets in a given year (Year 1, 2, etc.). 
+      
+      The calculation is net income divided by average total assets. The resulting figure is then multiplied by 100. ROA shows how much profit a company generates on its asset base. The better the company, the more profit it generates as a percentage of its assets. The company's net income is found in the annual income statement. The company's total assets are found in the annual balance sheet. 
+      
+      For example, a major software company was earning more than 20% on its assets-an incredible level of profitability. For every $1 of assets, the company was able to produce more than $0.20 of profits. </p>
+    <p> <span class="str">Return on Equity (ROE)</span> <br>
+      This is the percentage a company earns on its total equity in a given year (Year 1, 2, etc.). The calculation is return on assets times financial leverage. 
+      
+      Return on equity shows how much profit a company generates on the money shareholders have invested in the firm. The mission of any company is to earn a high return on equity. The company's net income is found in the annual income statement. The company's net worth is taken from the company's annual balance sheet. 
+      
+      For example, a major pharmaceutical company earned an incredible 37% on its shareholders' equity. For every $1 shareholders had invested in the company, the company produced $0.37 worth of profit. </p>
+    <p> <span class="str">Return on Invested Capital (ROIC)</span> <br>
+      This figure is the percentage a company earns on its invested capital in a given year (Year 1, 2, etc.).
+      
+      The calculation is net income divided by average invested capital. The resulting figure is then multiplied by 100. Invested capital equals the sum of total stockholders’ equity, long-term debt and capital lease obligation, and short-term debt and capital lease obligation. ROIC shows how much profit a company generates on its capital base. The better the company, the more profit it generates as a percentage of its invested capital. The company’s net income is found in the income statement. The components of the company’s invested capital are found in the balance sheet. </p>
+    <p> <span class="str">Revenue</span> <br>
+      Income that a company receives from its normal business activities; for example, from the sales of goods and services. </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="s"> S </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Selling, General and Administrative (SG&amp;A)</span> <br>
+        Selling, General and Administrative includes a company's general and administrative expenses, as well as the sum of all indirect and direct selling expenses. This information is reported in a company's income statement. </p>
+    </div>
+    <p> <span class="str">Shares Outstanding</span> <br>
+      The average number of shares a public company had on the market during a certain period of time, usually a quarter or a year. This figure is used to calculate earnings per share and other per-share numbers. </p>
+    <p> <span class="str">Short-Term Debt</span> <br>
+      Short term debts are defined as those debts that are to be paid within 1 year. Although short-term debts are due within a year, there may be a portion of the long-term debt included in this account. This portion pertains to payments that must be made on any long-term debt throughout the year. </p>
+    <p> <span class="str">Short-Term Investments</span> <br>
+      An account in the current assets section of a company's balance sheet. This account contains any investments that a company has made that will expire within one year. For the most part, these accounts contain stocks and bonds that can be liquidated fairly quickly. </p>
+    <p> <span class="str">Short-Term Liabilities</span> <br>
+      Also known as Current Liabilities </p>
+    <p> <span class="str">Stockholders' Equity</span> <br>
+      Ownership interest in a corporation in the form of common stock and preferred stock. </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="t"> T </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Tax Rate</span> <br>
+        This represents the percentage of earnings before taxes that are paid in taxes. It is calculated by dividing earnings before taxes by taxes paid. The tax rate measures a company's tax efficiency. </p>
+    </div>
+    <p> <span class="str">Taxes Payable</span> <br>
+      The estimated liability for income taxes, accumulated and unpaid, based on the taxable income of the business from the beginning of the taxable year to the date of the balance sheet. </p>
+    <p> <span class="str">Total Assets</span> <br>
+      The sum of current and noncurrent assets </p>
+    <p> <span class="str">Total Liabilities</span> <br>
+      The sum of current and noncurrent liabilities </p>
+    <div class="hspacer1"></div>
+    <a class="sub_link" href="#top">Back to Top</a> <span class="gry_2 r_txt5" id="w"> W </span>
+    <div class="row2">
+      <div class="hspacer6"></div>
+      <p> <span class="str">Working Capital</span> <br>
+        Working Capital is a measure of both a company's efficiency and its short-term financial health. The working capital ratio is calculated as current assets minus current liabilities. Positive working capital means that the company is able to pay off its short-term liabilities. Negative working capital means that a company currently is unable to meet its short-term liabilities with its current assets. </p>
+    </div>
+    <div class="r_txt1">© Copyright <script type="text/javascript">var now = new Date();var year = now.getFullYear();document.write(year);</script>2016 Morningstar, Inc. All rights reserved.</div>
+  </div>
+</div>
+
+</body></html>

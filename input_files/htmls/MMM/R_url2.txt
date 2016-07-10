@@ -1,8 +1,8 @@
 <!--[if !IE]> This has been served from cache <![endif]-->
-<!--[if !IE]> Request served from apache server: S264630NJ2XSF14 <![endif]-->
-<!--[if !IE]> Cached on Sun, 26 Jun 2016 05:57:24 GMT and will expire on Sun, 26 Jun 2016 06:02:24 GMT <![endif]-->
-<!--[if !IE]> token: b3037bbb-39fb-48f4-96f6-64ec8fd7135a <![endif]-->
-<!--[if !IE]> CSTAT-UUID: 08ab081c-6e2d-485e-b40c-91454ae0b125 <![endif]-->
+<!--[if !IE]> Request served from apache server: S264630NJ2XSF02 <![endif]-->
+<!--[if !IE]> Cached on Sun, 26 Jun 2016 15:30:52 GMT and will expire on Sun, 26 Jun 2016 15:35:51 GMT <![endif]-->
+<!--[if !IE]> token: b8123f30-ed46-44e9-b790-4d40ea822767 <![endif]-->
+<!--[if !IE]> CSTAT-UUID: 16336b75-d551-4cf7-a9d6-0d6b975921e0 <![endif]-->
 <!--[if !IE]> App Server /S264630NJ2XSF48/ <![endif]-->
 
 <!doctype html>
@@ -1363,14 +1363,14 @@ float: right;
 			<div class="sectionQuoteDetail">
 				<span>Avg. Vol</span>
 				<br class="clear">
-				<span>1,950,435</span>
+				<span>1,973,593</span>
 			</div>
 		</div>
 		<div class="sectionQuote">
 			<div class="sectionQuoteDetailTop">
 				<span>52-wk High</span>
 				<br class="clear">
-				<span class="sectionQuoteDetailHigh">&#36;172.80</span>
+				<span class="sectionQuoteDetailHigh">&#36;174.15</span>
 			</div>
 			<div class="sectionQuoteDetail">
 				<span>52-wk Low</span>
@@ -1916,6 +1916,34 @@ Analyst Research Reports</h3>
                 <td>
 
                     <div class="reportName">
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=35606912">Trading Report for (MMM). A detailed report, including free correlated market analysis, and updates.</a></strong>
+                    </div>
+                    <div class="reportProvider">
+                       Provider : Stock Traders Daily</div>
+                </td>
+	            <td class="data">
+	            	<div class="reportPrice">$20.00</div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=35606912">Buy</a></div></div>
+	            </td>
+            </tr>            
+	<tr class="stripe">
+                <td>
+
+                    <div class="reportName">
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=25816204">ValuEngine Rating and Forecast Report for MMM</a></strong>
+                    </div>
+                    <div class="reportProvider">
+                       Provider : ValuEngine, Inc.</div>
+                </td>
+	            <td class="data">
+	            	<div class="reportPrice">$25.00</div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=25816204">Buy</a></div></div>
+	            </td>
+            </tr>            
+	<tr class="stripe">
+                <td>
+
+                    <div class="reportName">
 	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=51375641">Our Economy without Stimulus; forward observations.</a></strong>
                     </div>
                     <div class="reportProvider">
@@ -1952,34 +1980,6 @@ Analyst Research Reports</h3>
 	            <td class="data">
 	            	<div class="reportPrice">$20.00</div>
 <div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=31596533">Buy</a></div></div>
-	            </td>
-            </tr>            
-	<tr class="stripe">
-                <td>
-
-                    <div class="reportName">
-	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=74567485">Thomson Reuters Stock Report - 3M Co (MMM-N)</a></strong>
-                    </div>
-                    <div class="reportProvider">
-                       Provider : Thomson Reuters Stock Report</div>
-                </td>
-	            <td class="data">
-	            	<div class="reportPrice">$25.00</div>
-<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=74567485">Buy</a></div></div>
-	            </td>
-            </tr>            
-	<tr class="stripe">
-                <td>
-
-                    <div class="reportName">
-	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=35606912">Trading Report for (MMM). A detailed report, including free correlated market analysis, and updates.</a></strong>
-                    </div>
-                    <div class="reportProvider">
-                       Provider : Stock Traders Daily</div>
-                </td>
-	            <td class="data">
-	            	<div class="reportPrice">$20.00</div>
-<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=35606912">Buy</a></div></div>
 	            </td>
             </tr>            
 	</tbody>

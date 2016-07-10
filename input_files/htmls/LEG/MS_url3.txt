@@ -1,0 +1,814 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Get Leggett &amp; Platt Inc (LEG) historical quarterly, 5 year, or 10 year Cash Flows information including net cash flows from operating, financing, and investing activities also investments, acquisitions, debt issued and repayments, and common stock issued and repurchased. ">
+<title>Cash Flow for Leggett &amp; Platt Inc (LEG) from Morningstar.com</title>
+<link rel="canonical" href="//financials.morningstar.com/cash-flow/cf.html?t=LEG&amp;region=usa">
+<link type="text/css" rel="stylesheet" href="//financials.morningstar.com/finan/static/css/rf.css">
+<link type="text/css" rel="stylesheet" href="//financials.morningstar.com/finan/static/common/css/smoothDivScroll_v3.0.css">
+<link type="text/css" rel="stylesheet" href="//financials.morningstar.com/finan/static/common/css/reports_v3.2.css">
+<link type="text/css" rel="stylesheet" href="//financials.morningstar.com/finan/static/common/css/reports_nav_styles.css">
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//pagead2.googlesyndication.com/pagead/js/lidar.js"></script><script type="text/javascript">
+	var context="//srt-finan-app-beta.morningstar.com:8080";
+</script>
+<!--[if IE 6]><link type="text/css" rel="stylesheet" media="print" href="//financials.morningstar.com/finan/static/css/ie6print.css"><![endif]-->
+
+<!--[if IE 7]><link type="text/css" rel="stylesheet" media="print" href="//financials.morningstar.com/finan/static/css/ie7print.css"><![endif]-->
+<script type="text/javascript" src="//financials.morningstar.com/finan/static/common/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="//financials.morningstar.com/finan/static/script/SRT_stockFund.js"></script>
+<script type="text/javascript" src="//financials.morningstar.com/finan/static/script/jquery.smoothDivScroll-0.9.js"></script>
+<script type="text/javascript" src="//financials.morningstar.com/finan/static/common/js/ddaccordion_v3.0.js"></script>
+<script type="text/javascript" src="//financials.morningstar.com/finan/static/script/jquery.numberformatter-1.1.2.min.js"></script>
+<!--[if lte IE 8]> 
+<script type="text/javascript" src="//financials.morningstar.com/finan/static/common/js/excanvas.min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="//financials.morningstar.com/finan/static/script/chart/chartapi1.js"></script>
+<script type="text/javascript" src="//financials.morningstar.com/finan/static/script/chart/returnbar.pack.js"></script>
+<style type="text/css">
+.r_footer{ display:block; height:0; overflow:hidden;}
+</style>
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<script type="text/javascript">window.onerror=function(msg){$("body").attr("JSError",msg);}</script>
+</head>
+
+<body style="">
+<div style="position: absolute; overflow: hidden; width: 0px; height: 0px;"><div style="position: absolute; left: -9999px; top: -9999px;"><object type="application/x-shockwave-flash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="1" height="1" id="moatMessageSender3579631245"><param name="allowScriptAccess" value="always"><param name="allowFullScreen" value="false"><param name="movie" value="https://z.moatads.com/swf/MessageSenderV4.swf"><param name="FlashVars" value="r=MoatSuperV22.yh.zb&amp;s=MoatSuperV22.yh.zc&amp;e=MoatSuperV22.yh.zd&amp;td=afs.moatads.com"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed type="application/x-shockwave-flash" src="https://z.moatads.com/swf/MessageSenderV4.swf" quality="high" flashvars="r=MoatSuperV22.yh.zb&amp;s=MoatSuperV22.yh.zc&amp;e=MoatSuperV22.yh.zd&amp;td=afs.moatads.com" bgcolor="#ffffff" width="1" height="1" id="moatMessageSenderEmbed3579631245" align="middle" allowscriptaccess="always" allowfullscreen="false"></object></div></div><div class="wrapper">
+
+<link type="text/css" rel="stylesheet" href="//financials.morningstar.com/finan/static/common/css/m-global_v1.9.css">
+<!--link type="text/css" rel="stylesheet" href="//financials.morningstar.com/finan/static/common/css/m-global_v_us.css"-->
+
+
+<script language="javascript" type="text/javascript">
+		var extPos ="";
+		var midPos1 ="";
+		var midPos2 ="";
+		var extQue="";
+          midPos1 = ",rectangletopright";
+          midPos2 = ",chrtxt65top";
+ 
+var aim = {
+	"sitename":"ms.us",
+	"area":"reports.stocks",
+	"listpos":"leaderboard"+midPos1+",reportsSponsorLink,button120x60topright,chrtxt30top,button195x90,footer,tickertapebutton"+midPos2+extPos,
+	"url":"msmedia.morningstar.com/mstar/bserver",
+	"adquery":"/ticker=LEG/country=USA/secCode=102/pgid=financials"+extQue
+	};
+	
+   var jsPath = '//im.morningstar.com/adtag/msusadconfig.js?v='+Math.floor(Math.random()*1000000) ;
+    document.write('<script  type="text/javascript" src="'+jsPath+'"><\/script>'); 
+</script><script type="text/javascript" src="//im.morningstar.com/adtag/msusadconfig.js?v=695759"></script><script language="javascript" type="text/javascript" src="http://msmedia.morningstar.com/mstar/bserver/ball/site=ms.us/area=reports.stocks/ticker=LEG/country=USA/secCode=102/pgid=financials/usrt=V/device=safari/pcountry=us/language=en/platform=web/random=43689240/viewid=43689240/b1/size=728x90/pos=top/b2/size=300x250,336x280,300x600/pos=topright/b3/size=sponsorlink/pos=toplink/b4/size=120x60/pos=toprightbutton/b5/size=30-chartextlink/pos=toplink/b6/size=195x90/pos=toprightbutton/b7/size=728x90/pos=bottom/b8/size=88x31/pos=toprightbutton/b9/size=65-chartextlink/pos=toplink?"></script>
+
+
+<div class="headerwrap">
+    <!--[If !IE]> start logo <![endif]-->
+    <div class="h_Logo">
+        <div class="h_Logo_row1">
+        	<a href="//www.morningstar.com" class="logo" title="Morningstar Logo"></a>
+           		<div class="greeter">Welcome!</div>
+                        
+            <div class="h_Logo_col1">
+	            <input id="AutoCompleteBox" name="sSrchTerm" value="" class="h_quote" autocomplete="off" maxlength="256" type="text">
+                <a class="hqt_button" onclick="HeaderBox.trySubmit()" href="javascript:void(0)"></a>                     
+          		<form name="searchForm" method="post" onsubmit="srchTerm('search')" style="margin: 0px; padding: 0px;">                        
+                <input name="sSrchTerm" value="" class="h_search" onclick="ClearSearchBox('search')" type="text">
+                <input name="SrchTerm" type="hidden">
+                <a href="javascript:srchTerm('search')" class="hsr_button"></a>
+            </form>
+            <div class="h_textad">
+            		<div id="OAS_Top1">
+            		<script type="text/javascript">
+					      OAS_AD('chrtxt30top');
+					</script><a href="http://msmedia.morningstar.com/mstar/adclick/FCID=-4/site=ms.us/area=reports.stocks/ticker=LEG/country=USA/secCode=102/pgid=financials/usrt=V/device=safari/pcountry=us/language=en/platform=web/random=43689240/viewid=43689240/size=30-chartextlink/pos=toplink" target="_top"><img src="http://content.aimatch.com/empty.gif" alt="" border="0"></a>    
+            		</div>
+            </div>
+            </div>
+            <div class="h_Logo_col2">
+                <a href="//corporate.morningstar.com/US/asp/subject.aspx?filter=refresh&amp;xmlfile=126.xml&amp;pgid=hetopcompnews" class="h_text1">Company News</a>
+                <a href="//corporate.morningstar.com/US/asp/home.aspx?xmlfile=202.xml&amp;pgid=hetopcompsite" class="h_text1">Company Site</a>
+                <a href="http://members.morningstar.com/marketing/Article/ArticleLanding2.htm" class="h_text1">Premium</a>
+                <a href="https://members.morningstar.com/memberservice/login.aspx" class="h_text1">Log In</a><br>
+            </div>
+        </div>
+  	</div>  <!--[If !IE]> end logo <![endif]-->
+    
+    <!--[If !IE]> start leaderboard ads <![endif]-->
+
+    <div class="h_Ads">
+        <div class="h_Ads_row1">
+            <div class="h_leaderad">
+                <div id="OAS_TopLeft">
+                 <script type="text/javascript">
+				      OAS_AD('leaderboard');
+				</script><div id="msad51518" style="text-align: center" class="msmediaads" data-width="728" data-height="90">  <script language="JavaScript1.1" src="https://fw.adsafeprotected.com/rjss/dc/49943/8831592/ddm/adj/N805.morningstar.comSD344/B9229353.125782254;sz=728x90;click=http://msmedia.morningstar.com/mstar/adclick/FCID=51518/site=ms.us/area=reports.stocks/ticker=LEG/country=USA/secCode=102/pgid=financials/usrt=V/device=safari/pcountry=us/language=en/platform=web/random=43689240/viewid=43689240/size=728x90/pos=top/relocate=;ord=43689240?" data-ias-script-tag="found">  </script><span style="width: 0px; height: 0px; display: block; overflow: hidden;">.</span><script type="text/javascript" src="https://fw.adsafeprotected.com/rfw/dc/49943/8831592/ddm/adj/N805.morningstar.comSD344/B9229353.125782254;sz=728x90;click=http://msmedia.morningstar.com/mstar/adclick/FCID=51518/site=ms.us/area=reports.stocks/ticker=LEG/country=USA/secCode=102/pgid=financials/usrt=V/device=safari/pcountry=us/language=en/platform=web/random=43689240/viewid=43689240/size=728x90/pos=top/relocate=;ord=43689240/__IntegralAS_Q_S__?&amp;adsafe_url=http%3A%2F%2Ffinancials.morningstar.com%2Fcash-flow%2Fcf.html%3Ft%3DLEG%26region%3DUSA%26culture%3Den_US&amp;adsafe_type=abdfq&amp;adsafe_jsinfo=,id:00ecd027-3bc3-11e6-941e-0025904ea2d4,c:gJYKRe,sl:outOfView,em:false,fr:true,mn:app03dal,pt:1-5-15,wc:0.0.0.0,ac:21.85.1.1,am:s,cc:21.85.728.0,piv:0,obst:0,th:0,reas:l,cmps:1,br:w,fv:0,bv:na,dm:na,abv:na,an:n,fm:pPfMNMY+1*.49943-8831592,idMap:1*,pl:,rpx:1,lt:8,fc:0,rt:1,cb:0,np:1,th:0,es:0,sa:0,gm:0,fif:0,uf:0,tt:rjss,et:29,uid:ced24586-bd77-59a6-96f8-4d3d6ab6ec06,v:1.121.0,sp:0,ct:na,dtm:i,gtpl:0,wr:0.0,sr:1366.768,mf:2120638558,ov:0"></script><iframe name="hpif" style="display:none"></iframe><div class="GoogleActiveViewClass" id="DfaVisibilityIdentifier_1827744931"><div style="display:table; width: 100%; height: 100%"><div style="display:table-cell; vertical-align: middle"><div id="div_creativeIframe349223944_1466961940392"><script src="http://s0.2mdn.net/ads/studio/cached_libs/modernizr_2.8.3_ec185bb44fe5e6bf7455d6e8ef37ed0e_no-classes.js" type="text/javascript"></script><a href="https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvGzd9068TZOr5eghEmPzbbt42-7VPqFjIa_ofzcT8KeZi0gVgEOTg1PzBrufXcXXA3qQUBhvjun3mhtlmjOS2CGgXNWHp27iluGJ27RonMxZvJ1xJh9RxynCwjDjpctrtylSQ&amp;sig=Cg0ArKJSzDxJ1M6US-5yEAE&amp;urlfix=1&amp;adurl=http://msmedia.morningstar.com/mstar/adclick/FCID%253D51518/site%253Dms.us/area%253Dreports.stocks/ticker%253DLEG/country%253DUSA/secCode%253D102/pgid%253Dfinancials/usrt%253DV/device%253Dsafari/pcountry%253Dus/language%253Den/platform%253Dweb/random%253D43689240/viewid%253D43689240/size%253D728x90/pos%253Dtop/relocate%253Dhttps://www.fidelity.com/trading/advanced-trading-tools/active-trader-pro/overview%253Fimmid%253D100071%2526imm_pid%253D125782254%2526imm_cid%253Dc68155750%2526dfid%253D%2526buf%253D99999999" target="_blank"><img border="0" src="https://s0.2mdn.net/3849093/22902_05_ACQ_Always_Be_ATP_728x90.gif" style="display: block; margin-left: auto; margin-right: auto;"></a></div>
+<noscript>&lt;a href="https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvGzd9068TZOr5eghEmPzbbt42-7VPqFjIa_ofzcT8KeZi0gVgEOTg1PzBrufXcXXA3qQUBhvjun3mhtlmjOS2CGgXNWHp27iluGJ27RonMxZvJ1xJh9RxynCwjDjpctrtylSQ&amp;sig=Cg0ArKJSzDxJ1M6US-5yEAE&amp;urlfix=1&amp;adurl=http://msmedia.morningstar.com/mstar/adclick/FCID%3D51518/site%3Dms.us/area%3Dreports.stocks/ticker%3DLEG/country%3DUSA/secCode%3D102/pgid%3Dfinancials/usrt%3DV/device%3Dsafari/pcountry%3Dus/language%3Den/platform%3Dweb/random%3D43689240/viewid%3D43689240/size%3D728x90/pos%3Dtop/relocate%3Dhttps://www.fidelity.com/trading/advanced-trading-tools/active-trader-pro/overview%3Fimmid%3D100071%26imm_pid%3D125782254%26imm_cid%3Dc68155750%26dfid%3D%26buf%3D99999999" target="_blank"&gt;&lt;img border="0" style="display:block; margin-left:auto; margin-right:auto" alt="Backup Image" src="https://s0.2mdn.net/3849093/22902_05_ACQ_Always_Be_ATP_728x90.gif" /&gt;&lt;/a&gt;</noscript></div></div></div>  <noscript>  &lt;A HREF="http://msmedia.morningstar.com/mstar/adclick/FCID=51518/site=ms.us/area=reports.stocks/ticker=LEG/country=USA/secCode=102/pgid=financials/usrt=V/device=safari/pcountry=us/language=en/platform=web/random=43689240/viewid=43689240/size=728x90/pos=top/relocate=https://ad.doubleclick.net/ddm/jump/N805.morningstar.comSD344/B9229353.125782254;sz=728x90;sz=728x90;ord=43689240?"&gt;  &lt;IMG SRC="https://fw.adsafeprotected.com/rfw/dc/49943/8831591/ddm/ad/N805.morningstar.comSD344/B9229353.125782254;sz=728x90;sz=728x90;ord=43689240?" BORDER=0 WIDTH=728 HEIGHT=90 ALT="Advertisement"&gt;&lt;/A&gt;  </noscript>  <noscript class="MOAT-morningstar630544086326?moatClientLevel1=78&amp;moatClientLevel2=2910&amp;moatClientLevel3=41268&amp;moatClientLevel4=51518&amp;moatClientSlicer1=_SITE_&amp;moatClientSlicer2=_PLACEMENT_&amp;zMoatPS=top&amp;zMoatSZ=728x90&amp;zMoatAR=reports.stocks&amp;zMoatST=ms.us&amp;zMoatPG=financials"></noscript>  <script src="https://js.moatads.com/morningstar630544086326/moatad.js#moatClientLevel1=78&amp;moatClientLevel2=2910&amp;moatClientLevel3=41268&amp;moatClientLevel4=51518&amp;moatClientSlicer1=_SITE_&amp;moatClientSlicer2=_PLACEMENT_&amp;zMoatPS=top&amp;zMoatSZ=728x90&amp;zMoatAR=reports.stocks&amp;zMoatST=ms.us&amp;zMoatPG=financials" type="text/javascript"></script>  </div>    
+                </div>
+            </div>
+            
+          	<div class="h_houseadX43">
+                <div id="OAS_x30">
+                  <script type="text/javascript">
+				      OAS_AD('button195x90');
+				  </script><a href="http://msmedia.morningstar.com/mstar/adclick/FCID=875/site=ms.us/area=reports.stocks/ticker=LEG/country=USA/secCode=102/pgid=financials/usrt=V/device=safari/pcountry=us/language=en/platform=web/random=43689240/viewid=43689240/size=195x90/pos=toprightbutton" target="_top"> <img border="0" src="https://im.mstar.com/im/mbr/testimonials_205x90_3.gif" alt=""></a> <br>  
+                </div>                
+          	</div>
+      </div>
+    </div>  
+    <!--[If !IE]> end leaderboard ads <![endif]-->
+    
+    <!--[If !IE]> start main navigation <![endif]-->
+    <div class="h_MainNav">
+        <div class="h_MainNav_row1">
+            <a id="MH_tab1" href="//members.morningstar.com/memberstpages/membership.htm" title="Membership Center" class="h_tabL">Membership</a> 	
+            <a id="MH_tab2" href="//www.morningstar.com" class="h_tab1" title="Investment">Home</a>
+            <a id="MH_tab3" href="//portfolio.morningstar.com/RtPort/Reg/AllView.aspx" class="h_tab1" title="Portfolio">Portfolio</a> 
+            <a id="MH_tab4" href="//www.morningstar.com/Cover/Stocks.html" class="h_tab1" title="Stocks">Stocks</a> 
+            <a id="MH_tab5" href="//www.morningstar.com/Cover/bonds.aspx" class="h_tab2" title="Bonds">Bonds</a> 
+            <a id="MH_tab6" href="//www.morningstar.com/Cover/Funds.aspx" class="h_tab1" title="Funds">Funds</a> 
+            <a id="MH_tab7" href="//www.morningstar.com/Cover/ETFs.aspx" class="h_tab1" title="ETFs">ETFs</a>             
+			<a id="MH_tab8" href="//www.morningstar.com/Cover/CEF-Closed-End-Funds.aspx" class="h_tab1" title="CEF">CEF</a> 
+            <a id="MH_tab9" href="//www.morningstar.com/Cover/Markets.html" class="h_tab1" title="Markets">Markets</a> 
+            <a id="MH_tab10" href="//www.morningstar.com/Cover/Tools.html" class="h_tab1" title="Tools">Tools</a> 
+            <a id="MH_tab11" href="//www.morningstar.com/Cover/PersonalFinance.html" class="h_tab3" title="Personal Finance">Real Life Finance</a>
+            <a id="MH_tab12" href="//socialize.morningstar.com/newsocialize/asp/coverpage.asp" class="h_tab1" title="Discuss">Discuss</a>
+          	<div class="h_tabbase"></div>
+        </div>
+                <!--[if !IE]> start sub navigation <![endif]-->
+        <div id="subnav" class="h_SubNav" style="display:none;">
+            <li class="h_subnav1">
+                <a href="#" class="h_subtab">Investing Ideas</a>
+                <ul class="h_subnav2">
+                	<li><div class="subnavrule"></div></li>
+                    <li><a href="//news.morningstar.com/fundanalystpicks/catlist/Default.html">Fund Analyst Picks</a></li>
+                    <li><a href="//news.morningstar.com/FundAnalystPicks/CategoryList/0,3440,,00.html">Picks by Category</a></li>
+                    <li><a href="//www.morningstar.com/goto/fundpickperform">Fund Pick Performance</a></li>
+                    <li><a href="//members.morningstar.com/prism/sub_cent_Newsletters.html#Newsanchor">Picks &amp; Pans E-Newsletter</a></li>
+                    <li><a href="//news.morningstar.com/archive/archive.asp?inputs=days=365;colId=2;sortField=publishDate;sortDirection=desc">Fund Spy Column</a></li>
+                    <li><a href="//mfi.morningstar.com/FundSpy/SpyPurchase.aspx">Fund Spy Book</a></li>
+                    <li><a href="//news.morningstar.com/archive/archive.asp?inputs=days=365;colId=16;sortField=publishDate;sortDirection=desc">Bond Squad</a></li>
+                    <li><a href="javascript:void(0)" onclick="window.open('//www.morningstar.com/cover/videocenter.html?lineup=funds','','width=860,height=705')">Fund Video Reports</a></li>
+                    <li><a href="//www.morningstar.com/Products/Store_FundInvestor.html">FundInvestor Newsletter</a></li>
+                    <li><a href="//www.morningstar.com/goto/mei_expert">ETF Investing</a></li>
+                    <li><a href="//www.morningstar.com/goto/FFR_Experts">Fund Family Experts</a></li>
+                </ul>
+            </li>
+        
+            <li class="h_subnav1">
+                <a href="#" class="h_subtab">Fund Reports</a>
+                <ul class="h_subnav2">
+                	<li><div class="subnavrule"></div></li>
+                    <li><a href="//www.morningstar.com/allanalyses/analysesLists.html?type=FO">All Fund Analyst Reports</a></li>
+                    <li><a href="//www.morningstar.com/FidGrades/AllFidGrades.html?sortColumn=1&amp;curField=1">Fund Stewardship Reports</a></li>
+                </ul>
+            </li>
+        
+            <li class="h_subnav1">
+                <a href="#" class="h_subtab">Fund Ratings</a>
+                <ul class="h_subnav2">
+                	<li><div class="subnavrule"></div></li>
+                    <li><a href="//screen.morningstar.com/Compare/Fund/FundCompareResults.html?currview=default&amp;CriteriaList=PresetFund:Large+Value~PresetFund:Mid-Cap+Value~PresetFund:Small+Value~">Highest-Rated Value</a></li>
+                    <li><a href="//screen.morningstar.com/Compare/Fund/FundCompareResults.html?currview=default&amp;CriteriaList=PresetFund:Large+Growth~PresetFund:Mid-Cap+Growth~PresetFund:Small+Growth~">Highest-Rated Growth</a></li>
+                    <li><a href="//screen.morningstar.com/Compare/Fund/FundCompareResults.html?currview=default&amp;CriteriaList=~PresetFund:Large+Growth~PresetFund:Large+Blend~PresetFund:Large+Value~">Highest-Rated Large-Cap</a></li>
+                    <li><a href="//screen.morningstar.com/Compare/Fund/FundCompareResults.html?currview=default&amp;CriteriaList=PresetFund:Mid-Cap+Growth~PresetFund:Mid-Cap+Blend~PresetFund:Mid-Cap+Value~">Highest-Rated Mid-Cap</a></li>
+                    <li><a href="//screen.morningstar.com/Compare/Fund/FundCompareResults.html?currview=default&amp;CriteriaList=PresetFund:Small+Growth~PresetFund:Small+Blend~PresetFund:Small+Value~">Highest-Rated Small-Cap</a></li>
+                    <li><a href="//screen.morningstar.com/FundResults.html?preset=ForeignStock">Foreign Fund Standouts</a></li>
+                    <li><a href="//www.morningstar.com/goto/starrateperform">Star Rating Performance</a></li>
+                    <li><a href="//corporate.morningstar.com/US/documents/MethodologyDocuments/FactSheets/MorningstarRatingForFunds_FactSheet.pdf">Rating Methodology</a></li>
+                </ul>
+            </li>
+        
+            <li class="h_subnav1">
+                <a href="#" class="h_subtab">Fund Performance</a>
+                <ul class="h_subnav2">
+                	<li><div class="subnavrule"></div></li>
+                    <li><a href="//screen.morningstar.com/FundSearch/FundRank.html?fundCategory=all&amp;screen=tr1m">Top 1-Month Performers</a></li>
+                    <li><a href="//screen.morningstar.com/FundSearch/FundRank.html?fundCategory=all&amp;screen=trytd">Top YTD Performers</a></li>
+                    <li><a href="//screen.morningstar.com/FundSearch/FundRank.html?fundCategory=all&amp;screen=tr1yr">Top 1-Year Performers</a></li>
+                    <li><a href="//screen.morningstar.com/FundSearch/FundRank.html?fundCategory=all&amp;screen=tr3yr">Top 3-Year Performers</a></li>
+                    <li><a href="//screen.morningstar.com/FundSearch/FundRank.html?fundCategory=all&amp;screen=tr5yr">Top 5-Year Performers</a></li>
+                    <li><a href="//news.morningstar.com/fundReturns/CategoryReturns.html">Fund Category Returns</a></li>
+                    <li><a href="//screen.morningstar.com/Movers/FdMovDef.html">Biggest Daily NAV Changes</a></li>
+                    <li><a href="//news.morningstar.com/CELists/CEReturns.html">Closed-End Funds</a></li>
+                    <li><a href="//news.morningstar.com/etf/Lists/ETFReturns.html">Exchange-Traded Funds</a></li>
+                    <li><a href="//www.morningstar.com/goto/QEML">Quarterly Market Outlook</a></li>
+                </ul>
+            </li>
+        
+            <li class="h_subnav1">
+                <a href="#" class="h_subtab">Fund Screeners</a>
+                <ul class="h_subnav2">
+                	<li><div class="subnavrule"></div></li>
+                    <li><span>Basic Screeners</span></li>
+                    <li><a href="//screen.morningstar.com/FundSelector.html">Fund Screener</a></li>
+                    <li><a href="//screen.morningstar.com/FundResults.html?preset=LongTerm">Long-Term Winners</a></li>
+                    <li><a href="//screen.morningstar.com/FundResults.html?preset=SmallGrowth">Solid Small-Growth Funds</a></li>
+                    <li><a href="//screen.morningstar.com/FundResults.html?preset=ConservativeBond">Conservative Bond Funds</a></li>
+                    <li><div class="subnavrule"></div></li>
+                    <li><span>Premium Screeners</span></li>
+                    <li><a href="//screen.morningstar.com/AdvFunds/Selector.html">Premium Fund Screener</a></li>
+                    <li><a href="//screen.morningstar.com/advfunds/results.html?preset=Index+Funds">Index Funds</a></li>
+                    <li><a href="//screen.morningstar.com/AdvFunds/Results.html?preset=Hidden%20Gems">Hidden Gems</a></li>
+                    <li><a href="//screen.morningstar.com/AdvFunds/Results.html?preset=Conservative%20Foreign%20Funds">Lower-Risk Foreign Funds</a></li>
+                </ul>
+            </li>
+            
+            <li class="h_subnav1"><a href="javascript:void(0)" onclick="window.open('//www.morningstar.com/cover/videocenter.html?lineup=funds','','width=860,height=705')" class="h_subtab1">Video Center</a></li>
+                
+        </div>  <!--[if !IE]> end sub navigation <![endif]-->
+
+    </div>  <!--[If !IE]> end main navigation <![endif]-->
+    
+        <div id="TickerWrapper" class="h_TickerTape"><div id="pricesPanel"><a class="TTButtEdit" onclick="tickerTapeObj.Show(2);"></a><div class="TickerWrap"><div class="TickerTableContain"><div style="overflow: hidden; height: 24px; width: 921px;"><div id="tpc"><div id="tcPrices1" style="height: 24px; width: 921px;"></div><div id="tcPrices2" style="height: 24px; width: 921px;"></div></div></div></div></div></div><div id="tkEditPanel" style="display:none"><a class="TTButtSave" href="javascript:tickerTapeObj.Save()"></a><div class="TickerWrap"><div class="TickerTableContain2"><div class="TTControl"><div class="TTControlText">&nbsp;&nbsp;Display Settings:</div></div><div class="TTForm1"><div class="menucont_h" style="margin-top: 3px;" id="pfDropDown"><ul id="nav"><li onclick="tickerTapeObj.GetPortfolioList(event,this);"><a class="headerlink3" id="pfSelect">Select a portfolio</a><a class="arrow_h"></a><ul class="drop_shad_h" id="npfDropDownList"></ul></li></ul> </div></div><div class="TTForm"></div><div class="TTForm3"><input name="markets" id="markets" type="checkbox"></div><div class="TTControlText">Markets</div><div class="TTForm" style="z-index: 50;"><input name="newTickers" id="newTickers" type="checkbox"></div><div class="TTForm2"><input name="newTickerInput" id="newTickerInput" value="Enter Tickers" size="15" class="headerlink2" onclick="if(this.value=='Enter Tickers') this.value='';" onkeyup="if(event.keyCode==13 &amp;&amp; this.value!='') {tickerTapeObj.SelectNewTicker(this.value);this.value=''}" type="text"></div><div class="TTForm"><input name="rtQuote" id="rtQuote" type="checkbox"></div><div class="TTControlText">Recent Quotes</div><div class="TTForm"><input name="hideTape" id="hideTape" onclick="tickerTapeObj.Hide();" type="checkbox"></div><div class="TTControlText">Hide Ticker Tape</div></div></div></div><div class="AutoCompleteDropDownQuote" style="position: absolute; float: left; left: 304px; background-color: rgb(255, 255, 255); top: 119px;z-index:1000" id="AutoCompleteDropDownQuote"></div><div id="HiddenPanel" style="display:none"><div id="expandBtnPanel" style="z-index: 500;"><a href="javascript:tickerTapeObj.Show(2)" class="TickerExpand"></a></div></div><div class="TTButtAd"><div id="OAS_x61"><div id="Hidden_OAS_x61" style="display: inline;"><script language="javascript" type="text/javascript">
+		<!--
+		   OAS_AD('tickertapebutton');
+		//-->
+</script><div id="msad51268" style="text-align: center" class="msmediaads" data-width="88" data-height="31">  <ins class="dcmads" style="display: inline-block; width: 88px; height: 31px; text-decoration: none;" data-dcm-placement="N3941.morningstar/B9593816.130144583" data-dcm-rendering-mode="iframe" data-dcm-https-only="" data-dcm-resettable-device-id="" data-dcm-click-tracker="http://msmedia.morningstar.com/mstar/adclick/FCID=51268/site=ms.us/area=reports.stocks/ticker=LEG/country=USA/secCode=102/pgid=financials/usrt=V/device=safari/pcountry=us/language=en/platform=web/random=43689240/viewid=43689240/size=88x31/pos=toprightbutton/relocate=" data-dcm-processed="y">    <script src="https://www.googletagservices.com/dcm/dcmads.js"></script><script src="https://www.googletagservices.com/dcm/impl_v30.js"></script><iframe src="https://ad.doubleclick.net/ddm/adi/N3941.morningstar/B9593816.130144583;dc_ver=30.80;dc_eid=40004001;sz=88x31;dc_adk=3473692053;ord=zh4cp5;click=http%3A%2F%2Fmsmedia.morningstar.com%2Fmstar%2Fadclick%2FFCID%3D51268%2Fsite%3Dms.us%2Farea%3Dreports.stocks%2Fticker%3DLEG%2Fcountry%3DUSA%2FsecCode%3D102%2Fpgid%3Dfinancials%2Fusrt%3DV%2Fdevice%3Dsafari%2Fpcountry%3Dus%2Flanguage%3Den%2Fplatform%3Dweb%2Frandom%3D43689240%2Fviewid%3D43689240%2Fsize%3D88x31%2Fpos%3Dtoprightbutton%2Frelocate%3D;dc_rfl=0,http%3A%2F%2Ffinancials.morningstar.com%2Fcash-flow%2Fcf.html%3Ft%3DLEG%26region%3DUSA%26culture%3Den_US$0;xdt=0;crlt=Foaq.E'JxH;sttr=1;plmts=0,1,0,1;prcl=s?" style="width: 100%; height: 100%; border: 0px; margin: 0px; padding: 0px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>  </ins>    <noscript class="MOAT-morningstar630544086326?moatClientLevel1=81&amp;moatClientLevel2=3205&amp;moatClientLevel3=45314&amp;moatClientLevel4=51268&amp;moatClientSlicer1=_SITE_&amp;moatClientSlicer2=_PLACEMENT_&amp;zMoatPS=toprightbutton&amp;zMoatSZ=88x31&amp;zMoatAR=reports.stocks&amp;zMoatST=ms.us&amp;zMoatPG=financials"></noscript>  <script src="https://z.moatads.com/morningstar630544086326/moatad.js#moatClientLevel1=81&amp;moatClientLevel2=3205&amp;moatClientLevel3=45314&amp;moatClientLevel4=51268&amp;moatClientSlicer1=_SITE_&amp;moatClientSlicer2=_PLACEMENT_&amp;zMoatPS=toprightbutton&amp;zMoatSZ=88x31&amp;zMoatAR=reports.stocks&amp;zMoatST=ms.us&amp;zMoatPG=financials" type="text/javascript"></script>    </div>  </div></div></div></div>
+    
+			
+</div>  <!--[If !IE]> end header wrap <![endif]-->  
+
+<div id="AutoCompleteDropDown" name="AutoCompleteDropDown"></div>
+<script type="text/javascript" src="//financials.morningstar.com/finan/static/common/js/common_pack_0.0.12.js"></script>
+
+<div class="rf_bodywrap">
+
+<div class="content955px"><!--empty div to wrap reports header starts here-->
+	<div class="r_header">
+		<div class="reports_nav">
+			<div class="gr_text2" id="OAS_x05"><script language="javascript" type="text/javascript">OAS_AD('reportsSponsorLink');</script><a href="http://msmedia.morningstar.com/mstar/adclick/FCID=-4/site=ms.us/area=reports.stocks/ticker=LEG/country=USA/secCode=102/pgid=financials/usrt=V/device=safari/pcountry=us/language=en/platform=web/random=43689240/viewid=43689240/size=sponsorlink/pos=toplink" target="_top"><img src="http://content.aimatch.com/empty.gif" alt="" border="0"></a>    </div>
+			<div class="r_btn_ad" id="OAS_Top2"><script language="javascript" type="text/javascript">OAS_AD('button120x60topright');</script><div id="msad51274" style="text-align: center" class="msmediaads" data-width="120" data-height="60">  <ins class="dcmads" style="display: inline-block; width: 120px; height: 60px; text-decoration: none;" data-dcm-placement="N3941.morningstar/B9593816.130144781" data-dcm-rendering-mode="iframe" data-dcm-https-only="" data-dcm-resettable-device-id="" data-dcm-click-tracker="http://msmedia.morningstar.com/mstar/adclick/FCID=51274/site=ms.us/area=reports.stocks/ticker=LEG/country=USA/secCode=102/pgid=financials/usrt=V/device=safari/pcountry=us/language=en/platform=web/random=43689240/viewid=43689240/size=120x60/pos=toprightbutton/relocate=" data-dcm-processed="y">    <script src="https://www.googletagservices.com/dcm/dcmads.js"></script><script src="https://www.googletagservices.com/dcm/impl_v30.js"></script><iframe src="https://ad.doubleclick.net/ddm/adi/N3941.morningstar/B9593816.130144781;dc_ver=30.80;sz=120x60;dc_adk=843956128;ord=pn5tcu;click=http%3A%2F%2Fmsmedia.morningstar.com%2Fmstar%2Fadclick%2FFCID%3D51274%2Fsite%3Dms.us%2Farea%3Dreports.stocks%2Fticker%3DLEG%2Fcountry%3DUSA%2FsecCode%3D102%2Fpgid%3Dfinancials%2Fusrt%3DV%2Fdevice%3Dsafari%2Fpcountry%3Dus%2Flanguage%3Den%2Fplatform%3Dweb%2Frandom%3D43689240%2Fviewid%3D43689240%2Fsize%3D120x60%2Fpos%3Dtoprightbutton%2Frelocate%3D;dc_rfl=0,http%3A%2F%2Ffinancials.morningstar.com%2Fcash-flow%2Fcf.html%3Ft%3DLEG%26region%3DUSA%26culture%3Den_US$0;xdt=0;crlt=Foaq.E'JxH;sttr=5;prcl=s?" style="width: 100%; height: 100%; border: 0px; margin: 0px; padding: 0px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>  </ins>    <noscript class="MOAT-morningstar630544086326?moatClientLevel1=81&amp;moatClientLevel2=3205&amp;moatClientLevel3=45310&amp;moatClientLevel4=51274&amp;moatClientSlicer1=_SITE_&amp;moatClientSlicer2=_PLACEMENT_&amp;zMoatPS=toprightbutton&amp;zMoatSZ=120x60&amp;zMoatAR=reports.stocks&amp;zMoatST=ms.us&amp;zMoatPG=financials"></noscript>  <script src="https://z.moatads.com/morningstar630544086326/moatad.js#moatClientLevel1=81&amp;moatClientLevel2=3205&amp;moatClientLevel3=45310&amp;moatClientLevel4=51274&amp;moatClientSlicer1=_SITE_&amp;moatClientSlicer2=_PLACEMENT_&amp;zMoatPS=toprightbutton&amp;zMoatSZ=120x60&amp;zMoatAR=reports.stocks&amp;zMoatST=ms.us&amp;zMoatPG=financials" type="text/javascript"></script>    </div>  </div>
+			<link href="//quotes.morningstar.com/navig/static/common/css/reports_nav_styles.css" rel="stylesheet" type="text/css"><div class="r_title">
+	<h1>Leggett &amp; Platt Inc</h1>
+	<span class="gry">&nbsp;LEG</span>
+	<span class="r_star0" id="star_span"></span>
+	<span class=""></span>
+</div><ul class="r_cnav_ads"><li><a href="http://portfolio.morningstar.com/RtPort/reg/addtoportfolio.aspx?ticker=LEG&amp;name=Leggett &amp; Platt Inc">Add to Portfolio</a></li><li><a href="http://portfolio.morningstar.com/RtPort/Reg/EditAlerts.aspx#StockFundAlerts?symbol=LEG&amp;region=usa" class="r_alert">Get E-mail Alerts</a></li><li><a href='javascript:openWin("http://financials.morningstar.com/cash-flow/cf.html?ops=clear&t=LEG&region=usa&culture=en-US","Morningstar","width=750,height=600,top=30,left=30,toolbar=yes,menubar=yes,scrollbars=yes,resizable=yes")' class="r_print_page">Print This Page</a></li><li><a href='javascript:openWin("http://members.morningstar.com/prism/AccessPDFNew/AccessPDF.html?SourceCode=PR8018&PDFName=LEG","Morningstar","width=500,height=255,top=30,left=30,toolbar=yes,menubar=yes,scrollbars=yes,resizable=yes")' class="r_pdf">PDF Report</a></li><li><a href='javascript:openWin("http://socialize.morningstar.com/feedback/feedbackform.asp","Morningstar","width=750,height=600,top=30,left=30,toolbar=yes,menubar=yes,scrollbars=yes,resizable=yes")' class="r_help">Data Question</a></li></ul><ul class="r_nav"><li><a href="http://www.morningstar.com/stocks/XNYS/LEG/quote.html">Quote</a></li><li><a href="http://quotes.morningstar.com/chart/stock/chart.action?t=LEG&amp;region=usa&amp;culture=en-US">Chart</a></li><li><span class="premium"><a href="http://analysisreport.morningstar.com/stock/research?t=LEG&amp;region=usa&amp;culture=en-US" class="r_premium_icon">Stock Analysis</a></span></li><li><a href="http://performance.morningstar.com/stock/performance-return.action?t=LEG&amp;region=usa&amp;culture=en-US">Performance</a></li><li><a href="http://financials.morningstar.com/ratios/r.html?t=LEG&amp;region=usa&amp;culture=en-US">Key Ratios</a></li><li><a href="http://financials.morningstar.com/income-statement/is.html?t=LEG&amp;region=usa&amp;culture=en-US" class="tabon">Financials</a></li><li><a href="http://financials.morningstar.com/valuation/price-ratio.html?t=LEG&amp;region=usa&amp;culture=en-US">Valuation</a></li><li><a href="http://insiders.morningstar.com/trading/executive-compensation.action?t=LEG&amp;region=usa&amp;culture=en-US">Insiders</a></li><li><a href="http://investors.morningstar.com/ownership/shareholders-overview.html?t=LEG&amp;region=usa&amp;culture=en-US">Ownership</a></li><li><a href="http://quicktake.morningstar.com/StockNet/SECDocuments.aspx?Symbol=LEG&amp;Country=usa">Filings</a></li><li><a href="http://quicktake.morningstar.com/StockNet/bonds.aspx?Symbol=LEG&amp;Country=usa">Bonds</a></li></ul><ul class="r_snav"><li><a href="http://financials.morningstar.com/income-statement/is.html?t=LEG&amp;region=usa&amp;culture=en-US"><h2>Income Statement</h2></a></li><li><a href="http://financials.morningstar.com/balance-sheet/bs.html?t=LEG&amp;region=usa&amp;culture=en-US"><h2>Balance Sheet</h2></a></li><li><a href="http://financials.morningstar.com/cash-flow/cf.html?t=LEG&amp;region=usa&amp;culture=en-US" class="on"><h2>Cash Flow</h2></a></li></ul>
+		</div>
+	</div>
+	<div class="hspacer1"></div>
+</div> <!--empty div to wrap reports header ends here-->
+
+    <div style="content: &quot;.&quot;; height: 0; clear: both; visibility: hidden;&nbsp;zoom: 1; display: block; overflow: hidden;"></div>
+	<div id="sfcontent" class="content955px"><div class="rf_ctlwrap"> 
+
+  <div class="rf_ctl1_opt">
+    <div class="dropdownButton">Statement Type</div>
+	<div class="rf_div_space">&nbsp;</div>
+
+    <div class="dropdownButton">Data Type</div>
+	<div class="rf_div_space">&nbsp;</div>
+
+    <div class="dropdownButton">Period</div>
+	<div class="rf_div_space">&nbsp;</div>
+
+    <div id="showDates" class="dropdownButton">Show Report Dates</div>
+	<div class="rf_div_space sdSpace">&nbsp;</div>
+
+    <div id="dataScroll" class="scrollButton">Data Scroll</div>
+
+	<div class="rf_verticalBar_space">&nbsp;</div>
+    <div class="divide_l">&nbsp;</div>
+    <div class="divide_r">&nbsp;</div>
+	<div class="rf_verticalBar_space">&nbsp;</div>
+
+
+    <div id="roundWord" class="roundingButton">Rounding</div>
+
+	<div class="rf_div_space vBar2">&nbsp;</div>
+
+    <div class="exportButton">Export</div>
+
+</div>
+
+
+<div class="rf_ctl2_opt">
+
+    <div class="dropdownButton">
+        <li id="menu_A" class="r_dd1" onclick="showDropdown1(event,this);">
+
+            <a class="r_ddh1" id="type">
+            	Annual
+            	
+            </a>
+            <ul>
+                <li>
+                    <a href="javascript:SRT_stocFund.ChangeFreq(12,'Annual');">Annual</a>
+                </li>
+
+                
+                <li>
+                    <a href="javascript:SRT_stocFund.ChangeFreq(3,'Quarterly')" ;="">Quarterly</a>
+                </li>
+            </ul>
+        </li>
+    </div>
+
+    <div class="rf_div_space">&nbsp;</div>
+
+	<div id="dataTypeDiv" class="dropdownButton">
+		<li onclick="showDropdown1(event,this);" class="r_dd1" id="menu_A">
+		
+			<a id="dataType" class="r_ddh1">
+					As of Reported
+				
+			</a>
+			<ul style="display: none;">
+				<li><a href="javascript: SRT_stocFund.changeDataType('A','As of Reported');">As of Reported</a></li>
+				<li><a href="javascript: SRT_stocFund.changeDataType('R','Restated');">Restated</a></li>
+			</ul>
+		</li>
+	</div>
+	<div class="rf_div_space">&nbsp;</div>
+
+    <div class="dropdownButton">
+        <li id="Li1" class="r_dd1" onclick="showDropdown1(event,this);">
+            <a class="r_ddh1" id="columnYearType">5 Years</a>
+            <ul>
+                <li><a href="javascript:SRT_stocFund.CurrentPeriod(5, this)">5&nbsp;<span class="columnType">Years</span></a></li>
+
+                <li><a href="javascript:SRT_stocFund.CurrentPeriod(10, this)">
+                        <span class="prem1"></span>
+                    10 <span class="columnType">
+                    	Years
+                    	                    </span></a>
+                </li>
+            </ul>
+        </li>
+    </div>
+	<div class="rf_div_space">&nbsp;</div>
+
+    <div id="showDatesButton" class="dropdownButton">
+        <li id="Li2" class="r_dd1" onclick="showDropdown1(event,this);">
+
+            <a class="r_ddh1" id="orderType">
+            Ascending
+            </a>
+            <ul>
+                <li>
+                    <a href="javascript:SRT_stocFund.orderControl('asc','Ascending');">Ascending</a>
+                </li>
+                <li>
+                    <a href="javascript:SRT_stocFund.orderControl('desc','Descending');">Descending</a>
+                </li>
+            </ul>
+        </li>
+    </div>
+	<div class="rf_div_space sdSpace">&nbsp;</div>
+
+	<div class="scrollButton">
+    <span class="icons_2_span">
+        <a id="scroll_left" class="rf_back_off"></a>
+        <a id="scroll_right" class="rf_forw_off"></a>
+    </span>
+	</div>
+	
+	<div class="rf_verticalBar_space">&nbsp;</div>
+    <div class="divide_l">&nbsp;</div>
+    <div class="divide_r">&nbsp;</div>
+	<div class="rf_verticalBar_space">&nbsp;</div>
+
+
+	<div class="roundingButton">
+    
+	<span class="icons_2_span">
+    	
+        <a onclick="SRT_stocFund.ChangeRounding(-1)" title="Thousand" class="rf_rounddn"></a>
+        <a onclick="SRT_stocFund.ChangeRounding(1)" title="Billion" class="rf_roundup"></a>
+    </span>
+	</div>
+
+
+	<div class="rf_div_space vBar2">&nbsp;</div>
+
+    <div class="exportButton">
+    <span class="icon_1_span"><a href="javascript:SRT_stocFund.Export()" class="rf_export"></a></span>
+    </div>
+</div>
+
+</div>
+<div style="clear:both;"></div><div><div id="baseline" style="display:none"><div>328900000</div><div>449700000</div><div>416900000</div><div>381900000</div><div>359100000</div><div>438300000</div></div><div class="left "><div class="r_xcmenu rf_table_left"><div class="rf_header "><div class="lbl " id="unitsAndFiscalYear" fiscalyearend="December" fyenumber="12" currency="USD">Fiscal year ends in December <br> USD in Million except per share data</div></div><div id="label_s1" class="rf_head1"><div class="lbl" title="Cash Flows From Operating Activities" style="color: rgb(0, 0, 0);"><a class="r_click open " onclick="toggleItem($(this))" headerindex="0h"></a>Cash Flows From Operat...</div><div id="chart_s1" class="chart_contain_free" style="visibility:hidden;"><div class="chart_icon"></div></div></div><div class="r_content" contentindex="0c" style="display: block;"><div id="label_i1" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Net income</div><div id="chart_i1" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i2" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Depreciation &amp; amortization">Depreciation &amp; amortiz...</div><div id="chart_i2" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i3" class="rf_crow1" style="display: none;"><div class="lbl" title="Amortization of debt discount/premium and issuance costs">Amortization of debt d...</div><div id="chart_i3" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i4" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Investment/asset impairment charges">Investment/asset impai...</div><div id="chart_i4" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i5" class="rf_crow1" style="display: none;"><div class="lbl" title="Investments losses (gains)">Investments losses (ga...</div><div id="chart_i5" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i6" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Deferred income taxes</div><div id="chart_i6" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i7" class="rf_crow1" style="display: none;"><div class="lbl" title="(Gain) Loss from discontinued operations">(Gain) Loss from disco...</div><div id="chart_i7" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i8" class="rf_crow1" style="display: none;"><div class="lbl">Extraordinary items</div><div id="chart_i8" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i9" class="rf_crow1" style="display: none;"><div class="lbl" title="Cumulative effect of accounting change">Cumulative effect of a...</div><div id="chart_i9" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i10" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Stock based compensation">Stock based compensati...</div><div id="chart_i10" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i16" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Accounts receivable</div><div id="chart_i16" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i17" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Inventory</div><div id="chart_i17" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i18" class="rf_crow1" style="display: none;"><div class="lbl">Prepaid expenses</div><div id="chart_i18" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i19" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Accounts payable</div><div id="chart_i19" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i20" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Accrued liabilities</div><div id="chart_i20" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i21" class="rf_crow1" style="display: none;"><div class="lbl">Interest payable</div><div id="chart_i21" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i22" class="rf_crow1" style="display: none;"><div class="lbl">Income taxes payable</div><div id="chart_i22" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i23" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Other working capital</div><div id="chart_i23" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i30" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Other non-cash items</div><div id="chart_i30" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_tts1" class="rf_total1"><div class="lbl" title="Net cash provided by operating activities">Net cash provided by o...</div><div id="chart_tts1" class="chart_contain_free"><div class="chart_icon"></div></div></div></div><div id="label_s2" class="rf_head1"><div class="lbl" title="Cash Flows From Investing Activities" style="color: rgb(0, 0, 0);"><a class="r_click open " onclick="toggleItem($(this))" headerindex="1h"></a>Cash Flows From Invest...</div><div id="chart_s2" class="chart_contain_free" style="visibility:hidden;"><div class="chart_icon"></div></div></div><div class="r_content" contentindex="1c" style="display: block;"><div id="label_i31" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Investments in property, plant, and equipment">Investments in propert...</div><div id="chart_i31" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i32" class="rf_crow1" style="display: none;"><div class="lbl" title="Property, plant, and equipment reductions">Property, plant, and e...</div><div id="chart_i32" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i33" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Acquisitions, net</div><div id="chart_i33" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i34" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Purchases of investments">Purchases of investmen...</div><div id="chart_i34" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i35" class="rf_crow1" style="display: none;"><div class="lbl" title="Sales/Maturities of investments">Sales/Maturities of in...</div><div id="chart_i35" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i36" class="rf_crow1" style="display: none;"><div class="lbl" title="Investments in technologies">Investments in technol...</div><div id="chart_i36" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i37" class="rf_crow1" style="display: none;"><div class="lbl">Sales of technologies</div><div id="chart_i37" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i38" class="rf_crow1" style="display: none;"><div class="lbl" title="Purchases of intangibles">Purchases of intangibl...</div><div id="chart_i38" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i39" class="rf_crow1" style="display: none;"><div class="lbl">Sales of intangibles</div><div id="chart_i39" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i60" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Other investing activities">Other investing activi...</div><div id="chart_i60" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_tts2" class="rf_total1"><div class="lbl" title="Net cash used for investing activities">Net cash used for inve...</div><div id="chart_tts2" class="chart_contain_free"><div class="chart_icon"></div></div></div></div><div id="label_s3" class="rf_head1"><div class="lbl" title="Cash Flows From Financing Activities" style="color: rgb(0, 0, 0);"><a class="r_click open " onclick="toggleItem($(this))" headerindex="2h"></a>Cash Flows From Financ...</div><div id="chart_s3" class="chart_contain_free" style="visibility:hidden;"><div class="chart_icon"></div></div></div><div class="r_content" contentindex="2c" style="display: block;"><div id="label_i61" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Debt issued</div><div id="chart_i61" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i62" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Debt repayment</div><div id="chart_i62" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i63" class="rf_crow1" style="display: none;"><div class="lbl">Preferred stock issued</div><div id="chart_i63" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i64" class="rf_crow1" style="display: none;"><div class="lbl">Preferred stock repaid</div><div id="chart_i64" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i65" class="rf_crow1" style="display: none;"><div class="lbl">Warrant issued</div><div id="chart_i65" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i66" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Common stock issued</div><div id="chart_i66" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i67" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Common stock repurchased">Common stock repurchas...</div><div id="chart_i67" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i68" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Excess tax benefit from stock based compensation">Excess tax benefit fro...</div><div id="chart_i68" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i69" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Dividend paid</div><div id="chart_i69" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i70" class="rf_crow1" style="display: none;"><div class="lbl">Dividend payable</div><div id="chart_i70" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i90" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Other financing activities">Other financing activi...</div><div id="chart_i90" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_tts3" class="rf_total1"><div class="lbl" title="Net cash provided by (used for) financing activities">Net cash provided by (...</div><div id="chart_tts3" class="chart_contain_free"><div class="chart_icon"></div></div></div></div><div id="label_i91" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Effect of exchange rate changes">Effect of exchange rat...</div><div id="chart_i91" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i93" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Net change in cash</div><div id="chart_i93" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i94" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl" title="Cash at beginning of period">Cash at beginning of p...</div><div id="chart_i94" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i95" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Cash at end of period</div><div id="chart_i95" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_s8_padding" class="rf_crow0"><div class="lbl">&nbsp;</div><div id="chart_s8_padding" class="chart_contain_free" style="visibility:hidden;"><div class="chart_icon"></div></div></div><div id="label_g7" class="rf_crow1" style="_height:16px; _float:none;"><div class="lbl">Free Cash Flow</div><div id="chart_g7" class="chart_contain_free" style="visibility:hidden;"><div class="chart_icon"></div></div></div><div id="label_i100" class="rf_crow2" style="_height:16px; _float:none;"><div class="lbl">Operating cash flow</div><div id="chart_i100" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i96" class="rf_crow2" style="_height:16px; _float:none;"><div class="lbl">Capital expenditure</div><div id="chart_i96" class="chart_contain_free"><div class="chart_icon"></div></div></div><div id="label_i97" class="rf_crow2" style="_height:16px; _float:none;"><div class="lbl">Free cash flow</div><div id="chart_i97" class="chart_contain_free"><div class="chart_icon"></div></div></div></div></div><div class="main "><div id="makeMeScrollable"><div class="scrollWrapper"><div class="scrollableArea" style="width: 680px;"><div class="r_xcmenu rf_table"><div id="Year" class="rf_header"><div class="year column6Width109px" id="Y_1"><br>2011-12</div><div class="year column6Width109px" id="Y_2"><br>2012-12</div><div class="year column6Width109px" id="Y_3"><br>2013-12</div><div class="year column6Width109px" id="Y_4"><br>2014-12</div><div class="year column6Width109px" id="Y_5"><br>2015-12</div><div class="year column6Width109px" id="Y_6"><br>TTM</div></div><div id="data_s1" class="rf_crow" style="color: rgb(255, 255, 255);"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="328900000">329</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="449700000">450</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="416900000">417</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="381900000">382</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="359100000">359</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="438300000">438</div></div><div class="r_click " style="display:none" headerindex="3h"></div><div class="r_content" contentindex="3c" style="display: block;"><div id="data_i1" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="156400000">156</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="250500000">251</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="199700000">200</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="101200000">101</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="329200000">329</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="347500000">348</div></div><div id="data_i2" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="116900000">117</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="116100000">116</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="122600000">123</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="117900000">118</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="113200000">113</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="111900000">112</div></div><div id="data_i3" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i4" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="34900000">35</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="1700000">2</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="65400000">65</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="109300000">109</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="6500000">7</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="600000">1</div></div><div id="data_i5" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i6" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-1100000">(1)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-21900000">(22)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-32900000">(33)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-39800000">(40)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="24100000">24</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="20200000">20</div></div><div id="data_i7" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i8" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i9" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i10" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="35300000">35</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="33800000">34</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="36300000">36</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="41600000">42</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="45200000">45</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="45400000">45</div></div><div id="data_i16" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-29500000">(30)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="60600000">61</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i17" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-16300000">(16)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-39100000">(39)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-4100000">(4)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-21900000">(22)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-49100000">(49)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-26200000">(26)</div></div><div id="data_i18" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i19" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="29400000">29</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="27400000">27</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="35000000">35</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="47500000">48</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-54300000">(54)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-27100000">(27)</div></div><div id="data_i20" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="4300000">4</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="11400000">11</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="9800000">10</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="124300000">124</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-50600000">(51)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-59500000">(60)</div></div><div id="data_i21" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i22" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i23" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-1700000">(2)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-2900000">(3)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-14300000">(14)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-96300000">(96)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-16800000">(17)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="9600000">10</div></div><div id="data_i30" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="300000">0</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="12100000">12</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-600000">(1)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-1900000">(2)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="11700000">12</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="15900000">16</div></div><div id="data_tts1" class="rf_total"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="328900000">329</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="449700000">450</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="416900000">417</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="381900000">382</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="359100000">359</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="438300000">438</div></div></div><div id="data_s2" class="rf_crow" style="color: rgb(255, 255, 255);"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-36600000">(37)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-294000000">(294)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-75300000">(75)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-102700000">(103)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-69600000">(70)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-84300000">(84)</div></div><div class="r_click " style="display:none" headerindex="4h"></div><div class="r_content" contentindex="4c" style="display: block;"><div id="data_i31" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-75000000">(75)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-71000000">(71)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-80600000">(81)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-94100000">(94)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-103200000">(103)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-109200000">(109)</div></div><div id="data_i32" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i33" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="20200000">20</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-195800000">(196)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-9000000">(9)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="6100000">6</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="40300000">40</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="32100000">32</div></div><div id="data_i34" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-22400000">(22)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i35" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i36" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i37" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i38" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i39" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i60" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="18200000">18</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-4800000">(5)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="14300000">14</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-14700000">(15)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-6700000">(7)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-7200000">(7)</div></div><div id="data_tts2" class="rf_total"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-36600000">(37)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-294000000">(294)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-75300000">(75)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-102700000">(103)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-69600000">(70)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-84300000">(84)</div></div></div><div id="data_s3" class="rf_crow" style="color: rgb(255, 255, 255);"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-303600000">(304)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-36600000">(37)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-434300000">(434)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-203600000">(204)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-349200000">(349)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-356200000">(356)</div></div><div class="r_click " style="display:none" headerindex="5h"></div><div class="r_content" contentindex="5c" style="display: block;"><div id="data_i61" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="146700000">147</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="299200000">299</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="0">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="299300000">299</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="400000">0</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="0">—</div></div><div id="data_i62" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-81600000">(82)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-11800000">(12)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-203700000">(204)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-188100000">(188)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-205000000">(205)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-203100000">(203)</div></div><div id="data_i63" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i64" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i65" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i66" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="20500000">21</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="35600000">36</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="36900000">37</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="21800000">22</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="8300000">8</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="6000000">6</div></div><div id="data_i67" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-225300000">(225)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-30000000">(30)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-169400000">(169)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-149700000">(150)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-191500000">(192)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-234200000">(234)</div></div><div id="data_i68" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="10600000">11</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="15700000">16</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="4300000">4</div></div><div id="data_i69" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-155900000">(156)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-199500000">(200)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-124900000">(125)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-167500000">(168)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-171600000">(172)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-172400000">(172)</div></div><div id="data_i70" class="rf_crow" style="display: none;"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="—">—</div></div><div id="data_i90" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-8000000">(8)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-130100000">(130)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="26800000">27</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-30000000">(30)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="194500000">195</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="243200000">243</div></div><div id="data_tts3" class="rf_total"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-303600000">(304)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-36600000">(37)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-434300000">(434)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-203600000">(204)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-349200000">(349)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-356200000">(356)</div></div></div><div id="data_i91" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="3100000">3</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="3700000">4</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="6300000">6</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-15500000">(16)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-19900000">(20)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-9800000">(10)</div></div><div id="data_i93" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-8200000">(8)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="122800000">123</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-86400000">(86)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="60100000">60</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-79600000">(80)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-12000000">(12)</div></div><div id="data_i94" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="244500000">245</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="236300000">236</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="359100000">359</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="272700000">273</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="332800000">333</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="262200000">262</div></div><div id="data_i95" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="236300000">236</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="359100000">359</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="272700000">273</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="332800000">333</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="253200000">253</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="250200000">250</div></div><div id="data_s8_padding" class="rf_crow0"><div class="column6Width109px">&nbsp;</div><div class="column6Width109px">&nbsp;</div><div class="column6Width109px">&nbsp;</div><div class="column6Width109px">&nbsp;</div><div class="column6Width109px">&nbsp;</div><div class="column6Width109px">&nbsp;</div></div><div id="data_g7" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="nbsp">&nbsp;</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="nbsp">&nbsp;</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="nbsp">&nbsp;</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="nbsp">&nbsp;</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="nbsp">&nbsp;</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="nbsp">&nbsp;</div></div><div id="data_i100" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="328900000">329</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="449700000">450</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="416900000">417</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="381900000">382</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="359100000">359</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="438300000">438</div></div><div id="data_i96" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-75000000">(75)</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-71000000">(71)</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-80600000">(81)</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-94100000">(94)</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-103200000">(103)</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="-109200000">(109)</div></div><div id="data_i97" class="rf_crow"><div id="Y_1" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="253900000">254</div><div id="Y_2" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="378700000">379</div><div id="Y_3" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="336300000">336</div><div id="Y_4" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="287800000">288</div><div id="Y_5" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="255900000">256</div><div id="Y_6" class="pos column6Width109px" style="overflow:hidden;white-space: nowrap;" rawvalue="329100000">329</div></div></div></div></div></div></div></div></div>
+	
+	
+	<script type="text/javascript">
+		var print4com = false
+		SRT_stocFund.LoadAComponent("sfcontent", "LEG", "cf", "en-US","USA", "", "usa", null,{showSubTab: false}, {refresh:"", urlAppendix:"&t=XNYS:LEG&region=usa&culture=en-US&cur="});
+		var ops = "";
+	</script>
+
+
+	
+	<div class="hspacer3"></div>
+	<div class="feedback r_txt2">&nbsp;<img src="//financials.morningstar.com/finan/static/common/img/feedback.gif" height="9" width="9">&nbsp;We value your <a href='javascript:openWin("//www.surveymonkey.com/s.aspx?sm=78M6BiWSLEyvAXjwPKhQxQ_3d_3d","","");'>feedback</a>. Let us know what you think.</div>
+	<div class="r_footer"></div>
+</div>
+
+</div>
+<div class="footerwrap">
+	
+		
+	<!--[If !IE]> start leaderboard ads <![endif]-->
+    <div class="f_Ads">
+        <div class="f_Ads_row1">
+            <div class="f_leaderad">
+                            <div id="OAS_Bottom">
+                  <script type="text/javascript">
+				      OAS_AD('footer');
+				</script><div id="msad47642" style="text-align: center" class="msmediaads" data-width="728" data-height="90">  <script type="text/javascript">  var pubId=47505;  var siteId=82723;  var kadId=241551;  var kadwidth=728;  var kadheight=90;  var kadtype=1;  var kadpageurl="http://financials.morningstar.com/cash-flow/cf.html?t=LEG&region=USA&culture=en_US";  </script>  <script type="text/javascript" src="https://ads.pubmatic.com/AdServer/js/showad.js">  </script><iframe frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" scrolling="no" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" src="http://ads.pubmatic.com/AdServer/js/showad.js#PIX&amp;p=47505&amp;s=82723&amp;a=241551&amp;it=0&amp;kdntuid=1"></iframe><iframe frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" scrolling="no" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" src="http://ads.pubmatic.com/AdServer/js/showad.js" onload="PubMatic.ifl(this,0)"></iframe><script type="text/javascript" src="http://showads.pubmatic.com/AdServer/AdServerServlet?pubId=47505&amp;siteId=82723&amp;adId=241551&amp;kadwidth=728&amp;kadheight=90&amp;SAVersion=2&amp;js=1&amp;kdntuid=1&amp;pageURL=http%3A%2F%2Ffinancials.morningstar.com%2Fcash-flow%2Fcf.html%3Ft%3DLEG%26region%3DUSA%26culture%3Den_US&amp;inIframe=0&amp;kadpageurl=http%3A%2F%2Ffinancials.morningstar.com%2Fcash-flow%2Fcf.html%3Ft%3DLEG%26region%3DUSA%26culture%3Den_US&amp;operId=3&amp;kltstamp=2016-6-26%2013%3A25%3A40&amp;timezone=-4&amp;screenResolution=1366x768&amp;ranreq=0.5534637328237295&amp;pmUniAdId=0&amp;adVisibility=2&amp;adPosition=539x21&amp;dspids=%7B%7D" onload="PubMatic.tags[0].jsl();"></script><span class="PubAdAI">
+
+
+<div style="height: 90px; width: 728px; display: table-cell; vertical-align: middle;">
+<div style="width: 728px; margin-left: auto; margin-right: auto;">  
+<div id="qc-ad-size" class="qc-ad-728x90">
+  <link href="http://content.quantcount.com/adchoices/v2/css/728x90.css" rel="stylesheet" type="text/css">
+
+  <!--[if lte IE 8]>
+  <link href="http://content.quantcount.com/adchoices/v2/css/ie.css" rel="stylesheet" type="text/css"/>
+  <![endif]-->
+
+  <!--[if lte IE 6]>
+  <link href="http://content.quantcount.com/adchoices/v2/css/ie6.css" rel="stylesheet" type="text/css"/>
+  <![endif]-->
+
+  <div class="quantcast-ad-div">
+
+  <iframe src="https://ad.doubleclick.net/ddm/adi/N6542.151350.QUANTCAST/B9315042.126608557;dcopt=;sz=728x90;click=http://clicktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?clickData=JnB1YklkPTQ3NTA1JnNpdGVJZD04MjcyMyZhZElkPTI0MTU1MSZrYWRzaXplaWQ9NyZ0bGRJZD0xMTc4NTY1MiZjYW1wYWlnbklkPTE5NDIwJmNyZWF0aXZlSWQ9MCZhZFNlcnZlcklkPTI0MyZpbXBpZD1BMUE0RjU3RS03NUY0LTRCMDYtOTQ2OC00RTU1RkJGRDYyMUYmcGFzc2JhY2s9MA==_url=http%3A%2F%2Fexch.quantserve.com%2Fr%3Fa%3Dp-dcuHIzmQ3wjCs%3Blabels%3D_qc.clk%2C_click.adserver.rtb%2C_click.rand.12713%3Brtbip%3D64.7.204.103%3Brtbdata2%3DEAMaH1VTX0JhbmtfQ2hlY2tpbmdfQWx3YXlzX09uXzIwMTYg9Z8XKMKIDTD37TA6IWh0dHA6Ly9maW5hbmNpYWxzLm1vcm5pbmdzdGFyLmNvbVooUTB3QVFrWWZEMEpiU2dNWEVrZ2FSa0pERDB0YlR3VVVGUl9pWnJEV3UgCJM-gAGU7drcBKAB9vYCqAHyiOQCugEkMUQ1RERCMEMtMjA1OS00NEFDLTlEQTgtODVGRTVCMTE3RTRCwAGUkB_IAaSh--3YKtoBJEFGMDgyRDFDLUVGOTgtNDdGNy1CQTEyLUY2RTBCQzI0NzVFNuUB1uaHPugBMpgCsakOqAIFqAIGsAIIugIEQAfMZ8ACAsgCANACzNjozvuSzIxq4AIA%3Bredirecturl2%3D;ord=330710;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000">
+&lt;SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/N6542.151350.QUANTCAST/B9315042.126608557;abr=!ie;dcopt=;sz=728x90;click=http://clicktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?clickData=JnB1YklkPTQ3NTA1JnNpdGVJZD04MjcyMyZhZElkPTI0MTU1MSZrYWRzaXplaWQ9NyZ0bGRJZD0xMTc4NTY1MiZjYW1wYWlnbklkPTE5NDIwJmNyZWF0aXZlSWQ9MCZhZFNlcnZlcklkPTI0MyZpbXBpZD1BMUE0RjU3RS03NUY0LTRCMDYtOTQ2OC00RTU1RkJGRDYyMUYmcGFzc2JhY2s9MA==_url=http%3A%2F%2Fexch.quantserve.com%2Fr%3Fa%3Dp-dcuHIzmQ3wjCs%3Blabels%3D_qc.clk%2C_click.adserver.rtb%2C_click.rand.12713%3Brtbip%3D64.7.204.103%3Brtbdata2%3DEAMaH1VTX0JhbmtfQ2hlY2tpbmdfQWx3YXlzX09uXzIwMTYg9Z8XKMKIDTD37TA6IWh0dHA6Ly9maW5hbmNpYWxzLm1vcm5pbmdzdGFyLmNvbVooUTB3QVFrWWZEMEpiU2dNWEVrZ2FSa0pERDB0YlR3VVVGUl9pWnJEV3UgCJM-gAGU7drcBKAB9vYCqAHyiOQCugEkMUQ1RERCMEMtMjA1OS00NEFDLTlEQTgtODVGRTVCMTE3RTRCwAGUkB_IAaSh--3YKtoBJEFGMDgyRDFDLUVGOTgtNDdGNy1CQTEyLUY2RTBCQzI0NzVFNuUB1uaHPugBMpgCsakOqAIFqAIGsAIIugIEQAfMZ8ACAsgCANACzNjozvuSzIxq4AIA%3Bredirecturl2%3D;ord=894241;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"&gt;
+&lt;/SCRIPT&gt;
+&lt;NOSCRIPT&gt;
+&lt;A HREF="http://clicktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?clickData=JnB1YklkPTQ3NTA1JnNpdGVJZD04MjcyMyZhZElkPTI0MTU1MSZrYWRzaXplaWQ9NyZ0bGRJZD0xMTc4NTY1MiZjYW1wYWlnbklkPTE5NDIwJmNyZWF0aXZlSWQ9MCZhZFNlcnZlcklkPTI0MyZpbXBpZD1BMUE0RjU3RS03NUY0LTRCMDYtOTQ2OC00RTU1RkJGRDYyMUYmcGFzc2JhY2s9MA==_url=http://exch.quantserve.com/r?a=p-dcuHIzmQ3wjCs&amp;labels=_qc.clk,_click.adserver.rtb,_click.rand.12713&amp;rtbip=64.7.204.103&amp;rtbdata2=EAMaH1VTX0JhbmtfQ2hlY2tpbmdfQWx3YXlzX09uXzIwMTYg9Z8XKMKIDTD37TA6IWh0dHA6Ly9maW5hbmNpYWxzLm1vcm5pbmdzdGFyLmNvbVooUTB3QVFrWWZEMEpiU2dNWEVrZ2FSa0pERDB0YlR3VVVGUl9pWnJEV3UgCJM-gAGU7drcBKAB9vYCqAHyiOQCugEkMUQ1RERCMEMtMjA1OS00NEFDLTlEQTgtODVGRTVCMTE3RTRCwAGUkB_IAaSh--3YKtoBJEFGMDgyRDFDLUVGOTgtNDdGNy1CQTEyLUY2RTBCQzI0NzVFNuUB1uaHPugBMpgCsakOqAIFqAIGsAIIugIEQAfMZ8ACAsgCANACzNjozvuSzIxq4AIA&amp;redirecturl2=https://ad.doubleclick.net/ddm/jump/N6542.151350.QUANTCAST/B9315042.126608557;abr=!ie4;abr=!ie5;dcopt=;sz=728x90;ord=349669?"&gt;
+&lt;IMG SRC="https://ad.doubleclick.net/ddm/ad/N6542.151350.QUANTCAST/B9315042.126608557;abr=!ie4;abr=!ie5;dcopt=;sz=728x90;ord=989535;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?" BORDER=0 WIDTH=728 HEIGHT=90 ALT="Advertisement"&gt;&lt;/A&gt;
+&lt;/NOSCRIPT&gt;
+</iframe>
+
+<img src="http://exch.quantserve.com/pixel/p-dcuHIzmQ3wjCs.gif?media=ad&amp;p=0.509972&amp;r=700437&amp;rand=12713&amp;labels=_qc.imp,_imp.adserver.rtb&amp;rtbip=64.7.204.103&amp;rtbdata2=EAMaH1VTX0JhbmtfQ2hlY2tpbmdfQWx3YXlzX09uXzIwMTYg9Z8XKMKIDTD37TA6IWh0dHA6Ly9maW5hbmNpYWxzLm1vcm5pbmdzdGFyLmNvbVooUTB3QVFrWWZEMEpiU2dNWEVrZ2FSa0pERDB0YlR3VVVGUl9pWnJEV3UgCJM-gAGU7drcBKAB9vYCqAHyiOQCugEkMUQ1RERCMEMtMjA1OS00NEFDLTlEQTgtODVGRTVCMTE3RTRCwAGUkB_IAaSh--3YKtoBJEFGMDgyRDFDLUVGOTgtNDdGNy1CQTEyLUY2RTBCQzI0NzVFNuUB1uaHPugBMpgCsakOqAIFqAIGsAIIugIEQAfMZ8ACAsgCANACzNjozvuSzIxq4AIA" style="display: none;" border="0" height="1" width="1" alt="Quantcast">
+  </div>
+  <a class="qc-adchoices-link top-right " href="http://pixel.quantcount.com/r?a=p-9fYuixa7g_Hm2;rand=12713;labels=_click.creative.iab,_qc.iab.clk.p-dcuHIzmQ3wjCs.214082.800503;redirecturl2=http://www.quantcast.com/adchoices" target="_blank">
+    <div class="qc-adchoices top-right ">
+      <span class="qc-adchoices-text">AdChoices</span>
+      <img class="qc-adchoices-icon" width="12" height="12" src="http://content.quantcount.com/adchoices/img/adc.png">
+    </div>
+  </a>
+  <div class="border-div"></div>
+</div>
+
+<img src="http://pixel.quantcount.com/pixel/p-9fYuixa7g_Hm2.gif?labels=_imp.creative.iab,_qc.iab.imp.p-dcuHIzmQ3wjCs.214082.800503" style="display: none;" border="0" height="1" width="1" alt="Quantcast">
+
+
+</div>
+</div>
+<iframe name="pbeacon" frameborder="0" allowtransparency="true" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" width="0" height="0" style="position:absolute;top:-20000px;" src="http://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&amp;pubId=47505&amp;siteId=82723&amp;adId=241551&amp;adServerId=243&amp;kefact=0.500000&amp;kaxefact=0.500000&amp;kadNetFrequecy=9&amp;kadwidth=728&amp;kadheight=90&amp;kadsizeid=7&amp;kltstamp=1466961940&amp;indirectAdId=0&amp;adServerOptimizerId=2&amp;ranreq=0.5534637328237295&amp;kpbmtpfact=0.509972&amp;dcId=1&amp;tldId=11785652&amp;passback=0&amp;imprId=A1A4F57E-75F4-4B06-9468-4E55FBFD621F&amp;oid=A1A4F57E-75F4-4B06-9468-4E55FBFD621F&amp;ias=257&amp;crID=800503&amp;campaignId=19420&amp;creativeId=0&amp;pctr=0.000000&amp;wDSPByrId=1&amp;imprCap=1&amp;pageURL=http%3A%2F%2Ffinancials.morningstar.com%2Fcash-flow%2Fcf.html%3Ft%3DLEG%26region%3DUSA%26culture%3Den_US&amp;lpu=usbank.com"> </iframe><!-- PubMatic Ad Ends --> </span>  </div>  
+                </div>
+            </div>
+            <!--
+            <div class="f_Ads_col1">Content Partners
+            	<div class="f_partner1"></div>
+              	<div class="f_partner2"></div>
+        	</div>
+        	-->
+        </div>
+	</div>  <!--[If !IE]> end leaderboard ads <![endif]-->
+ 
+  	<div class="f_Directory">
+        <div class="f_Directory_row1">
+			<a id="nav1" class="f_sdirtab" title="Morningstar.com Site Directory" onclick="javascript:getSiteFooter('siteDirectoryContent', this);">Site Directory</a>
+          	<a id="nav2" class="f_sdirtab" title="Morningstar.com Site Map" onclick="javascript:getSiteFooter('siteMapContent', this);">Site Map</a>
+          	<a id="nav3" class="f_sdirtab" title="Morningstar.com Products" onclick="javascript:getSiteFooter('productsContent', this);">Our Products</a>
+            <div class="f_sdirsearch">
+               	<input id="AutoCompleteBoxFooter" name="sSrchTerm" value="" class="h_quote" autocomplete="off" maxlength="256" type="text">
+              	<a class="hqt_button" onclick="FooterBox.trySubmit()" href="javascript:void(0)"></a>                   
+	           	<form name="searchFormFooter" method="post" onsubmit="srchTerm('searchFooter')" style="margin: 0px; padding: 0px;float:left;">                        
+                <input name="sSrchTerm" value="" class="h_search" onclick="ClearSearchBox('searchFooter')" type="text">
+                <input name="SrchTerm" type="hidden">
+                <a href="javascript:srchTerm('searchFooter')" class="hsr_button"></a>
+            </form>
+            </div> 
+   		</div>
+        <!--[If !IE]> start site directory <![endif]-->
+        <div class="f_Directory_row2" id="siteDirectoryContent" style="display:none;">
+  
+        </div>  <!--[If !IE]> end site directory <![endif]-->
+        
+        <!--[If !IE]> start site smap <![endif]-->
+        <div class="f_Directory_row2" id="siteMapContent" style="display:none;">
+              
+            <!--[If !IE]> end smapwrap <![endif]-->
+        </div>  <!--[If !IE]> end site map <![endif]-->
+        
+        <!--[If !IE]> start products <![endif]-->
+        <div class="f_Directory_row2" id="productsContent" style="display:none;">
+               <!--[If !IE]> end prodwrap <![endif]-->
+    	</div>  <!--[If !IE]> end products <![endif]-->
+ 
+    </div><!--[If !IE]> end directory <![endif]-->
+
+    <!--[If !IE]> start links <![endif]-->
+    <div class="f_Links">
+        <div class="f_Links_row1">
+        	<a href="//news.morningstar.com/Corrections/CorrectionsList.html" class="f_text3">Corrections</a>
+            <a href="//www.morningstar.com/Cover/Help.html" class="f_text3">Help</a>
+            <a href="//www.morningstar.com/AboutUs/MediaKit.html" class="f_text3">Advertising Opportunities</a>
+            <a href="//members.morningstar.com/reprints/rp_home.html" class="f_text3">Licensing Opportunities</a>
+            <a href="//www.morningstar.com/InvGlossary/?CustId=&amp;CLogin=&amp;CType=&amp;CName=" class="f_text3">Glossary</a>
+            <a href="//news.morningstar.com/rss/rss.html" class="f_text3">RSS</a>
+            <a href="//mobile.morningstar.com/(S(dqff4gf55gvf0ub4h4bi2145))/mobileport.aspx" class="f_text3">Mobile Portfolio</a>
+            <a href="//members.morningstar.com/memberstpages/Morningstar_Affiliate.html" class="f_text3">Affiliate</a>
+            <a href="//corporate.morningstar.com/US/asp/subject.aspx?xmlfile=361.xml" class="f_text3">Careers</a>        </div>
+  	</div>  <!--[If !IE]> end links <![endif]-->
+    
+    <!--[If !IE]> start international sites <![endif]-->
+    <div class="f_Sites">
+        <div class="f_Sites_row1">International Sites:
+        	<a href="//www.morningstar.com.au/" class="f_text4">Australia</a>
+            <a href="//www.morningstar.ca/" class="f_text4">Canada</a>
+            <a href="//www.cn.morningstar.com/main/default.aspx" class="f_text4">China</a>
+            <a href="//www.morningstar.fr/" class="f_text4">France</a>
+            <a href="//www.morningstarfonds.de/de/default.aspx?lang=de-DE" class="f_text4">Germany</a>
+            <a href="//www.hk.morningstar.com/" class="f_text4">Hong Kong</a>
+            <a href="//www.morningstar.it/it/default.aspx?lang=it-IT" class="f_text4">Italy</a>
+            <a href="//www.morningstar.nl/nl/default.aspx?lang=nl-NL" class="f_text4">The Netherlands</a>
+            <a href="//www.morningstar.no/" class="f_text4">Norway</a>
+            <a href="//www.morningstar.es/es/default.aspx?lang=es-ES" class="f_text4">Spain</a>
+            <a href="//www.morningstar.co.uk/uk/default.aspx" class="f_text4">U.K.</a>        
+        	<a href="//www.morningstar.ch" class="f_text4">Switzerland</a>
+        </div>
+  	</div>  <!--[If !IE]> end international sites <![endif]-->
+    
+    <!--[If !IE]> start copyright, seo <![endif]-->
+    <div class="f_Copyright">
+     <div class="ya_cnt1">
+    <div class="ya_grp1">
+        <div class="ya_row2">Stocks by:
+            <a href="http://www.morningstar.com/invest/stocks/index1.html" class="f_text4">Name</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/stocks/indexb1.html" class="f_text4">Ticker</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/stocks/indexc1.html" class="f_text4">Star Rating</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/stocks/indexd1.html" class="f_text4">Market Cap</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/stocks/indexe1.html" class="f_text4">Stock Type</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/stocks/indexf1.html" class="f_text4">Sector</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/stocks/indexg1.html" class="f_text4">Industry</a>
+        </div>
+    </div>
+    <div class="ya_grp2">
+        <div class="ya_row2">Mutual Funds by:
+            <a href="http://www.morningstar.com/invest/funds/index1.html" class="f_text4">Star Rating</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/funds/indexb1.html" class="f_text4">Investment Style</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/funds/indexc1.html" class="f_text4">Total Assets</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/funds/indexd1.html" class="f_text4">Category</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/funds/indexe1.html" class="f_text4">Top Holdings</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/funds/indexf1.html" class="f_text4">Top Sectors</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/funds/indexg1.html" class="f_text4">Symbol / Ticker</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/funds/indexh1.html" class="f_text4">Name</a>
+        </div>
+    </div>
+    <div class="ya_grp3">
+        <div class="ya_row2">ETFs by:
+            <a href="http://www.morningstar.com/invest/etf/index1.html" class="f_text4">Star Rating</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/etf/indexb1.html" class="f_text4">Category</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/etf/indexc1.html" class="f_text4">Total Assets</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/etf/indexd1.html" class="f_text4">Symbol / Ticker</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/etf/indexe1.html" class="f_text4">Name</a>
+        </div>
+    </div>
+    <div class="ya_grp1">
+        <div class="ya_row2">Articles by:
+            <a href="http://www.morningstar.com/invest/articles/index1.html" class="f_text4">Title</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/articles/indexb1.html" class="f_text4">Date</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/articles/indexc1.html" class="f_text4">Author</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/articles/indexd1.html" class="f_text4">Collection</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/articles/indexe1.html" class="f_text4">Interest</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/articles/indexf1.html" class="f_text4">Popularity</a>
+        </div>
+    </div>
+    <div class="ya_grp3">
+        <div class="ya_row2">Investment Categories by:
+            <a href="http://www.morningstar.com/invest/categories/index1.html" class="f_text4">Topic</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/categories/indexb1.html" class="f_text4">Sector</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/categories/indexc1.html" class="f_text4">Key Indicators</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/categories/indexd1.html" class="f_text4">User Interest</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/categories/indexe1.html" class="f_text4">Market Cap</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/categories/indexf1.html" class="f_text4">Industry</a>
+        </div>
+    </div>
+    <div class="ya_grp2">
+        <div class="ya_row2">Premium Stocks by:
+            <a href="http://www.morningstar.com/invest/premium-stocks/index1.html" class="f_text4">Name</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-stocks/indexb1.html" class="f_text4">Ticker</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-stocks/indexc1.html" class="f_text4">Star Rating</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-stocks/indexd1.html" class="f_text4">Market Cap</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-stocks/indexe1.html" class="f_text4">Stock Type</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-stocks/indexf1.html" class="f_text4">Sector</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-stocks/indexg1.html" class="f_text4">Industry</a>
+        </div>
+    </div>
+    <div class="ya_grp3">
+        <div class="ya_row2">Premium Mutual Funds by:
+            <a href="http://www.morningstar.com/invest/premium-funds/index1.html" class="f_text4">Star Rating</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-funds/indexb1.html" class="f_text4">Investment Style</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-funds/indexc1.html" class="f_text4">Total Assets</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-funds/indexd1.html" class="f_text4">Category</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-funds/indexe1.html" class="f_text4">Top Holdings</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-funds/indexf1.html" class="f_text4">Top Sectors</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-funds/indexg1.html" class="f_text4">Symbol / Ticker</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-funds/indexh1.html" class="f_text4">Name</a>
+        </div>
+    </div>
+    <div class="ya_grp3">
+        <div class="ya_row2">Premium ETFs by:
+            <a href="http://www.morningstar.com/invest/premium-etf/index1.html" class="f_text4">Star Rating</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-etf/indexb1.html" class="f_text4">Category</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-etf/indexc1.html" class="f_text4">Total Assets</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-etf/indexd1.html" class="f_text4">Symbol / Ticker</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/premium-etf/indexe1.html" class="f_text4">Name</a>
+        </div>
+    </div>
+    <div class="ya_grp3">
+        <div class="ya_row2">Popular Articles by:
+            <a href="http://www.morningstar.com/invest/popular-articles/index1.html" class="f_text4">Title</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/popular-articles/indexb1.html" class="f_text4">Date</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/popular-articles/indexc1.html" class="f_text4">Author</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/popular-articles/indexd1.html" class="f_text4">Collection</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/popular-articles/indexe1.html" class="f_text4">Interest</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/popular-articles/indexf1.html" class="f_text4">Popularity</a>
+        </div>
+    </div>
+    <div class="ya_grp3">
+        <div class="ya_row2">Popular Investment Categories by:
+            <a href="http://www.morningstar.com/invest/popular-categories/index1.html" class="f_text4">Topic</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/popular-categories/indexb1.html" class="f_text4">Sector</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/popular-categories/indexc1.html" class="f_text4">Key Indicators</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/popular-categories/indexd1.html" class="f_text4">User Interest</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/popular-categories/indexe1.html" class="f_text4">Market Cap</a>
+            <span>|</span>
+            <a href="http://www.morningstar.com/invest/popular-categories/indexf1.html" class="f_text4">Industry</a>
+        </div>
+    </div>
+    <div class="ya_bottom1"></div>
+</div>
+    
+        <div class="f_Copyright_row1">Independent. Insightful. Trusted. Morningstar provides stock market analysis; equity, mutual fund, and ETF research, ratings, and picks; portfolio tools; and option, hedge fund, IRA, 401k, and 529 plan research. Our reliable data and analysis can help both experienced enthusiasts and newcomers.<br><br>
+        © Copyright <script type="text/javascript">var now = new Date();var year = now.getFullYear();document.write(year);</script>2016 Morningstar, Inc. All rights reserved. Please read our <a class="f_text4" href="//www.morningstar.com/AboutUs/copyright.html" rel="nofollow">Terms of Use</a>and <a class="f_text4" href="//members.morningstar.com/memberstpages/PrivacyPolicy.html" rel="nofollow">Privacy Policy.</a>Dow Jones Industrial Average, S&amp;P 500, Nasdaq, and Morningstar Index (Market Barometer) quotes are real-time. Russell 2000 quote is 10 minutes delayed.</div>
+  	</div>  <!--[If !IE]> end copyright, seo <![endif]-->
+  	<div>
+
+
+  
+
+
+</div>
+</div>  <!--[If !IE]> end footerwrap <![endif]-->    
+    
+<div id="AutoCompleteDropDownFooter"></div> 
+<!-- live  -->
+	<script language="javascript">var contextPath="//financials.morningstar.com/finan";</script>
+    <script src="//financials.morningstar.com/finan/static/common/js/mstar_v1.3.js" language="javascript"></script>
+
+<script language="javascript">
+var tickerTapeObj = new TickerTape1("tickerTapeObj","TickerWrapper","",2);
+</script><div id="TickerWrapper"></div>
+
+
+
+<script language="javascript">
+    function getObj(name) {
+			if (document.getElementById) this.obj = document.getElementById(name);
+			else if (document.all) this.obj = document.all[name];
+			else if (document.layers) this.obj = document.layers[name];
+			if (this.obj) this.style = this.obj.style;
+		}
+  var object_togo = new getObj('OAS_x61');
+  var object_tomove = new getObj('Hidden_OAS_x61');
+  if (object_togo.obj!=null && object_tomove.obj!=null) 
+	{ 
+	  object_togo.obj.appendChild(object_tomove.obj);
+	  object_tomove.style.display = "inline";
+	}
+  /* if (document.getElementById) {
+     var x61Obje= document.getElementById("OAS_x61");
+     if(x61Obje!=null){
+        var jsE = document.createElement("script");
+        jsE.setAttribute("type", "text/javascript");
+        jsE.setAttribute("value", "OAS_AD('tickertapebutton');");
+        x61Obje.appendChild(jsE);
+     }
+   }*/
+   
+var HeaderBox = initBoxQuote("AutoCompleteBox","AutoCompleteDropDown");
+HeaderBox.IdleDisplayMsg = "";
+HeaderBox.LocalRegion="USA";
+HeaderBox.SetPreference('USA','EN',32);
+var FooterBox = initBoxQuote("AutoCompleteBoxFooter","AutoCompleteDropDownFooter");
+FooterBox.IdleDisplayMsg = "";
+FooterBox.LocalRegion="USA";
+FooterBox.SetPreference('USA','EN',32);
+
+
+//clears all content/image boxes--------------------------------------------------------------------------------------
+var imageIDs=new Array('siteDirectoryContent', 'siteMapContent', 'productsContent'); //content boxes
+</script>
+
+
+<script src="//financials.morningstar.com/finan/static/common/js/tracking_user_cgmn_c.js" language="javascript"></script><script src="http://b.scorecardresearch.com/beacon.js?c1=2&amp;c2=3005358&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15="></script>
+
+<style type="text/css">
+.mi_row3{display: none}
+</style>                                      
+
+<script language="javascript">
+$(window).unload(function(){
+	var ScrollY = 0;//window.pageYOffset || document.documentElement.scrollTop || 0;
+	document.cookie = "ScrollY=" + ScrollY + ";path=/;domain=.morningstar.com;";
+});
+
+//Read and scroll
+function ReadCookieAndScroll(){
+	var ScrollY = GetCookie("ScrollY");
+    if (ScrollY !== "" && !isNaN(ScrollY))
+    	window.scrollTo(0, ScrollY); 
+}
+
+function GetCookie(name){
+	if(document.cookie.length<=0)
+    	return "";
+
+   	name += "=";
+    var start = document.cookie.indexOf(name);
+    if (start < 0)
+       return "";
+
+	start += name.length;
+    var end = document.cookie.indexOf(";",start);
+    if (end < 0)
+    	end = document.cookie.length;
+              
+   	return document.cookie.substring(start,end);
+}
+
+//var bloomreachConfig = {
+//"category" : "Cash Flow",
+//"productName" : "LEG"
+//};
+//setBoolemreachConfig(bloomreachConfig);
+
+</script>
+<script language="javascript">
+function turnon(b) {
+for ( var a = 1; a <= 12; a++) {
+	//document.getElementById("Tabmenu" + a).className = "sdir_menu";
+	document.getElementById("menu" + a).style.display = "none"
+}
+	document.getElementById("Tab" + b).className = "sdir_menuOn";
+	document.getElementById(b).style.display = "block"
+} 
+</script>
+
+<div id="enlarge_images" style="display:none; background:#fff; border:1px solid #999; border-right:2px solid #999; border-bottom:2px solid #999; width:317px; height:233px;padding:12px; position:absolute; top:0px; left:0px; z-index:100;filter:alpha(opacity=90);?-moz-opacity:0.9; opacity: 0.9;"></div></body></html>

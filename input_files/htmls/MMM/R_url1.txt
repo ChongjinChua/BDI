@@ -1,9 +1,9 @@
 <!--[if !IE]> This has been served from cache <![endif]-->
-<!--[if !IE]> Request served from apache server: S264630NJ2XSF08 <![endif]-->
-<!--[if !IE]> Cached on Sun, 26 Jun 2016 05:57:24 GMT and will expire on Sun, 26 Jun 2016 06:02:24 GMT <![endif]-->
-<!--[if !IE]> token: eae78f16-0f49-4bdc-bd78-63bd89f2c602 <![endif]-->
-<!--[if !IE]> CSTAT-UUID: 4a91a6e1-de28-4c7d-8e3b-afa909e9f459 <![endif]-->
-<!--[if !IE]> App Server /S264630NJ2XSF57/ <![endif]-->
+<!--[if !IE]> Request served from apache server: S264630NJ2XSF13 <![endif]-->
+<!--[if !IE]> Cached on Sun, 26 Jun 2016 15:30:52 GMT and will expire on Sun, 26 Jun 2016 15:35:51 GMT <![endif]-->
+<!--[if !IE]> token: 9b3d66a7-94fe-4e85-b2a6-05572ee78314 <![endif]-->
+<!--[if !IE]> CSTAT-UUID: 1f179979-530e-4198-a7a5-f6582d115977 <![endif]-->
+<!--[if !IE]> App Server /S264630NJ2XSF58/ <![endif]-->
 
 <!doctype html>
 <html>
@@ -1358,14 +1358,14 @@ float: right;
 			<div class="sectionQuoteDetail">
 				<span>Avg. Vol</span>
 				<br class="clear">
-				<span>1,950,435</span>
+				<span>1,973,593</span>
 			</div>
 		</div>
 		<div class="sectionQuote">
 			<div class="sectionQuoteDetailTop">
 				<span>52-wk High</span>
 				<br class="clear">
-				<span class="sectionQuoteDetailHigh">&#36;172.80</span>
+				<span class="sectionQuoteDetailHigh">&#36;174.15</span>
 			</div>
 			<div class="sectionQuoteDetail">
 				<span>52-wk Low</span>

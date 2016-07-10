@@ -1,9 +1,9 @@
 <!--[if !IE]> This has been served from cache <![endif]-->
-<!--[if !IE]> Request served from apache server: S264630NJ2XSF01 <![endif]-->
-<!--[if !IE]> Cached on Sun, 26 Jun 2016 05:51:09 GMT and will expire on Sun, 26 Jun 2016 05:56:09 GMT <![endif]-->
-<!--[if !IE]> token: 08ab081c-6e2d-485e-b40c-91454ae0b125 <![endif]-->
-<!--[if !IE]> CSTAT-UUID: 3df31f63-7e91-4b94-b643-2fe884371ef6 <![endif]-->
-<!--[if !IE]> App Server /S264630NJ2XSF49/ <![endif]-->
+<!--[if !IE]> Request served from apache server: S264630NJ2XSF20 <![endif]-->
+<!--[if !IE]> Cached on Sun, 26 Jun 2016 15:31:14 GMT and will expire on Sun, 26 Jun 2016 15:36:13 GMT <![endif]-->
+<!--[if !IE]> token: 62ddc0e5-c61b-46c8-a9bf-0c881699a92e <![endif]-->
+<!--[if !IE]> CSTAT-UUID: 9ac8be6f-6cb5-4cc3-8149-079217fb97d8 <![endif]-->
+<!--[if !IE]> App Server /S264630NJ2XSF52/ <![endif]-->
 
 <!doctype html>
 <html>
@@ -51,10 +51,10 @@
     
     <script src="http://s3.reutersmedia.net/resources_v2/js/libraries/jquery-2.2.2.min.js" type="text/javascript"></script>
 
-    <title>3M Co (MMM)  Quote| Reuters.com</title>
+    <title>Abbott Laboratories (ABT)  Quote| Reuters.com</title>
             <meta name="site edition" content="Reuters" />
 
-<link rel="canonical" href="http://www.reuters.com/finance/stocks/overview?symbol=MMM" />
+<link rel="canonical" href="http://www.reuters.com/finance/stocks/overview?symbol=ABT" />
 <meta name="Author" content="Reuters Editorial" />
 <meta name="description" content="Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&P, and Nasdaq at Reuters.com" />
 <meta name="keywords" content="NYSE,Nasdaq,S&P,trading,US market,Asian market,Dow Jones,FTSE,DJIA,DAX,stocks,bonds,shares" />
@@ -68,7 +68,7 @@
         <meta name="site edition" content="Reuters" />
         <meta property="article:publisher" content="https://www.facebook.com/Reuters" />
     <meta property="og:title" content="${Instrument_CompanyName} ${Instrument_Ric}  Quote| Reuters.com" />
-<meta property="og:url" content="http://www.reuters.com/finance/stocks/overview?symbol=MMM" />
+<meta property="og:url" content="http://www.reuters.com/finance/stocks/overview?symbol=ABT" />
 <meta property="og:type" content="section" />
 <meta property="og:description" content="Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&P, and Nasdaq at Reuters.com" />
 
@@ -77,7 +77,7 @@
 		        "@context": "http://schema.org",
 		        "@type": "WebPage",
 		        "headline": "${Instrument_CompanyName} ${Instrument_Ric}  Quote| Reuters.com",
-		        "url": "http://www.reuters.com/finance/stocks/overview?symbol=MMM", 
+		        "url": "http://www.reuters.com/finance/stocks/overview?symbol=ABT", 
 		        "thumbnailUrl": "",
 		        "dateCreated": "",
 		        "description": "Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&P, and Nasdaq at Reuters.com",
@@ -1035,12 +1035,12 @@ width: 976px;}
 <div class="section">
 	<div class="sectionContent">
 <div id="sectionHeader"><style type="text/css">.quoteBox div div.value {font-size:16px;}</style><div id="sectionTitle">
-	<h1>3M Co (MMM)</h1>
+	<h1>Abbott Laboratories (ABT)</h1>
 	</div>
 
 <script language="javascript">
 if (Reuters.tns) {
-    Reuters.tns.currentCompany = 'MMM';
+    Reuters.tns.currentCompany = 'ABT';
 }
 </script>
 <style>
@@ -1146,7 +1146,7 @@ float: right;
 
 	<ul>
         <h3>Related Topics: </h3>
-            <li><a href="/finance/stocks" >Stocks</a></li><li><a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp" >Stock Screener</a></li><li><a href="/finance/global-market-data" >Market Data</a></li><li><a href="/sectors/industrials" >Industrials</a></li><li><a href="/sectors/industries/overview?industryCode=55" >Industrial Conglomerates</a></li></ul>
+            <li><a href="/finance/stocks" >Stocks</a></li><li><a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp" >Stock Screener</a></li><li><a href="/finance/global-market-data" >Market Data</a></li><li><a href="/sectors/healthcare" >Healthcare</a></li><li><a href="/sectors/industries/overview?industryCode=277" >Pharmaceuticals</a></li></ul>
 </div>
 
 	</div>
@@ -1243,55 +1243,55 @@ float: right;
 <div id="companyOverviewTabs">
 	<ul>
 		<li class="current">
-            <a href="/finance/stocks/overview?symbol=MMM">
+            <a href="/finance/stocks/overview?symbol=ABT">
                 
                         Overview
                     </a>
         </li>
 		<li>
-            <a href="/finance/stocks/companyNews?symbol=MMM">
+            <a href="/finance/stocks/companyNews?symbol=ABT">
                 
                         News
                     </a>
         </li>
 		<li>
-            <a href="/finance/stocks/MMM/key-developments">
+            <a href="/finance/stocks/ABT/key-developments">
                 
                         Key Developments
                     </a>
         </li>
 		<li>
-            <a href="/finance/stocks/companyOfficers?symbol=MMM">
+            <a href="/finance/stocks/companyOfficers?symbol=ABT">
                 
                         People
                     </a>
         </li>
 		<li>
-            <a href="/finance/stocks/chart?symbol=MMM">
+            <a href="/finance/stocks/chart?symbol=ABT">
                 
                         Charts
                     </a>
         </li>
 		<li>
-            <a href="/finance/stocks/financialHighlights?symbol=MMM">
+            <a href="/finance/stocks/financialHighlights?symbol=ABT">
                 
                         Financials
                     </a>
         </li>
 		<li>
-            <a href="/finance/stocks/analyst?symbol=MMM">
+            <a href="/finance/stocks/analyst?symbol=ABT">
                 
                         Analysts
                     </a>
         </li>
 		<li>
-                <a href="/finance/stocks/analystResearch?symbol=MMM">
+                <a href="/finance/stocks/analystResearch?symbol=ABT">
                     
                             Research
                         </a>
             </li>
         <li>
-                <a href="/finance/stocks/social-pulse?symbol=MMM">
+                <a href="/finance/stocks/social-pulse?symbol=ABT">
                     
                             Pulse
                         </a>
@@ -1307,10 +1307,10 @@ float: right;
 		<div class="sectionQuote nasdaqChange">
 			<div class="sectionQuoteDetail">
 				<span class="nasdaqChangeHeader">
-				MMM on New York Consolidated</span>
+				ABT on New York Consolidated</span>
 				<br class="clear"><br class="clear">
 				<span style="font-size: 23px;">
-				169.12</span><span>USD</span><br />
+				37.91</span><span>USD</span><br />
 				<span class="nasdaqChangeTime">24 Jun 2016</span>
 			</div>
 		</div>
@@ -1321,10 +1321,10 @@ float: right;
 				<br class="clear"><br class="clear">				
 				<span class="valueContent">									    		
 				    <span class="neg">		    
-						    &#36;-4.99</span>				
+						    &#36;-1.72</span>				
 					<span class="valueContentPercent">					        
 					        <span class="neg">
-					            (-2.87%)
+					            (-4.34%)
 					        </span>
 					</span>
 				</span>
@@ -1334,48 +1334,48 @@ float: right;
 			<div class="sectionQuoteDetailTop">
 				<span>Prev Close</span>
 				<br class="clear">
-				<span>&#36;174.11</span>
+				<span>&#36;39.63</span>
 			</div>
 			<div class="sectionQuoteDetail">
 				<span>Open</span>
 				<br class="clear">
-				<span>&#36;168.87</span>
+				<span>&#36;38.37</span>
 			</div>
 		</div>
 		<div class="sectionQuote">
 			<div class="sectionQuoteDetailTop">
 				<span>Day's High</span>
 				<br class="clear">
-				<span class="sectionQuoteDetailHigh">&#36;171.54</span>
+				<span class="sectionQuoteDetailHigh">&#36;38.56</span>
 			</div>
 			<div class="sectionQuoteDetail">
 				<span>Day's Low</span>
 				<br class="clear">
-				<span class="sectionQuoteDetailLow">&#36;168.40</span>
+				<span class="sectionQuoteDetailLow">&#36;37.91</span>
 			</div>
 		</div>
 		<div class="sectionQuote">
 			<div class="sectionQuoteDetailTop">
 				<span>Volume</span>
 				<br class="clear">
-				<span>4,567,516</span>
+				<span>16,525,037</span>
 			</div>
 			<div class="sectionQuoteDetail">
 				<span>Avg. Vol</span>
 				<br class="clear">
-				<span>1,950,435</span>
+				<span>9,056,850</span>
 			</div>
 		</div>
 		<div class="sectionQuote">
 			<div class="sectionQuoteDetailTop">
 				<span>52-wk High</span>
 				<br class="clear">
-				<span class="sectionQuoteDetailHigh">&#36;172.80</span>
+				<span class="sectionQuoteDetailHigh">&#36;51.74</span>
 			</div>
 			<div class="sectionQuoteDetail">
 				<span>52-wk Low</span>
 				<br class="clear">
-				<span class="sectionQuoteDetailLow">&#36;134.00</span>
+				<span class="sectionQuoteDetailLow">&#36;36.00</span>
 			</div>
 		</div>
 		<br class="clear">
@@ -1391,11 +1391,11 @@ float: right;
 <div class="linebreak"></div>
 	<div class="columnLeft"><div class="gridPanel grid6"><div id="companyOverviewChart">
 
-	<h2>MMM<span id="selectExchanges"></span></h2>
+	<h2>ABT<span id="selectExchanges"></span></h2>
 	<div id="overviewChart">
-		<a href="/finance/stocks/chart?symbol=MMM"><img src="http://charts.reuters.com/reuters/enhancements/chartapi/chart_api.asp?width=458&height=292&symbol=MMM&duration=5&lowers=volume&headertype=none" width="458" height="292" border="0" alt="Chart for MMM" /></a>
+		<a href="/finance/stocks/chart?symbol=ABT"><img src="http://charts.reuters.com/reuters/enhancements/chartapi/chart_api.asp?width=458&height=292&symbol=ABT&duration=5&lowers=volume&headertype=none" width="458" height="292" border="0" alt="Chart for ABT" /></a>
 	</div>
-	<script type="text/javascript" src="/finance/stocks/jsonCompanySearch?searchType=name&search=3M+Co"></script>
+	<script type="text/javascript" src="/finance/stocks/jsonCompanySearch?searchType=name&search=Abbott+Laboratories"></script>
 
 </div>
 
@@ -1406,25 +1406,25 @@ float: right;
 					About</h3>
 			</div>
 		<div class="moduleBody">
-		3M Company is a technology company. The Company operates through five segments. Its Industrial segment serves markets, such as automotive original equipment manufacturer and automotive aftermarket, electronics, appliance, paper and printing, packaging, food and beverage, and construction. Its Safety and Graphics segment serves... (<a href="/finance/stocks/companyProfile?symbol=MMM">more</a>)</div>
+		Abbott Laboratories (Abbott) is engaged in the discovery, development, manufacture and sale of a line of healthcare products. The Company operates in four business segments: Established Pharmaceutical Products, Diagnostic Products, Nutritional Products and Vascular Products. The Established Pharmaceutical Products segment... (<a href="/finance/stocks/companyProfile?symbol=ABT">more</a>)</div>
 		</div>
 		</div></div><div class="columnRight"><div id="analystRecommendations" class="gridPanel grid2"><div class="module">
 		
 		<div class="moduleHeader">
 				<h3>
-					<a href="/finance/stocks/analyst?symbol=MMM" >
+					<a href="/finance/stocks/analyst?symbol=ABT" >
 					Buy/Sell</a>
 					</h3>
 			</div>
 		<div class="moduleBody">
-		<!-- 0.36842501163482666 -->
+		<!-- 0.23750001192092896 -->
 <div id="argInfo">
-	<img src="/resources_v2/images/btn_analystRecommendations.gif" id="argIndicatorAnalysts" style="margin-left:82px;" alt="Analyst Recommendations" title="2.4737" />
+	<img src="/resources_v2/images/btn_analystRecommendations.gif" id="argIndicatorAnalysts" style="margin-left:97px;" alt="Analyst Recommendations" title="1.95" />
 	<img src="/resources_v2/images/bg_analystRecommendationsGauge.gif" id="argLineChart" width="140" alt="" />
 </div>
 
 <div class="moreLink">
-				<a href="/finance/stocks/analyst?symbol=MMM">&#187; Analyst Consensus</a></div></div>
+				<a href="/finance/stocks/analyst?symbol=ABT">&#187; Analyst Consensus</a></div></div>
 		</div>
 		</div></div><div class="linebreak"></div>
 	<div class="columnLeft"><div id="overallRatios" class="gridPanel grid4"><div class="module">
@@ -1438,23 +1438,23 @@ float: right;
 	<tbody>
 		<tr>
 			<td>Beta:</td>
-			<td class="data"><strong>1.09</strong></td>
+			<td class="data"><strong>1.01</strong></td>
 		</tr>
 		<tr>
 			<td>Market Cap(Mil.):</td>
-			<td class="data"><strong>&#36;102,573.70</strong></td>
+			<td class="data"><strong>&#36;55,695.55</strong></td>
 		</tr>
 		<tr>
 			<td>Shares Outstanding(Mil.):</td>
-			<td class="data"><strong>606.51</strong></td>
+			<td class="data"><strong>1,469.15</strong></td>
 		</tr>
 		<tr>
 			<td>Dividend:</td>
-			<td class="data"><strong>1.11</strong></td>
+			<td class="data"><strong>0.26</strong></td>
 		</tr>
 		<tr>
 			<td>Yield (%):</td>
-			<td class="data"><strong>2.63</strong></td>
+			<td class="data"><strong>2.74</strong></td>
 		</tr>
 	</tbody>
 </table>
@@ -1472,23 +1472,23 @@ float: right;
 	<tbody>
 		<tr>
 			<th>&nbsp;</th>
-			<th class="focus data">MMM</th>
+			<th class="focus data">ABT</th>
 			<th class="data">Industry</th>
 			<th class="data">Sector</th>
 		</tr>
 		<tr>
 			<td>P/E (TTM):</td>
 			<td class="focus data">
-				21.72</td>
+				26.69</td>
 			<td class="data">
-				20.35</td>
+				32.69</td>
 			<td class="data">
-				25.22</td>
+				34.11</td>
 		</tr>
 		<tr>
 			<td>EPS (TTM):</td>
 			<td class="focus data">
-				7.79</td>
+				1.42</td>
 			<td class="data">
 				--</td>
 			<td class="data">
@@ -1497,20 +1497,20 @@ float: right;
 		<tr>
 			<td>ROI:</td>
 			<td class="focus data">
-				19.18</td>
+				6.57</td>
 			<td class="data">
-				2.68</td>
+				15.00</td>
 			<td class="data">
-				6.34</td>
+				14.23</td>
 		</tr>
 		<tr>
 			<td>ROE:</td>
 			<td class="focus data">
-				38.28</td>
+				10.02</td>
 			<td class="data">
-				-0.89</td>
+				16.08</td>
 			<td class="data">
-				9.83</td>
+				15.46</td>
 		</tr>
 	</tbody>
 </table>
@@ -1525,78 +1525,87 @@ float: right;
 		
 		<div class="moduleHeader">
 				<h3>
-					<a href="/finance/stocks/companyNews?symbol=MMM" >
-					Latest News about MMM</a>
+					<a href="/finance/stocks/companyNews?symbol=ABT" >
+					Latest News about ABT</a>
 					</h3>
 			</div>
 		<div class="moduleBody">
-		<div class="feature"><h2><a href="/article/idUSASC08RHU?type=companyNews"  >BRIEF-3M wins patent infringement lawsuit against Dental Direkt</a>
-	</h2><p>* Court decision is based on a German patent and on German
-portion of a European patent</p>
+		<div class="feature"><h2><a href="/article/idUSFWN1950H6?type=companyNews"  >BRIEF-Abbott announces results from study of Freestyle Libre system for type 1 diabetes</a>
+	</h2><p>* Abbott announces positive results from groundbreaking
+study of Freestyle Libre system for people with type 1 diabetes</p>
 	<div class="relatedInfo">
-			<span class="timestamp">May 26 2016</span></div>
-	</div><div class="feature"><h2><a href="/article/idUSASC08QAY?type=companyNews"  >BRIEF-3M awarded contract for 177,000 body armor plates</a>
-	</h2><p>* 3M awarded contract for 177,000 body armor plates
+			<span class="timestamp">Jun 13 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/idUSFWN1920L4?type=companyNews"  >BRIEF-Abbott sets quarterly dividend of $0.26/shr</a>
+	</h2><p>* Sets quarterly dividend of $0.26 per share
 
 Source text for Eikon: 
-Further company coverage: 
+Further company coverage:</p>
+	<div class="relatedInfo">
+			<span class="timestamp">Jun 10 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/idUSFWN18D0M3?type=companyNews"  >BRIEF-Slate Retail REIT to acquire Abbott's village in Georgia</a>
+	</h2><p>* Slate Retail REIT announces the purchase of Abbott's
+village in Georgia</p>
+	<div class="relatedInfo">
+			<span class="timestamp">May 16 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/idUSASD08G5R?type=companyNews"  >BRIEF-Alere obtains requisite lender approval for extension to file Form 10</a>
+	</h2><p>* Announces certain developments relating to the pending
+merger transaction with abbott laboratories</p>
+	<div class="relatedInfo">
+			<span class="timestamp">Apr 28 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/us-st-jude-medical-m-a-abbott-idUSKCN0XP1H2?type=companyNews"  >Abbott to buy St. Jude for $25 billion to boost heart devices</a>
+	</h2><p>Abbott Laboratories  said on Thursday that it would buy St. Jude Medical Inc  in a $25 billion deal to expand its heart device business, but investors worried that the acquisition would not pay off as promised.</p>
+	<div class="relatedInfo">
+			<span class="timestamp">Apr 28 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/us-abbott-bridgem-a-idUSKCN0XP2JK?type=companyNews"  >LPC: Abbott’s $17.2 billion loan backing St. Jude acquisition set to boost M&A volume</a>
+	</h2><p>NEW YORK A US$17.2bn bridge loan that backs Abbott Laboratories’ US$25bn acquisition of medical device maker St. Jude Medical will boost investment grade loan volume that so far this year has been depressed by volatility in equities and global economic uncertainty.</p>
+	<div class="relatedInfo">
+			<span class="timestamp">Apr 28 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/idUSFit957120?type=companyNews"  >Fitch Maintains Abbott on Rating Watch Negative</a>
+	</h2><p>(The following statement was released by the rating agency)
+CHICAGO, April 28 (Fitch) Fitch Ratings has maintained Abbott
+Laboratories' 
+(ABT, Abbott) 'A'/'F1' ratings on Rating Watch Negative. The
+rating action 
+follows the announcement of Abbott's intention to acquire St.
+Jude Medical Inc. 
+(STJ, St. Jude) and its previously announced agreement from
+February 2016 to 
+acquire Alere Inc. (Alere).
+Fitch will resolve the Rating Watch as more details regarding
+the transactions 
+become available. Ho</p>
+	<div class="relatedInfo">
+			<span class="timestamp">Apr 28 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/abbott-bridgema-idUSL2N17V1XU?type=companyNews"  >UPDATE 1-LPC: Abbott's US$17.2bn loan backing St. Jude acq. set to boost M&A volume</a>
+	</h2><p>NEW YORK, April 28 A US$17.2bn bridge loan that
+backs Abbott Laboratories' US$25bn acquisition of
+medical device maker St. Jude Medical will boost
+investment grade loan volume that so far this year has been
+depressed by volatility in equities and global economic
+uncertainty.</p>
+	<div class="relatedInfo">
+			<span class="timestamp">Apr 28 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/abbott-bridgema-idUSL2N17V1FP?type=companyNews"  >LPC: Abbott's US$17.2bn loan backing St. Jude acq. set to boost M&A volume</a>
+	</h2><p>NEW YORK, April 28 A US$17.2bn bridge loan that
+backs Abbott Laboratories' US$25bn acquisition of
+medical device maker St. Jude Medical will boost
+investment grade loan volume that so far this year has been
+depressed by volatility in equities and global economic
+uncertainty.</p>
+	<div class="relatedInfo">
+			<span class="timestamp">Apr 28 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/idUSFWN17V1A1?type=companyNews"  >BRIEF-S&P- Abbott Laboratories ratings remain on creditwatch negative on planned acquisition of St. Jude</a>
+	</h2><p>* Abbott Laboratories ratings remain on creditwatch negative
+on planned acquisition of St. Jude Medical
 
- (Bengaluru Newsroom: +1-646-223-8780)</p>
-	<div class="relatedInfo">
-			<span class="timestamp">May 18 2016</span></div>
-	</div><div class="feature"><h2><a href="/article/idUSASC08OOG?type=companyNews"  >BRIEF-3M sets quarterly dividend of $1.11/share</a>
-	</h2><p>* 3M board declares quarterly dividend
+Source text: (http://bit.ly/21hkyCp)
 
-Source text for Eikon: 
-Further company coverage: 
-
- (Bengaluru Newsroom: +1 646 223 8780)</p>
+ (Bengaluru Newsroom +91 80 6749-1130; within U.S. +1 646 223
+8780)</p>
 	<div class="relatedInfo">
-			<span class="timestamp">May 10 2016</span></div>
-	</div><div class="feature"><h2><a href="/article/us-3m-results-idUSKCN0XN1FC?type=companyNews"  >Post-it maker 3M's profit beats estimates on lower costs</a>
-	</h2><p>Diversified manufacturer 3M Co  reported a higher-than-expected 6.6 percent rise in quarterly profit, helped by lower costs.</p>
-	<div class="relatedInfo">
-			<span class="timestamp">Apr 26 2016</span></div>
-	</div><div class="feature"><h2><a href="/article/idUSFWN17T0JV?type=companyNews"  >BRIEF-3M would reduce 250 positions worldwide - conf call</a>
-	</h2><p>* "will reduce 250 positions worldwide with majority of
-reductions on electronics side of business" - conf call</p>
-	<div class="relatedInfo">
-			<span class="timestamp">Apr 26 2016</span></div>
-	</div><div class="feature"><h2><a href="/article/idUSASD08FAU?type=companyNews"  >BRIEF-3M posts Q1 earnings per share $2.05</a>
-	</h2><p>* Q1 earnings per share view $1.92 -- Thomson Reuters
-I/B/E/S</p>
-	<div class="relatedInfo">
-			<span class="timestamp">Apr 26 2016</span></div>
-	</div><div class="feature"><h2><a href="/article/3m-results-idUSL3N17T3WT?type=companyNews"  >UPDATE 1-Post-it maker 3M's profit beats estimates on lower costs</a>
-	</h2><p>April 26 Diversified manufacturer 3M Co 
-reported a higher-than-expected 6.6 percent rise in quarterly
-profit, helped by lower costs.</p>
-	<div class="relatedInfo">
-			<span class="timestamp">Apr 26 2016</span></div>
-	</div><div class="feature"><h2><a href="/article/3m-results-idUSL3N17T3VU?type=companyNews"  >Post-it notes maker 3M's sales fall 2.2 pct</a>
-	</h2><p>April 26 Diversified manufacturer 3M Co 
-reported a 2.2 percent fall in quarterly revenue as sluggish
-economic growth in emerging markets including China hurt demand
-and a strong dollar eroded the value of sales from outside the
-United States.</p>
-	<div class="relatedInfo">
-			<span class="timestamp">Apr 26 2016</span></div>
-	</div><div class="feature"><h2><a href="/article/russia-mvideo-sales-idUSR4N15502O?type=companyNews"  >Russia's M.video says Q1 sales rise 16 pct yr/yr</a>
-	</h2><p>MOSCOW, April 15 Russian consumer electronics
-and white goods retailer M.video said on Friday its
-first-quarter sales rose 16 percent, year-on-year, to 54.6
-billion roubles ($827.5 million).</p>
-	<div class="relatedInfo">
-			<span class="timestamp">Apr 15 2016</span></div>
-	</div><div class="feature"><h2><a href="/article/russia-mvideo-managementchanges-idUSL5N16W3WU?type=companyNews"  >Russia's M.video appoints Michael Tuch as head of operations</a>
-	</h2><p>MOSCOW, March 24 Russian consumer electronics
-retailer M.video said on Thursday it had appointed Michael Tuch
-as the head of its operational subsidiary while CEO Alexander
-Tynkovan will focus on strategy and new business directions.</p>
-	<div class="relatedInfo">
-			<span class="timestamp">Mar 24 2016</span></div>
+			<span class="timestamp">Apr 28 2016</span></div>
 	</div><div class="moreLink">
-				<a href="/finance/stocks/companyNews?symbol=MMM">&#187; More MMM News</a></div></div>
+				<a href="/finance/stocks/companyNews?symbol=ABT">&#187; More ABT News</a></div></div>
 		</div>
 		</div><div class="linebreak"></div>
 	<script>
@@ -1806,54 +1815,54 @@ Tynkovan will focus on strategy and new business directions.</p>
 			<th class="data">Chg</th>
 		</tr>
 <tr class="stripe">
-			<td><a href="/finance/stocks/overview?symbol=GE.N">General Electric Company (GE.N)</a></td>
-			<td class="data">&#36;29.82</td>			
-			<td class="data changeDown">-1.37</td>
-		</tr>
-<tr>
-			<td><a href="/finance/stocks/overview?symbol=ABB.NS">ABB India Ltd (ABB.NS)</a></td>
-			<td class="data">Rs1,212.35</td>			
-			<td class="data changeDown">-18.45</td>
-		</tr>
-<tr class="stripe">
-			<td><a href="/finance/stocks/overview?symbol=SIEGn.DE">Siemens AG (SIEGn.DE)</a></td>
-			<td class="data">&#8364;90.52</td>			
-			<td class="data changeDown">-7.24</td>
-		</tr>
-<tr>
-			<td><a href="/finance/stocks/overview?symbol=UTX.N">United Technologies Corporation (UTX.N)</a></td>
-			<td class="data">&#36;98.89</td>			
-			<td class="data changeDown">-3.44</td>
-		</tr>
-<tr class="stripe">
-			<td><a href="/finance/stocks/overview?symbol=HON.N">Honeywell International Inc. (HON.N)</a></td>
-			<td class="data">&#36;112.98</td>			
-			<td class="data changeDown">-4.34</td>
-		</tr>
-<tr>
-			<td><a href="/finance/stocks/overview?symbol=DHR.N">Danaher Corporation (DHR.N)</a></td>
-			<td class="data">&#36;98.21</td>			
-			<td class="data changeDown">-2.23</td>
-		</tr>
-<tr class="stripe">
-			<td><a href="/finance/stocks/overview?symbol=ITW.N">Illinois Tool Works Inc. (ITW.N)</a></td>
-			<td class="data">&#36;101.69</td>			
-			<td class="data changeDown">-5.13</td>
-		</tr>
-<tr>
 			<td><a href="/finance/stocks/overview?symbol=JNJ.N">Johnson & Johnson (JNJ.N)</a></td>
 			<td class="data">&#36;115.63</td>			
 			<td class="data changeDown">-1.75</td>
 		</tr>
+<tr>
+			<td><a href="/finance/stocks/overview?symbol=PFE.N">Pfizer Inc. (PFE.N)</a></td>
+			<td class="data">&#36;33.97</td>			
+			<td class="data changeDown">-0.62</td>
+		</tr>
 <tr class="stripe">
-			<td><a href="/finance/stocks/overview?symbol=SIK.S">Sika AG (SIK.S)</a></td>
-			<td class="data">&#67;&#72;&#70;3,946.00</td>			
-			<td class="data changeDown">-187.00</td>
+			<td><a href="/finance/stocks/overview?symbol=NOVN.S">Novartis AG (NOVN.S)</a></td>
+			<td class="data">&#67;&#72;&#70;75.75</td>			
+			<td class="data changeDown">-1.20</td>
 		</tr>
 <tr>
-			<td><a href="/finance/stocks/overview?symbol=CAT.N">Caterpillar Inc. (CAT.N)</a></td>
-			<td class="data">&#36;73.03</td>			
-			<td class="data changeDown">-5.19</td>
+			<td><a href="/finance/stocks/overview?symbol=MRK.N">Merck & Co., Inc. (MRK.N)</a></td>
+			<td class="data">&#36;55.88</td>			
+			<td class="data changeDown">-1.80</td>
+		</tr>
+<tr class="stripe">
+			<td><a href="/finance/stocks/overview?symbol=SASY.PA">Sanofi SA (SASY.PA)</a></td>
+			<td class="data">&#8364;69.37</td>			
+			<td class="data changeDown">-2.63</td>
+		</tr>
+<tr>
+			<td><a href="/finance/stocks/overview?symbol=AZN.L">AstraZeneca plc (AZN.L)</a></td>
+			<td class="data">4,031.50p</td>			
+			<td class="data changeUp">+133.00</td>
+		</tr>
+<tr class="stripe">
+			<td><a href="/finance/stocks/overview?symbol=GSK.L">GlaxoSmithKline plc (GSK.L)</a></td>
+			<td class="data">1,482.00p</td>			
+			<td class="data changeUp">+53.00</td>
+		</tr>
+<tr>
+			<td><a href="/finance/stocks/overview?symbol=LLY.N">Eli Lilly and Co (LLY.N)</a></td>
+			<td class="data">&#36;74.33</td>			
+			<td class="data changeUp">+0.39</td>
+		</tr>
+<tr class="stripe">
+			<td><a href="/finance/stocks/overview?symbol=AMGN.OQ">Amgen, Inc. (AMGN.OQ)</a></td>
+			<td class="data">&#36;146.45</td>			
+			<td class="data changeDown">-5.82</td>
+		</tr>
+<tr>
+			<td><a href="/finance/stocks/overview?symbol=BSX.N">Boston Scientific Corporation (BSX.N)</a></td>
+			<td class="data">&#36;22.37</td>			
+			<td class="data changeDown">-0.60</td>
 		</tr>
 </tbody>
 </table>
@@ -1876,21 +1885,21 @@ Reuters.namespace("company");
 Reuters.company.pastEstimates = [
 			
 				
-	{ "label": "Q1&nbsp;16", "high": 1.97, "low": 1.78, "actual": 2.05 },
+	{ "label": "Q1&nbsp;16", "high": 0.41, "low": 0.38, "actual": 0.41 },
 				
-	{ "label": "Q4&nbsp;15", "high": 1.64, "low": 1.59, "actual": 1.66 },
+	{ "label": "Q4&nbsp;15", "high": 0.62, "low": 0.59, "actual": 0.62 },
 				
-	{ "label": "Q3&nbsp;15", "high": 2.05, "low": 1.94, "actual": 2.05 },
+	{ "label": "Q3&nbsp;15", "high": 0.55, "low": 0.52, "actual": 0.54 },
 				
-	{ "label": "Q2&nbsp;15", "high": 2.02, "low": 1.94, "actual": 2.02 },
+	{ "label": "Q2&nbsp;15", "high": 0.51, "low": 0.498, "actual": 0.52 },
 				
-	{ "label": "Q1&nbsp;15", "high": 1.97, "low": 1.86, "actual": 1.95 }
+	{ "label": "Q1&nbsp;15", "high": 0.43, "low": 0.4, "actual": 0.47 }
 ];
 		
 Reuters.company.futureEstimates = [
 			
-	{ "label": "Q2&nbsp;16", "high": 2.12, "low": 2.01 },
-	{ "label": "Q3&nbsp;16", "high": 2.22, "low": 2.14 }
+	{ "label": "Q2&nbsp;16", "high": 0.58, "low": 0.52 },
+	{ "label": "Q3&nbsp;16", "high": 0.61, "low": 0.57 }
 ];
 
 Reuters.company.showEstimatesVsActuals();
@@ -1916,70 +1925,70 @@ Analyst Research Reports</h3>
                 <td>
 
                     <div class="reportName">
-	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=51375641">Our Economy without Stimulus; forward observations.</a></strong>
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=25810285">ValuEngine Rating and Forecast Report for ABT</a></strong>
                     </div>
                     <div class="reportProvider">
-                       Provider : Stock Traders Daily</div>
+                       Provider : ValuEngine, Inc.</div>
                 </td>
 	            <td class="data">
-	            	<div class="reportPrice">$20.00</div>
-<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=51375641">Buy</a></div></div>
+	            	<div class="reportPrice">$25.00</div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=25810285">Buy</a></div></div>
 	            </td>
             </tr>            
 	<tr class="stripe">
                 <td>
 
                     <div class="reportName">
-	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=72487230">3M CO (MMM=US) - SHORT AND LONG TERM FORECASTS FOR ACTIVE TRADERS</a></strong>
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=35588167">Trading Report for (ABT). A detailed report, including free correlated market analysis, and updates.</a></strong>
+                    </div>
+                    <div class="reportProvider">
+                       Provider : Stock Traders Daily</div>
+                </td>
+	            <td class="data">
+	            	<div class="reportPrice">$20.00</div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=35588167">Buy</a></div></div>
+	            </td>
+            </tr>            
+	<tr class="stripe">
+                <td>
+
+                    <div class="reportName">
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=72487249">ABBOTT LABORATORIES (ABT=US) - SHORT AND LONG TERM FORECASTS FOR ACTIVE TRADERS</a></strong>
                     </div>
                     <div class="reportProvider">
                        Provider : Pechala&apos;s Reports</div>
                 </td>
 	            <td class="data">
 	            	<div class="reportPrice">$25.00</div>
-<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=72487230">Buy</a></div></div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=72487249">Buy</a></div></div>
 	            </td>
             </tr>            
 	<tr class="stripe">
                 <td>
 
                     <div class="reportName">
-	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=31596533">3M Co: Business description, financial summary, 3yr and interim financials, key statistics/ratios and historical ratio analysis.</a></strong>
-                    </div>
-                    <div class="reportProvider">
-                       Provider : Reuters Investment Profile</div>
-                </td>
-	            <td class="data">
-	            	<div class="reportPrice">$20.00</div>
-<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=31596533">Buy</a></div></div>
-	            </td>
-            </tr>            
-	<tr class="stripe">
-                <td>
-
-                    <div class="reportName">
-	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=74567485">Thomson Reuters Stock Report - 3M Co (MMM-N)</a></strong>
-                    </div>
-                    <div class="reportProvider">
-                       Provider : Thomson Reuters Stock Report</div>
-                </td>
-	            <td class="data">
-	            	<div class="reportPrice">$25.00</div>
-<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=74567485">Buy</a></div></div>
-	            </td>
-            </tr>            
-	<tr class="stripe">
-                <td>
-
-                    <div class="reportName">
-	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=35606912">Trading Report for (MMM). A detailed report, including free correlated market analysis, and updates.</a></strong>
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=51373058">Our Economy without Stimulus; forward observations.</a></strong>
                     </div>
                     <div class="reportProvider">
                        Provider : Stock Traders Daily</div>
                 </td>
 	            <td class="data">
 	            	<div class="reportPrice">$20.00</div>
-<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=35606912">Buy</a></div></div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=51373058">Buy</a></div></div>
+	            </td>
+            </tr>            
+	<tr class="stripe">
+                <td>
+
+                    <div class="reportName">
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=31596227">Abbott Laboratories: Business description, financial summary, 3yr and interim financials, key statistics/ratios and historical ratio analysis.</a></strong>
+                    </div>
+                    <div class="reportProvider">
+                       Provider : Reuters Investment Profile</div>
+                </td>
+	            <td class="data">
+	            	<div class="reportPrice">$20.00</div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=31596227">Buy</a></div></div>
 	            </td>
             </tr>            
 	</tbody>
@@ -1987,10 +1996,10 @@ Analyst Research Reports</h3>
 
 <div class="footnote"><p>NYSE and AMEX quotes delayed by at least 20 minutes. NASDAQ delayed by at least 15 minutes. For a complete list of exchanges and delays, please <a href="http://www.reuters.com/info/disclaimer" target="_top">click here</a>.</p></div>
 
-<div class="moreLink"><a href="https://commerce.us.reuters.com/purchase/advancedSearch.do?symbol=MMM" target="_top">&#187; More Analyst Research</a></div>
+<div class="moreLink"><a href="https://commerce.us.reuters.com/purchase/advancedSearch.do?symbol=ABT" target="_top">&#187; More Analyst Research</a></div>
 </div>
 <script language="javascript" src="/resources_v2/js/widget-portfolio.js"></script>
-<script language="javascript">Reuters.section.initPortfolioWidget('MMM');</script>
+<script language="javascript">Reuters.section.initPortfolioWidget('ABT');</script>
 <div id="div_gpt_mpulow"><div class="ad" id="mpulow">
 
 		<script language="javascript" type="text/javascript">
@@ -2099,7 +2108,7 @@ Analyst Research Reports</h3>
 
 	<ul>
         <h3>Related Topics: </h3>
-            <li><a href="/finance/stocks" >Stocks</a></li><li><a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp" >Stock Screener</a></li><li><a href="/finance/global-market-data" >Market Data</a></li><li><a href="/sectors/industrials" >Industrials</a></li><li><a href="/sectors/industries/overview?industryCode=55" >Industrial Conglomerates</a></li></ul>
+            <li><a href="/finance/stocks" >Stocks</a></li><li><a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp" >Stock Screener</a></li><li><a href="/finance/global-market-data" >Market Data</a></li><li><a href="/sectors/healthcare" >Healthcare</a></li><li><a href="/sectors/industries/overview?industryCode=277" >Pharmaceuticals</a></li></ul>
 </div>
 
 	</div>

@@ -1,0 +1,2203 @@
+<!--[if !IE]> This has NOT been served from cache <![endif]-->
+<!--[if !IE]> Request served from apache server: S264630NJ2XSF02 <![endif]-->
+<!--[if !IE]> token: 8083a9aa-a812-4e54-b725-1d72b59aceaf <![endif]-->
+<!--[if !IE]> App Server /S264630NJ2XSF49/ <![endif]-->
+
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv='x-dns-prefetch-control' content='on'>
+    <meta name="robots" content="INDEX, FOLLOW">
+    <link rel='dns-prefetch' href='//s1.reutersmedia.net'>
+    <link rel='dns-prefetch' href='//s2.reutersmedia.net'>
+    <link rel='dns-prefetch' href='//s3.reutersmedia.net'>
+    <link rel='dns-prefetch' href='//s4.reutersmedia.net'>
+    <link rel='dns-prefetch' href='//static.reuters.com'>
+
+    <script type="text/javascript" >
+
+// Rubicon Initialize
+(function() {
+    var account_id = 11384;
+    var rct = document.createElement('script');
+        rct.type = 'text/javascript';
+        rct.async = true;
+        rct.src = (document.location.protocol === 'https:' ? 'https:' : 'http:') + '//ads.rubiconproject.com/header/' + account_id + '.js';
+    var node = document.getElementsByTagName('script')[0];
+        node.parentNode.appendChild(rct);
+})();
+
+</script><div class="linebreak"></div>
+	<script type="text/javascript" src="//reuters-d.openx.net/w/1.0/jstag?nc=4735792-reuters"></script><div class="linebreak"></div>
+	
+
+<script type="text/javascript" src="http://www.reuters.com/reuters_bootstrap.js"></script>
+    <script type="text/javascript" src="http://www.reuters.com/reuters_gpt_bootstrap.js"></script>
+
+    <!-- AdBlock Plus Begin-->
+    <script type="text/javascript">var abp;</script>
+    <script type="text/javascript" src="http://s4.reutersmedia.net/resources_v2/js/px.js?ch=1"></script>
+    <script type="text/javascript" src="http://s4.reutersmedia.net/resources_v2/js/px.js?ch=2"></script>
+    <!-- AdBlock Plus End-->
+
+    <script type="text/javascript">
+    var parallelMediaHosts = new Array();
+    parallelMediaHosts.push("s1.reutersmedia.net");parallelMediaHosts.push("s2.reutersmedia.net");parallelMediaHosts.push("s3.reutersmedia.net");parallelMediaHosts.push("s4.reutersmedia.net");</script>
+    
+    <script src="http://s3.reutersmedia.net/resources_v2/js/libraries/jquery-2.2.2.min.js" type="text/javascript"></script>
+
+    <title>Dover Corp (DOV)  Quote| Reuters.com</title>
+            <meta name="site edition" content="Reuters" />
+
+<link rel="canonical" href="http://www.reuters.com/finance/stocks/overview?symbol=DOV" />
+<meta name="Author" content="Reuters Editorial" />
+<meta name="description" content="Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&P, and Nasdaq at Reuters.com" />
+<meta name="keywords" content="NYSE,Nasdaq,S&P,trading,US market,Asian market,Dow Jones,FTSE,DJIA,DAX,stocks,bonds,shares" />
+<meta name="twitter:card" content="summary_large_image"> 
+<meta name="twitter:description" content="Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&P, and Nasdaq at Reuters.com" />
+<meta name="twitter:site" content="@Reuters" />
+<meta name="twitter:creator" content="@Reuters" />
+<link rel="publisher" href="https://plus.google.com/+Reuters"/>
+    <meta property="og:locale" content="en_US"/>
+        <meta property="og:site_name" content="Reuters" />
+        <meta name="site edition" content="Reuters" />
+        <meta property="article:publisher" content="https://www.facebook.com/Reuters" />
+    <meta property="og:title" content="${Instrument_CompanyName} ${Instrument_Ric}  Quote| Reuters.com" />
+<meta property="og:url" content="http://www.reuters.com/finance/stocks/overview?symbol=DOV" />
+<meta property="og:type" content="section" />
+<meta property="og:description" content="Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&P, and Nasdaq at Reuters.com" />
+
+<script type="application/ld+json">
+		      {
+		        "@context": "http://schema.org",
+		        "@type": "WebPage",
+		        "headline": "${Instrument_CompanyName} ${Instrument_Ric}  Quote| Reuters.com",
+		        "url": "http://www.reuters.com/finance/stocks/overview?symbol=DOV", 
+		        "thumbnailUrl": "",
+		        "dateCreated": "",
+		        "description": "Connect to the most current information on stocks and bonds on Reuters.com. What you need to know now about NYSE, Dow Jones, S&P, and Nasdaq at Reuters.com",
+		        "publisher": "Reuters",
+		        "creator": [],
+		        "keywords": ["NYSE","Nasdaq","S&P","trading","US market","Asian market","Dow Jones","FTSE","DJIA","DAX","stocks","bonds","shares","Stocks"]
+		      }
+		</script>
+	<script type='text/javascript'>
+            var _sf_async_config = _sf_async_config || {};
+            
+            _sf_async_config.uid = 52639; 
+            _sf_async_config.domain = 'reuters.com';  
+            _sf_async_config.topStorageDomain = 'reuters.com'; 
+            _sf_async_config.path = $('link[rel=canonical]').attr('href').replace('http://www.','') ; 
+            _sf_async_config.flickerControl = false;
+            
+            var _sf_startpt = (new Date()).getTime();
+        </script><script async src='//static.chartbeat.com/js/chartbeat_mab.js'></script><meta name="DCSext.DartZone" content="us.reuters/markets/stocks/quotes" />
+    <meta name="DCSext.rChannel" content="Markets - Research & Data" /> 
+    <meta name="DCSext.rCountry" content="BETAUS" />
+    <meta name="DCSext.ContentChannel"  content="Stocks - Overview" />
+    <meta name="DCSext.ContentType"  content="Markets" />
+    <meta name="WT.cg_n" content="Markets" />
+    <meta name="WT.cg_s" content="Stocks" />
+    <link rel="shortcut icon" href="http://s3.reutersmedia.net/resources_v2/images/favicon/favicon.ico">
+    <link rel="icon" type="image/png" href="http://s3.reutersmedia.net/resources_v2/images/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="http://s1.reutersmedia.net/resources_v2/images/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="http://s3.reutersmedia.net/resources_v2/images/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="stylesheet" type="text/css" href="http://s2.reutersmedia.net/resources_v2/css/core.css" />
+    <link rel="stylesheet" type="text/css" href="http://s4.reutersmedia.net/resources_v2/css/core-legacy.css" />
+        <script src="http://s2.reutersmedia.net/resources_v2/js/libraries/cookie.js" type="text/javascript"></script>
+    <script src="http://s3.reutersmedia.net/resources_v2/js/libraries/modernizr-01.2016.js" type="text/javascript"></script>
+    <script src="https://use.typekit.net/ecz1nfj.js" type="text/javascript"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script src="http://s2.reutersmedia.net/resources_v2/js/core.js" type="text/javascript"></script>
+    <script src="http://s4.reutersmedia.net/resources_v2/js/libraries/slideshow.js" type="text/javascript"></script>
+    <script src="http://s2.reutersmedia.net/resources_v2/js/search.js" type="text/javascript"></script>
+    <script src="http://s4.reutersmedia.net/resources_v2/js/rcom-scroll-tracker.js"></script>
+    <script type="text/javascript">
+    $(document).ready( function() {
+          var sclTracking = new rcom_scrollTracker("Markets");
+          if( inAppleMobileDevice() )
+            document.addEventListener("scroll", sclTracking, false);
+          else
+            $(window).scroll( sclTracking );
+    });
+    </script>
+    <link href="/resources_v2/css/rcom-companyOverview.css" rel="stylesheet" />
+<link href="/resources_v2/css/rcom-section.css" rel="stylesheet" />
+<script language="javascript" src="/resources_v2/js/rcom-section.js"></script>
+<script language="javascript" src="/resources_v2/js/rcom-company.js?d=01132010"></script>
+
+
+<style>
+#sectionTitle h1{max-width: 700px;}
+</style>
+<script type='text/javascript' > 
+        var pageXrefresh = 720; 
+    </script>
+    <script type="text/javascript" src="http://s2.reutersmedia.net/resources_v2/js/core-refresh.js"></script>
+    <noscript><meta http-equiv="refresh" content="720;url=/home"></noscript>
+    </head>
+<body class="BETAUS "><section id="breakingNewsContainer" class="hidden">
+    <div id="breakingNews" class="group wrap">
+        <div class="breaking-content">
+            <div class="breaking-news-type"></div>
+            <div class="breaking-news-content"></div>
+        </div>
+        <div class="close-btn">X</div>
+    </div>
+</section>
+
+<script type="text/javascript">
+function drawBreakingNews(res) {
+    if (typeof res === 'undefined' || $.isEmptyObject(res) || isClosedBreakingNews(res)) {
+        return;
+    }
+
+    if (res.type !== '') {
+        var typeKey = "breakingNews." + res.type;
+        var typeStr = '' + res.label + ':';
+        $('.breaking-news-type').text(typeStr);
+        var typeClass = res.type;
+    } else {
+        var typeClass = 'happening';
+    }
+
+    $('#breakingNewsContainer').addClass(typeClass);
+    var breakingNewsContent = '';
+    if (res.url != '') {
+        breakingNewsContent = $('<a>').attr('href', res.url).html(res.headline);
+    } else {
+        breakingNewsContent = res.headline;
+    }
+    $('.breaking-news-content').html(res.headline);
+    if (res.url != '') {
+        var linkTxt = 'VIEW MORE';
+        if( res.actionCall && res.actionCall != '' ){
+        	linkTxt = res.actionCall;
+        }
+        var link = $('<a>').attr({href: res.url, id:'breaking-news-link', onClick:'linkCloseBreakingNews()'}).html(linkTxt);
+        $('.breaking-news-content').append(link);
+    }
+    $('#breakingNewsContainer').data('breakingNewsJson', res);
+    $('#breakingNewsContainer').removeClass('hidden');
+    $('#headerMain').css( "padding-top","30px" );
+    $('.edition-header').css( "padding-top","30px" );
+    
+    $('.edition-selector, .edition-label').click(function () {
+        setTimeout(function () {
+            if (($('.edition-container').hasClass('active')) && ($('.edition-container').css('padding-top') !== '30px') && (!$('#breakingNewsContainer').hasClass('hidden'))) {
+                $('.edition-container').css('padding-top', '30px');
+            } else if (!$('.edition-container').hasClass('active')) {
+                $('.edition-container').css('padding-top', '');
+            }
+        }, 1)
+    });
+    $(window).scroll(function () {
+        if (!$('#breakingNewsContainer').hasClass('hidden')) {
+            if (($('#headerNav').hasClass('fixed')) && ($('#headerNav').css('top') !== '29px')) {
+                $('#headerNav').css('top', '29px');
+            } else if (!$('#headerNav').hasClass('fixed')) {
+                $('#headerNav').css('top', '');
+            }
+        }
+        if (($('.nav-white-space').hasClass('fixed')) && (!$('#breakingNewsContainer').hasClass('hidden'))) {
+            $('.nav-white-space').css('padding-top', '30px');
+        } else if (!$('.nav-white-space').hasClass('fixed')) {
+            $('.nav-white-space').css('padding-top', '');
+        }
+    });
+    $('#breakingNewsContainer .close-btn').click(function () {
+        $('#headerMain').css('padding-top', '');
+        $('.edition-container').css('padding-top', '');
+        $('.edition-header').css('padding-top', '');
+        $('#headerNav').css('top', '');
+        $('.nav-white-space').css('padding-top', '');
+    });
+}
+
+function isClosedBreakingNews(obj) {
+    var flag = false;
+    var lastCloseNews = Reuters.utils.getFromLocalStorage('lastclose.breakingnews');
+    if (lastCloseNews) {
+        if (obj.headline === lastCloseNews.headline 
+                && obj.url === lastCloseNews.url && obj.type === lastCloseNews.type) {
+            flag = true;
+        }
+    }
+    return flag;
+}
+
+function saveClosedBreakingNews(obj) {
+    Reuters.utils.setToLocalStorage('lastclose.breakingnews', obj);
+}
+
+function linkCloseBreakingNews() {
+    var breakingNewsObj = $('#breakingNewsContainer').data('breakingNewsJson');
+    saveClosedBreakingNews(breakingNewsObj);
+}
+
+$(function() {
+    $('.close-btn').on('click', function() {
+        $('#breakingNewsContainer').addClass('hidden');
+        var breakingNewsObj = $('#breakingNewsContainer').data('breakingNewsJson');
+        saveClosedBreakingNews(breakingNewsObj);
+    });
+    $()
+    Reuters.utils.loadScript("breakingNewsAjax","/assets/breakingNews?view=json&sp=drawBreakingNews");
+
+});
+</script>
+<div class="linebreak"></div>
+	<style>
+.inter_bg{position:fixed; width:100%; height:100%; background:#000; opacity:0.8; top:0px; z-index:214748300; left:0px; display:none;}
+#div_gpt_intro, #div_gpt_intro2{position: fixed;z-index: 10000000000000000000;margin: 0px auto;left: 15%;right: 15%;top: 164px;text-align: center; width:640px;}
+.close_button{
+background: url(http://static.reuters.com/resources/media/rcom/nf0yL.png) no-repeat right;
+position: absolute;
+top: -20px;
+right: -20px;
+height: 20px;
+width: 100px;
+display: none;
+cursor: pointer;
+color:#fff;
+font-size: 1.6em;
+font-weight: bold;
+}
+</style>
+
+<div class="inter_bg"></div>
+<div class="close_button" onClick="javascript:$('.inter_bg').hide();$('#div_gpt_intro').hide();$('#div_gpt_intro2').hide();"></div>
+<div id="div_gpt_intro2" style="display:none;"></div>
+
+
+
+<script>
+
+if (TR3.extractDartZone().indexOf("jp.reuters") > -1)
+{
+ $('.close_button').html("閉じる");
+}
+
+
+// determine if cookie exists
+var x = readCookie('r_inter');
+
+if (x=='true') {
+  // if cookie exists, do nothing
+ TR3.log('inter cookie:true');
+}
+else{  
+// if cookie doesnt exist, write cookie and fire ad
+   //createCookie('r_inter','true',1);
+   //inter_pop();
+   //setTimeout(function(){close_pop();}, 10000);
+   displayAd("div_gpt_intro2",TR3.extractDartZone(), [640,480], "type=intro_gpt;" + adParams2 );
+}
+
+function inter_pop() {
+    $('.inter_bg').show();
+    $('.close_button').show();
+    $( "#div_gpt_intro2" ).append( $(".close_button" ) );
+}
+
+function close_pop(){
+    $('.inter_bg').fadeOut();
+   $('.close_button').fadeOut();
+   $( '#div_gpt_intro2').fadeOut();
+}
+
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+
+</script><div id="div_gpt_intro" style="display:none;"></div>
+
+<script>
+// determine if cookie exists
+var x = readCookie('r_inter');
+
+if (x=='true') {
+  // if cookie exists, do nothing
+ TR3.log('inter cookie:true');
+}
+else{  
+// if cookie doesnt exist, write cookie and fire ad
+  
+   setTimeout(function(){close_pop2();}, 15000);
+   displayAd("div_gpt_intro",TR3.extractDartZone(), '', "type=intro_gpt;" + adParams2 );
+    //createCookie('r_inter','true',1);
+}
+
+function close_pop2(){
+   $( '#div_gpt_intro').fadeOut();
+}
+
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+
+</script>
+
+
+
+<!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W9SLGS"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>if (location.href.indexOf('/commentsChild?') == -1){ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+    (window,document,'script','dataLayer','GTM-W9SLGS'); }</script>
+    <!-- End Google Tag Manager -->
+
+    <header id="headerMain">
+        <div class="container group">
+            <div class="edition-container group">
+                <div class="edition-label">Edition:</div>
+                <div class="edition-selector">
+                    <div class="edition">United States</div>
+                    <div class="edition-arrow"></div>
+                </div>
+            </div>
+            <div class="reuters-nav-main">
+                <h2 class="reuters-logo">
+                    <a href="/" title="Reuters"></a>
+                </h2>
+            </div>
+            <div id="utilities" class="utilities"></div>
+        </div>
+    </header>
+    <nav id="headerNav">
+        <div class="container group">
+            <div class="header-mini-logo">
+                    <a href="/" title="Reuters"></a>
+            </div>
+            <ul class="horizontal-list nav-list">
+                <li class="nav-item home-tab active-icon
+                                                no-subnav" id="nav-item-1">
+                                            <a href="/home" class="nav-link-sec">
+                                                <div class="home-icon"></div>
+                                                <span class="text"></span>
+                                            </a>
+                                        </li>
+                <li class="nav-item
+                                       " id="nav-item-2">
+                                       <a href="/finance" class="nav-link-sec">Business</a>
+                                <div class="subnav" id="subnav-2">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li >
+                                           <a href="/finance" class="nav-link-subsec">Business Home</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/legal" class="nav-link-subsec">Legal</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/deals" class="nav-link-subsec">Deals</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/subjects/aerospace-and-defense" class="nav-link-subsec">Aerospace & Defense</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="/subjects/banks" class="nav-link-subsec">Finance</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/subjects/autos" class="nav-link-subsec">Autos</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/summits" class="nav-link-subsec">Reuters Summits</a>
+                                        </li>
+
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item
+                                       " id="nav-item-3">
+                                       <a href="/finance/markets" class="nav-link-sec">Markets</a>
+                                <div class="subnav" id="subnav-3">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li >
+                                           <a href="/finance/markets" class="nav-link-subsec">Markets Home</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/markets/us" class="nav-link-subsec">U.S. Markets</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/markets/europe" class="nav-link-subsec">European Markets</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/markets/asia" class="nav-link-subsec">Asian Markets</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="/finance/global-market-data" class="nav-link-subsec">Global Market Data</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/markets/indices" class="nav-link-subsec">Indices</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/stocks" class="nav-link-subsec">Stocks</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/bonds" class="nav-link-subsec">Bonds</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="/finance/currencies" class="nav-link-subsec">Currencies</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/commodities" class="nav-link-subsec">Comm & Energy</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/futures" class="nav-link-subsec">Futures</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/funds" class="nav-link-subsec">Funds</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="/finance/EarningsUS" class="nav-link-subsec">Earnings</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/markets/dividends" class="nav-link-subsec">Dividends</a>
+                                        </li>
+
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item
+                                       " id="nav-item-4">
+                                       <a href="/news/world" class="nav-link-sec">World</a>
+                                <div class="subnav" id="subnav-4">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li >
+                                           <a href="/news/world" class="nav-link-subsec">World Home</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/news/us" class="nav-link-subsec">U.S.</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/subjects/specialReports" class="nav-link-subsec">Special Reports</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="http://www.reuters.com/investigates" class="nav-link-subsec">Reuters Investigates</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="/subjects/euro-zone" class="nav-link-subsec">Euro Zone</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/subjects/middle-east" class="nav-link-subsec">Middle East</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/places/china" class="nav-link-subsec">China</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/places/japan" class="nav-link-subsec">Japan</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="/places/mexico" class="nav-link-subsec">Mexico</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/places/brazil" class="nav-link-subsec">Brazil</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/places/africa" class="nav-link-subsec">Africa</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/places/russia" class="nav-link-subsec">Russia</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="/places/india" class="nav-link-subsec">India</a>
+                                        </li>
+
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item
+                                       " id="nav-item-5">
+                                       <a href="/politics" class="nav-link-sec">Politics</a>
+                                <div class="subnav" id="subnav-5">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li >
+                                           <a href="/politics" class="nav-link-subsec">Politics Home</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/politics/election2016" class="nav-link-subsec">Election 2016</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="http://polling.reuters.com" class="nav-link-subsec">Polling Explorer</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="http://blogs.reuters.com/talesfromthetrail" class="nav-link-subsec">Tales from the Trail</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="http://www.reuters.com/election2016/the-undecided " class="nav-link-subsec">What Voters Want</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/subjects/supreme-court" class="nav-link-subsec">Supreme Court</a>
+                                        </li>
+
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item
+                                       " id="nav-item-6">
+                                       <a href="/news/technology" class="nav-link-sec">Tech</a>
+                                <div class="subnav" id="subnav-6">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li >
+                                           <a href="/news/technology" class="nav-link-subsec">Technology Home</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/news/science" class="nav-link-subsec">Science</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/bizfinance/technology/Top100Innovators" class="nav-link-subsec">Top 100 Global Innovators</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/news/environment" class="nav-link-subsec">Environment</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="/innovation" class="nav-link-subsec">Innovation</a>
+                                        </li>
+
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item
+                                       " id="nav-item-7">
+                                       <a href="/commentary/" class="nav-link-sec">Commentary</a>
+                                <div class="subnav" id="subnav-7">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li >
+                                           <a href="/commentary/" class="nav-link-subsec">Commentary Home </a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/tools/podcasts/" class="nav-link-subsec">Podcasts</a>
+                                        </li>
+
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item
+                                       " id="nav-item-8">
+                                       <a href="http://blogs.reuters.com/breakingviews/" class="nav-link-sec">Breakingviews</a>
+                                <div class="subnav" id="subnav-8">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li >
+                                           <a href="http://blogs.reuters.com/breakingviews/" class="nav-link-subsec">Breakingviews Home</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/video/breakingviews" class="nav-link-subsec">Breakingviews Video</a>
+                                        </li>
+
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item
+                                       " id="nav-item-9">
+                                       <a href="/finance/personal-finance" class="nav-link-sec">Money</a>
+                                <div class="subnav" id="subnav-9">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li >
+                                           <a href="/finance/personal-finance" class="nav-link-subsec">Money Home</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/finance/personal-finance/retirement" class="nav-link-subsec">Retirement</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/subjects/us-lipper-awards" class="nav-link-subsec">Lipper Awards</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="https://commerce.us.reuters.com/purchase/default.do" class="nav-link-subsec">Analyst Research</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="http://alerts.us.reuters.com/US/company.asp" class="nav-link-subsec">Alerts</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="http://portfolio.us.reuters.com/US/watchlist/create.asp" class="nav-link-subsec">Watchlist</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="http://portfolio.us.reuters.com/US/public/index.asp" class="nav-link-subsec">Portfolio</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp" class="nav-link-subsec">Stock Screener</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="http://funds.us.reuters.com/US/screener/screener.asp" class="nav-link-subsec">Fund Screener</a>
+                                        </li>
+
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item
+                                       " id="nav-item-10">
+                                       <a href="/news/lifestyle" class="nav-link-sec">Life</a>
+                                <div class="subnav" id="subnav-10">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li >
+                                           <a href="/news/health" class="nav-link-subsec">Health</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/news/sports" class="nav-link-subsec">Sports</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/news/entertainment/arts" class="nav-link-subsec">Arts</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="/news/entertainment" class="nav-link-subsec">Entertainment</a>
+                                        </li>
+
+                                        </ul>
+                                            <ul class="subnav-list">
+                                        <li >
+                                           <a href="/news/oddlyEnough" class="nav-link-subsec">Oddly Enough</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="http://blogs.reuters.com/faithworld" class="nav-link-subsec">Faithworld</a>
+                                        </li>
+
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item pictures-tab active-icon active-text
+                                               " id="nav-item-11">
+                                            <a href="/news/pictures" class="nav-link-sec">
+                                                <div class="pictures-icon"></div>
+                                                <span class="text">Pictures</span>
+                                            </a>
+                                        <div class="subnav" id="subnav-11">
+                            <div class="subnav-inset">
+                                <ul class="subnav-list">
+                                    <li >
+                                           <a href="/news/pictures" class="nav-link-subsec">Pictures Home</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="http://widerimage.reuters.com" class="nav-link-subsec">The Wider Image</a>
+                                        </li>
+
+                                        <li >
+                                           <a href="http://widerimage.reuters.com/photographer" class="nav-link-subsec">Photographers</a>
+                                        </li>
+
+                                        </ul>
+                            </div>
+                        </div>
+                    </li>
+                <li class="nav-item video-tab active-icon active-text
+                                                no-subnav" id="nav-item-12">
+                                            <a href="/video" class="nav-link-sec">
+                                                <div class="video-icon"></div>
+                                                <span class="text">Video</span>
+                                            </a>
+                                        </li>
+                <li class="nav-item search-tab active-icon no-subnav"><div class="search-icon"></div></li>
+            </ul>
+            <div id="searchBar">
+                <form id="searchForm" class="search-form" name="searchbox" method="get" action="/search/news" autocomplete="off">
+                    <input id="searchfield" class="search-field" name="blob" type="text" value="" onfocus="this.value = this.value;"  size="30" maxlength="128">
+                    <span class="search-line"></span>
+                    <input type="submit" id="search-submit-button" class="search-submit-button" value="" onmousedown="if(document.forms['searchbox'].blob.value == 'Search Reuters') { document.forms['searchbox'].blob.value = ''; }">
+                    <div class="search-close-button"></div>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <div class="nav-white-space"></div>
+    <div class="edition-header">
+        <div class="container">
+            <div class="selection-header"></div>
+            <ul class="edition-list">
+                <li>
+                    <div class="item">
+                        <a href="http://af.reuters.com">Africa</a>
+                    </div>
+                    <div class="item">
+                        <a href="http://lta.reuters.com">América Latina</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="item">
+                        <a href="http://ara.reuters.com">عربي</a>
+                    </div>
+                    <div class="item">
+                        <a href="http://ar.reuters.com">Argentina</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="item">
+                        <a href="http://br.reuters.com">Brasil</a>
+                    </div>
+                    <div class="item">
+                        <a href="http://ca.reuters.com">Canada</a>
+                    </div>
+                </li>   
+                <li>
+                    <div class="item">
+                        <a href="http://cn.reuters.com" class="">中国</a>
+                    </div>
+                    <div class="item">
+                        <a href="http://de.reuters.com" class="">Deutschland</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="item">
+                         <a href="http://es.reuters.com">España</a>
+                    </div>
+                    <div class="item">
+                        <a href="http://fr.reuters.com">France</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="item">
+                        <a href="http://in.reuters.com" class="">India</a>
+                    </div>
+                    <div class="item">
+                        <a href="http://it.reuters.com">Italia</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="item">
+                        <a href="http://jp.reuters.com" class="">日本</a>
+                    </div>
+                    <div class="item">
+                        <a href="http://mx.reuters.com">México</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="item">
+                       <a href="http://ru.reuters.com">РОССИЯ</a>
+                    </div>
+                    <div class="item">
+                        <a href="http://uk.reuters.com" class="">United Kingdom</a>
+                    </div>
+                </li> 
+                <li>
+                    <div class="item">
+                        <a href="http://www.reuters.com" class="active">United States</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    
+    <div id="content">
+            <div id="overlayForSearch"></div><div class="section bleeding" id="bannerStrip">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<div id="div_gpt_lb"><div class="ad" id="leaderboard">
+
+		<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'leaderboard' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('leaderboard' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('leaderboard' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('leaderboard' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_lb", dz_final,  [[728, 90],[970,250],[970,90],[970,66],[1,1]], "type=leaderboard;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('leaderboard' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_lb", dz_final,  [[728, 90],[970,250],[970,90],[970,66],[1,1]], "type=leaderboard;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_lb", dz_final,  [[728, 90],[970,250],[970,90],[970,66],[1,1]], "type=leaderboard;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_lb", dz_final,  [[728, 90],[970,250],[970,90],[970,66],[1,1]], "type=leaderboard;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+        
+        </div>
+
+		</div><div class="linebreak"></div>
+	<style>
+#div_gpt_lb{display: inline-block;
+position: relative;
+text-align: center;
+width: 976px;}
+
+#div_gpt_mpu, #div_gpt_home_rr1, #div_gpt_rr2, #div_gpt_article_sp3, #div_gpt_mpulow, #div_gpt_bd2{margin-bottom:20px;}
+.mpu .ad {clear:left;}
+.column2 .ad{margin-bottom: 0px !important;}
+.pageSponsor{width: 270px !important;}
+#div_gpt_mpu{float: left;}
+</style>
+
+
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="section">
+	<div class="sectionContent">
+<div id="sectionHeader"><style type="text/css">.quoteBox div div.value {font-size:16px;}</style><div id="sectionTitle">
+	<h1>Dover Corp (DOV)</h1>
+	</div>
+
+<script language="javascript">
+if (Reuters.tns) {
+    Reuters.tns.currentCompany = 'DOV';
+}
+</script>
+<style>
+#div_gpt_tradelogo{
+float: right;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+</style><div class="linebreak"></div>
+	<div id="div_gpt_tradelogo"><div class="ad" id="tradelogo">
+
+		<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'tradelogo' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('tradelogo' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('tradelogo' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('tradelogo' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('tradelogo' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_tradelogo", dz_final, [250,36], "type=tradelogo;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+        
+        </div>
+
+		</div><div class="linebreak"></div>
+	
+
+<div id="sectionHeaderTopics"><div id="headerTopics">
+<div class="sectionRelatedTopics">
+
+	<ul>
+        <h3>Related Topics: </h3>
+            <li><a href="/finance/stocks" >Stocks</a></li><li><a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp" >Stock Screener</a></li><li><a href="/finance/global-market-data" >Market Data</a></li><li><a href="/sectors/industrials" >Industrials</a></li><li><a href="/sectors/industries/overview?industryCode=39" >Industrial Machinery & Equipment</a></li></ul>
+</div>
+
+	</div>
+</div><div style="clear: both"><div id="div_gpt_investingchannel"><div class="ad" id="investingchannel">
+
+		<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'investingchannel' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('investingchannel' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('investingchannel' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('investingchannel' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('investingchannel' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_investingchannel", dz_final, [940,90], "type=investingchannel;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+        
+        </div>
+
+		</div></div>
+
+<div class="linebreak"></div>
+	<div id="companyOverviewTabSection">
+<div id="companyOverviewTabs">
+	<ul>
+		<li class="current">
+            <a href="/finance/stocks/overview?symbol=DOV">
+                
+                        Overview
+                    </a>
+        </li>
+		<li>
+            <a href="/finance/stocks/companyNews?symbol=DOV">
+                
+                        News
+                    </a>
+        </li>
+		<li>
+            <a href="/finance/stocks/DOV/key-developments">
+                
+                        Key Developments
+                    </a>
+        </li>
+		<li>
+            <a href="/finance/stocks/companyOfficers?symbol=DOV">
+                
+                        People
+                    </a>
+        </li>
+		<li>
+            <a href="/finance/stocks/chart?symbol=DOV">
+                
+                        Charts
+                    </a>
+        </li>
+		<li>
+            <a href="/finance/stocks/financialHighlights?symbol=DOV">
+                
+                        Financials
+                    </a>
+        </li>
+		<li>
+            <a href="/finance/stocks/analyst?symbol=DOV">
+                
+                        Analysts
+                    </a>
+        </li>
+		<li>
+                <a href="/finance/stocks/analystResearch?symbol=DOV">
+                    
+                            Research
+                        </a>
+            </li>
+        <li>
+                <a href="/finance/stocks/social-pulse?symbol=DOV">
+                    
+                            Pulse
+                        </a>
+            </li>
+        </ul>
+</div>
+</div>
+
+<div class="module">
+		
+		<div class="moduleBody">
+		<div id="headerQuoteContainer">
+		<div class="sectionQuote nasdaqChange">
+			<div class="sectionQuoteDetail">
+				<span class="nasdaqChangeHeader">
+				DOV on New York Consolidated</span>
+				<br class="clear"><br class="clear">
+				<span style="font-size: 23px;">
+				67.46</span><span>USD</span><br />
+				<span class="nasdaqChangeTime">24 Jun 2016</span>
+			</div>
+		</div>
+		<div class="sectionQuote priceChange">
+			<div class="sectionQuoteDetail">
+				<span class="priceDetail">
+				    Change	(% chg)</span>											
+				<br class="clear"><br class="clear">				
+				<span class="valueContent">									    		
+				    <span class="neg">		    
+						    &#36;-4.20</span>				
+					<span class="valueContentPercent">					        
+					        <span class="neg">
+					            (-5.86%)
+					        </span>
+					</span>
+				</span>
+				</div>
+		</div>
+		<div class="sectionQuote">
+			<div class="sectionQuoteDetailTop">
+				<span>Prev Close</span>
+				<br class="clear">
+				<span>&#36;71.66</span>
+			</div>
+			<div class="sectionQuoteDetail">
+				<span>Open</span>
+				<br class="clear">
+				<span>&#36;68.81</span>
+			</div>
+		</div>
+		<div class="sectionQuote">
+			<div class="sectionQuoteDetailTop">
+				<span>Day's High</span>
+				<br class="clear">
+				<span class="sectionQuoteDetailHigh">&#36;69.35</span>
+			</div>
+			<div class="sectionQuoteDetail">
+				<span>Day's Low</span>
+				<br class="clear">
+				<span class="sectionQuoteDetailLow">&#36;67.28</span>
+			</div>
+		</div>
+		<div class="sectionQuote">
+			<div class="sectionQuoteDetailTop">
+				<span>Volume</span>
+				<br class="clear">
+				<span>1,630,301</span>
+			</div>
+			<div class="sectionQuoteDetail">
+				<span>Avg. Vol</span>
+				<br class="clear">
+				<span>1,367,897</span>
+			</div>
+		</div>
+		<div class="sectionQuote">
+			<div class="sectionQuoteDetailTop">
+				<span>52-wk High</span>
+				<br class="clear">
+				<span class="sectionQuoteDetailHigh">&#36;72.79</span>
+			</div>
+			<div class="sectionQuoteDetail">
+				<span>52-wk Low</span>
+				<br class="clear">
+				<span class="sectionQuoteDetailLow">&#36;50.91</span>
+			</div>
+		</div>
+		<br class="clear">
+
+	  </div>
+</div>
+		</div>
+		</div><div class="sectionColumns">
+
+<div class="column1 gridPanel grid8">
+
+
+<div class="linebreak"></div>
+	<div class="columnLeft"><div class="gridPanel grid6"><div id="companyOverviewChart">
+
+	<h2>DOV<span id="selectExchanges"></span></h2>
+	<div id="overviewChart">
+		<a href="/finance/stocks/chart?symbol=DOV"><img src="http://charts.reuters.com/reuters/enhancements/chartapi/chart_api.asp?width=458&height=292&symbol=DOV&duration=5&lowers=volume&headertype=none" width="458" height="292" border="0" alt="Chart for DOV" /></a>
+	</div>
+	<script type="text/javascript" src="/finance/stocks/jsonCompanySearch?searchType=name&search=Dover+Corp"></script>
+
+</div>
+
+</div></div><div class="columnRight"><div id="companyProfile" class="gridPanel grid2"><div class="module">
+		
+		<div class="moduleHeader">
+				<h3>
+					About</h3>
+			</div>
+		<div class="moduleBody">
+		Dover Corporation (Dover) is engaged in the manufacturing of equipment, components and specialty systems. The Company also provides supporting engineering, testing and other services. The Company operates through four segments: Energy, Engineered Systems, Fluids, and Refrigeration & Food Equipment. The Energy segment provides... (<a href="/finance/stocks/companyProfile?symbol=DOV">more</a>)</div>
+		</div>
+		</div></div><div class="columnRight"><div id="analystRecommendations" class="gridPanel grid2"><div class="module">
+		
+		<div class="moduleHeader">
+				<h3>
+					<a href="/finance/stocks/analyst?symbol=DOV" >
+					Buy/Sell</a>
+					</h3>
+			</div>
+		<div class="moduleBody">
+		<!-- 0.42647498846054077 -->
+<div id="argInfo">
+	<img src="/resources_v2/images/btn_analystRecommendations.gif" id="argIndicatorAnalysts" style="margin-left:75px;" alt="Analyst Recommendations" title="2.7059" />
+	<img src="/resources_v2/images/bg_analystRecommendationsGauge.gif" id="argLineChart" width="140" alt="" />
+</div>
+
+<div class="moreLink">
+				<a href="/finance/stocks/analyst?symbol=DOV">&#187; Analyst Consensus</a></div></div>
+		</div>
+		</div></div><div class="linebreak"></div>
+	<div class="columnLeft"><div id="overallRatios" class="gridPanel grid4"><div class="module">
+		
+		<div class="moduleHeader">
+				<h3>
+					Overall</h3>
+			</div>
+		<div class="moduleBody">
+		<table width="100%" cellpadding="1" cellspacing="0" border="0" class="dataTable">
+	<tbody>
+		<tr>
+			<td>Beta:</td>
+			<td class="data"><strong>1.36</strong></td>
+		</tr>
+		<tr>
+			<td>Market Cap(Mil.):</td>
+			<td class="data"><strong>&#36;10,466.33</strong></td>
+		</tr>
+		<tr>
+			<td>Shares Outstanding(Mil.):</td>
+			<td class="data"><strong>155.15</strong></td>
+		</tr>
+		<tr>
+			<td>Dividend:</td>
+			<td class="data"><strong>0.42</strong></td>
+		</tr>
+		<tr>
+			<td>Yield (%):</td>
+			<td class="data"><strong>2.49</strong></td>
+		</tr>
+	</tbody>
+</table>
+
+</div>
+		</div>
+		</div></div><div class="columnRight"><div id="companyVsIndustry" class="gridPanel grid4"><div class="module">
+		
+		<div class="moduleHeader">
+				<h3>
+					Financials</h3>
+			</div>
+		<div class="moduleBody">
+		<table width="100%" cellpadding="1" cellspacing="0" border="0" class="dataTable">
+	<tbody>
+		<tr>
+			<th>&nbsp;</th>
+			<th class="focus data">DOV</th>
+			<th class="data">Industry</th>
+			<th class="data">Sector</th>
+		</tr>
+		<tr>
+			<td>P/E (TTM):</td>
+			<td class="focus data">
+				18.36</td>
+			<td class="data">
+				20.28</td>
+			<td class="data">
+				25.22</td>
+		</tr>
+		<tr>
+			<td>EPS (TTM):</td>
+			<td class="focus data">
+				3.67</td>
+			<td class="data">
+				--</td>
+			<td class="data">
+				--</td>
+		</tr>
+		<tr>
+			<td>ROI:</td>
+			<td class="focus data">
+				8.14</td>
+			<td class="data">
+				9.19</td>
+			<td class="data">
+				6.34</td>
+		</tr>
+		<tr>
+			<td>ROE:</td>
+			<td class="focus data">
+				15.89</td>
+			<td class="data">
+				10.58</td>
+			<td class="data">
+				9.83</td>
+		</tr>
+	</tbody>
+</table>
+
+</div>
+		</div>
+		</div></div><div class="linebreak"></div>
+	<div class="sectionDivider"></div>
+
+<div class="linebreak"></div>
+	<div id="companyOverviewNews"><div class="module">
+		
+		<div class="moduleHeader">
+				<h3>
+					<a href="/finance/stocks/companyNews?symbol=DOV" >
+					Latest News about DOV</a>
+					</h3>
+			</div>
+		<div class="moduleBody">
+		<div class="feature"><h2><a href="/article/idUSL8N19139W?type=companyNews"  >BRIEF-Dover entered into definitive agreement to acquire Wayne Fueling Systems Ltd</a>
+	</h2><p>* Upon close of transaction, Dover's annualized retail
+fueling revenue will be $1.4 billion</p>
+	<div class="relatedInfo">
+			<span class="timestamp">Jun 09 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/idUSFWN18219I?type=companyNews"  >BRIEF-Dover sets regular quarterly cash dividend of $0.42/shr</a>
+	</h2><p>* Sets regular quarterly cash dividend of $0.42 per share
+
+Source text for Eikon: 
+Further company coverage: 
+
+ (Bengaluru Newsroom: +1-646-223-8780)</p>
+	<div class="relatedInfo">
+			<span class="timestamp">May 05 2016</span></div>
+	</div><div class="feature"><h2><a href="/article/usa-employment-unions-idUSL2N16V0D9?type=companyNews"  >Dover Corp's warning to worker did not violate labor law - D.C. Circuit</a>
+	</h2><p>A unit of industrial manufacturing conglomerate Dover Corp
+did not violate labor law by issuing a warning to a worker, an
+appeals court ruled Tuesday in a decision reversing the National
+Labor Relations Board.</p>
+	<div class="relatedInfo">
+			<span class="timestamp">Mar 23 2016</span></div>
+	</div><div class="moreLink">
+				<a href="/finance/stocks/companyNews?symbol=DOV">&#187; More DOV News</a></div></div>
+		</div>
+		</div><div class="linebreak"></div>
+	<script>
+	var topStoryGrid = $('#topStory').find('.grid8');
+	if (topStoryGrid.hasClass('grid8')) {
+	    if ($('#latestHeadlines')) {
+	        $('#latestHeadlines').remove();
+	    }
+	};
+</script>
+
+
+<div class="module"><div id="div_gpt_stock_sp1"><div class="ad" id="BizDev_Stock_SP1">
+
+		<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'BizDev_Stock_SP1' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('BizDev_Stock_SP1' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('BizDev_Stock_SP1' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('BizDev_Stock_SP1' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_stock_sp1", dz_final, [[620,260],[620,200]], "type=BizDev_Stock_SP1;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('BizDev_Stock_SP1' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_stock_sp1", dz_final, [[620,260],[620,200]], "type=BizDev_Stock_SP1;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_stock_sp1", dz_final, [[620,260],[620,200]], "type=BizDev_Stock_SP1;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_stock_sp1", dz_final, [[620,260],[620,200]], "type=BizDev_Stock_SP1;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+        
+        </div>
+
+		</div><div class="linebreak"></div>
+	
+
+</div><div class="linebreak"></div>
+	</div>
+
+<div class="column2 gridPanel grid4">
+<div id="div_gpt_mpu"><div class="ad" id="mpu">
+
+		<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'mpu' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('mpu' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('mpu' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('mpu' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_mpu", dz_final, [[300, 250],[300,600],[300,1050],[160,600],[120,600]], "type=mpu;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('mpu' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_mpu", dz_final, [[300, 250],[300,600],[300,1050],[160,600],[120,600]], "type=mpu;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_mpu", dz_final, [[300, 250],[300,600],[300,1050],[160,600],[120,600]], "type=mpu;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_mpu", dz_final, [[300, 250],[300,600],[300,1050],[160,600],[120,600]], "type=mpu;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+        
+        </div>
+
+		</div><div class="linebreak"></div>
+	
+
+<div class="module">
+		
+		<div class="moduleHeader">
+				<h3>
+					Competitors</h3>
+			</div>
+		<div class="moduleBody">
+		<table width="100%" cellpadding="1" cellspacing="0" border="0" class="dataTable">
+	<tbody class="dataSmall">
+		<tr>
+			<th>&nbsp;</th>
+			<th class="data">Price</th>
+			<th class="data">Chg</th>
+		</tr>
+<tr class="stripe">
+			<td><a href="/finance/stocks/overview?symbol=GE.N">General Electric Company (GE.N)</a></td>
+			<td class="data">&#36;29.82</td>			
+			<td class="data changeDown">-1.37</td>
+		</tr>
+<tr>
+			<td><a href="/finance/stocks/overview?symbol=SIEGn.DE">Siemens AG (SIEGn.DE)</a></td>
+			<td class="data">&#8364;90.52</td>			
+			<td class="data changeDown">-7.24</td>
+		</tr>
+<tr class="stripe">
+			<td><a href="/finance/stocks/overview?symbol=SLB.N">Schlumberger Limited. (SLB.N)</a></td>
+			<td class="data">&#36;76.66</td>			
+			<td class="data changeDown">-2.93</td>
+		</tr>
+<tr>
+			<td><a href="/finance/stocks/overview?symbol=ALFA.ST">Alfa Laval AB (ALFA.ST)</a></td>
+			<td class="data">135.00&#107;&#114;</td>			
+			<td class="data changeUp">+3.20</td>
+		</tr>
+<tr class="stripe">
+			<td><a href="/finance/stocks/overview?symbol=DHR.N">Danaher Corporation (DHR.N)</a></td>
+			<td class="data">&#36;98.21</td>			
+			<td class="data changeDown">-2.23</td>
+		</tr>
+<tr>
+			<td><a href="/finance/stocks/overview?symbol=ITW.N">Illinois Tool Works Inc. (ITW.N)</a></td>
+			<td class="data">&#36;101.69</td>			
+			<td class="data changeDown">-5.13</td>
+		</tr>
+<tr class="stripe">
+			<td><a href="/finance/stocks/overview?symbol=PCAR.OQ">PACCAR Inc (PCAR.OQ)</a></td>
+			<td class="data">&#36;51.97</td>			
+			<td class="data changeDown">-4.38</td>
+		</tr>
+<tr>
+			<td><a href="/finance/stocks/overview?symbol=IR.N">Ingersoll-Rand PLC (IR.N)</a></td>
+			<td class="data">&#36;62.87</td>			
+			<td class="data changeDown">-3.42</td>
+		</tr>
+<tr class="stripe">
+			<td><a href="/finance/stocks/overview?symbol=PCP">Precision Castparts Corp. (PCP)</a></td>
+			<td class="data">&#36;234.95</td>			
+			<td class="data changeUp">+0.10</td>
+		</tr>
+<tr>
+			<td><a href="/finance/stocks/overview?symbol=002241.SZ">GoerTek Inc. (002241.SZ)</a></td>
+			<td class="data">¥28.16</td>			
+			<td class="data changeDown">-0.73</td>
+		</tr>
+</tbody>
+</table>
+
+</div>
+		</div>
+		<div class="linebreak"></div>
+	<div class="module">
+		
+		<div class="moduleHeader">
+				<h3>
+					<img src="/resources_v2/images/btn_analystRecommendations.gif" border="0" /> Earnings vs. <img src="/resources_v2/images/btn_estimates.gif" border="0" /> Estimates</h3>
+			</div>
+		<div class="moduleBody">
+		<script type="text/javascript">
+
+Reuters.namespace("company");
+
+		
+Reuters.company.pastEstimates = [
+			
+				
+	{ "label": "Q1&nbsp;16", "high": 0.7, "low": 0.54, "actual": 0.52 },
+				
+	{ "label": "Q4&nbsp;15", "high": 0.79, "low": 0.67, "actual": 0.81 },
+				
+	{ "label": "Q3&nbsp;15", "high": 1.1, "low": 1.02, "actual": 1.14 },
+				
+	{ "label": "Q2&nbsp;15", "high": 1.04, "low": 0.96, "actual": 0.97 },
+				
+	{ "label": "Q1&nbsp;15", "high": 0.73, "low": 0.7, "actual": 0.72 }
+];
+		
+Reuters.company.futureEstimates = [
+			
+	{ "label": "Q2&nbsp;16", "high": 0.88, "low": 0.82 },
+	{ "label": "Q3&nbsp;16", "high": 1.13, "low": 1.03 }
+];
+
+Reuters.company.showEstimatesVsActuals();
+		</script>
+
+</div>
+		</div>
+		<div class="module"  id="analystResearchReports">
+<div class="moduleHeader">
+<h3>
+Analyst Research Reports</h3>
+</div>
+<table cellpadding="2" cellspacing="0" border="0" class="dataTable">
+
+    <tbody class="dataSmall">
+        <tr>
+            <th>Report Title</th>
+            <th class="data">Price</th>
+        </tr>
+
+        
+<tr class="stripe">
+                <td>
+
+                    <div class="reportName">
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=25813099">ValuEngine Rating and Forecast Report for DOV</a></strong>
+                    </div>
+                    <div class="reportProvider">
+                       Provider : ValuEngine, Inc.</div>
+                </td>
+	            <td class="data">
+	            	<div class="reportPrice">$25.00</div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=25813099">Buy</a></div></div>
+	            </td>
+            </tr>            
+	<tr class="stripe">
+                <td>
+
+                    <div class="reportName">
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=35606349">Trading Report for (DOV). A detailed report, including free correlated market analysis, and updates.</a></strong>
+                    </div>
+                    <div class="reportProvider">
+                       Provider : Stock Traders Daily</div>
+                </td>
+	            <td class="data">
+	            	<div class="reportPrice">$20.00</div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=35606349">Buy</a></div></div>
+	            </td>
+            </tr>            
+	<tr class="stripe">
+                <td>
+
+                    <div class="reportName">
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=72489371">DOVER CORP (DOV=US) - SHORT AND LONG TERM FORECASTS FOR ACTIVE TRADERS</a></strong>
+                    </div>
+                    <div class="reportProvider">
+                       Provider : Pechala&apos;s Reports</div>
+                </td>
+	            <td class="data">
+	            	<div class="reportPrice">$25.00</div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=72489371">Buy</a></div></div>
+	            </td>
+            </tr>            
+	<tr class="stripe">
+                <td>
+
+                    <div class="reportName">
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=51374175">Our Economy without Stimulus; forward observations.</a></strong>
+                    </div>
+                    <div class="reportProvider">
+                       Provider : Stock Traders Daily</div>
+                </td>
+	            <td class="data">
+	            	<div class="reportPrice">$20.00</div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=51374175">Buy</a></div></div>
+	            </td>
+            </tr>            
+	<tr class="stripe">
+                <td>
+
+                    <div class="reportName">
+	                    <strong><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=31592741">Dover Corp: Business description, financial summary, 3yr and interim financials, key statistics/ratios and historical ratio analysis.</a></strong>
+                    </div>
+                    <div class="reportProvider">
+                       Provider : Reuters Investment Profile</div>
+                </td>
+	            <td class="data">
+	            	<div class="reportPrice">$20.00</div>
+<div class="reportAction"><div class="actionButton breaking"><a target="_top" href="https://commerce.us.reuters.com/purchase/showReportDetail.do?docid=31592741">Buy</a></div></div>
+	            </td>
+            </tr>            
+	</tbody>
+</table>
+
+<div class="footnote"><p>NYSE and AMEX quotes delayed by at least 20 minutes. NASDAQ delayed by at least 15 minutes. For a complete list of exchanges and delays, please <a href="http://www.reuters.com/info/disclaimer" target="_top">click here</a>.</p></div>
+
+<div class="moreLink"><a href="https://commerce.us.reuters.com/purchase/advancedSearch.do?symbol=DOV" target="_top">&#187; More Analyst Research</a></div>
+</div>
+<script language="javascript" src="/resources_v2/js/widget-portfolio.js"></script>
+<script language="javascript">Reuters.section.initPortfolioWidget('DOV');</script>
+<div id="div_gpt_mpulow"><div class="ad" id="mpulow">
+
+		<script language="javascript" type="text/javascript">
+
+	var dz_final = TR3.extractDartZone();
+		  
+		  // leaderboard
+			if( 'mpulow' == 'leaderboard'){
+				
+				//US HOME FASTLANE
+				if((TR3.extractDartZone().indexOf("us.reuters") > -1)){
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync_fastlane(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  	displayAd_sync_fastlane( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+				else{
+					
+					if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined')
+					{
+						displayAd_sync(dz_final,  "storychannel=" + Reuters.info.channel + ";" + adParams2 + "" );
+					}
+					else{
+					  displayAd_sync( dz_final, "" + adParams2 + "" );
+					}
+					
+				}
+			}
+			
+			else if('mpulow' == 'mpu'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpu'); });
+				
+			}
+			
+			else if('mpulow' == 'mpulow'){
+				
+				
+				 	googletag.cmd.push(function() { googletag.display('div_gpt_mpulow'); });
+				
+			}
+			
+			else if('mpulow' == 'leaderboardcenter'){
+				    if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_center'); });
+					}
+					else{
+						displayAd("div_gpt_mpulow", dz_final, [[300, 250],[300,600],[1,1]], "type=mpulow;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else if('mpulow' == 'leaderboardlow'){
+				
+					if((TR3.extractDartZone().indexOf("us.reuters/home") > -1)){
+				 		googletag.cmd.push(function() { googletag.display('div_gpt_lb_low'); });
+					}
+					else{
+						displayAd("div_gpt_mpulow", dz_final, [[300, 250],[300,600],[1,1]], "type=mpulow;" + adParams2 + "" );
+					}
+				
+			}
+			
+			else{
+				if(typeof(Reuters)!='undefined' && typeof(Reuters.info)!='undefined' && typeof(Reuters.info.channel)!='undefined'){
+					displayAd("div_gpt_mpulow", dz_final, [[300, 250],[300,600],[1,1]], "type=mpulow;storychannel=" + Reuters.info.channel+ ";" + adParams2 + "" );
+				}
+				else{
+				  displayAd("div_gpt_mpulow", dz_final, [[300, 250],[300,600],[1,1]], "type=mpulow;" + adParams2 + "" );
+				}	
+			
+			}
+	
+	
+	
+	</script>
+        
+        </div>
+
+		</div><div class="linebreak"></div>
+	
+
+</div>
+
+<div class="column3">
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="section">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<div id="footerTopicTarget"></div><div id="footerTopics">
+<div class="sectionRelatedTopics">
+
+	<ul>
+        <h3>Related Topics: </h3>
+            <li><a href="/finance/stocks" >Stocks</a></li><li><a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp" >Stock Screener</a></li><li><a href="/finance/global-market-data" >Market Data</a></li><li><a href="/sectors/industrials" >Industrials</a></li><li><a href="/sectors/industries/overview?industryCode=39" >Industrial Machinery & Equipment</a></li></ul>
+</div>
+
+	</div>
+</div>
+
+</div>
+
+</div>
+</div>
+</div>
+<footer>
+<section class="footer">
+	<div class="group wrap" id="">
+		<div id="section-follow-buttons"><span class="footer-follow">Follow Reuters: </span>
+<ul>
+    <li id="foot-twitter"><a href="http://www.twitter.com/reuters" target="_blank"><span class="follow-button follow-twitter">Follow Us On Twitter</span></a></li>
+    <li id="foot-facebook"><a href="http://www.facebook.com/Reuters" target="_blank"><span class="follow-button follow-facebook">Follow Us On Facebook</span></a></li>
+    <li id="foot-rssfeed"><a href="http://www.reuters.com/tools/rss" target="_blank"><span class="follow-button follow-rss">Follow Us On RSS</span></a></li>
+    <li id="foot-instagram"><a href=" https://instagram.com/reuters/" target="_blank"><span class="follow-button follow-instagram">Follow Us On Instagram</span></a></li>
+    <li id="foot-youtube"><a href="https://www.youtube.com/user/ReutersVideo" target="_blank"><span class="follow-button follow-youtube">Follow Us On YouTube</span></a></li>
+    <li id="foot-linkedin"><a href="https://www.linkedin.com/company/thomson-reuters_1400" target="_blank"><span class="follow-button follow-linkedin">Follow Us On LinkedIn</span></a></li>
+    <!-- <li id="foot-newsletters"><a href="http://newslink.reuters.com/join/subscribe" target="_blank"><span class="follow-button follow-newsletter">Follow Us On NewsLetters</span></a></li> -->
+</ul></div><div class="footer-more-links"><span class="footer-more">Subscribe: </span>
+<a href="http://www.reuters.com/tools/rss">Feeds</a> | <a href="http://newslink.reuters.com/join/subscribe">Newsletters</a> | <a href="/tools/podcasts">Podcasts</a> | <a href="/tools/mobile">Apps</a> </div></div>
+	</section><section class="footer-body">
+	<div class="group wrap" id="">
+		<div class="footer-services-link"><a href="http://agency.reuters.com" target="_blank">Reuters News Agency</a> | <a href="http://agency.reuters.com/en/platforms-delivery/reuters-brand-attribution-guidelines.html" target="_blank">Brand Attribution Guidelines</a> | <a href="http://thomsonreuters.com/site/delivery-options/" target="_blank">Delivery Options</a></div><div class="disclaimer"><div class="footer-summary">
+<p>Reuters is the news and media division of <a href="http://thomsonreuters.com/" target="_blank">Thomson Reuters</a>. Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual funds information available on Reuters.com, video, mobile, and interactive television platforms. Learn more about Thomson Reuters products:</p>
+</div></div><div class="product-container">
+  <a href="http://financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software.html" target="_blank">
+    <div class="product">
+      <div class="prod-title">Eikon</div>
+        <div class="prod-content">Information, analytics and exclusive news on financial markets - delivered in an intuitive desktop and mobile interface 
+        </div>
+    </div>
+  </a>
+  <a href="http://financial.thomsonreuters.com/en/products/infrastructure/trading-infrastructure/elektron-enterprise-data-management.html" target="_blank">  
+    <div class="product">
+      <div class="prod-title">Elektron</div>
+        <div class="prod-content">Everything you need to empower your workflow and enhance your entreprise data management 
+      </div>
+    </div>
+  </a>
+  <a href="https://risk.thomsonreuters.com/products/world-check" target="_blank">  
+    <div class="product">
+      <div class="prod-title">World-Check</div>
+      <div class="prod-content">Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks 
+      </div>
+    </div>
+  </a>  
+  <a href="http://legalsolutions.thomsonreuters.com/law-products/westlaw-legal-research/" target="_blank">
+    <div class="product">
+      <div class="prod-title">Westlaw</div>
+      <div class="prod-content">The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs  
+      </div>
+    </div>
+  </a>
+  <a href="https://tax.thomsonreuters.com/products/brands/onesource/" target="_blank">  
+    <div class="product">
+      <div class="prod-title">ONESOURCE</div>
+      <div class="prod-content">Information, analytics and exclusive news on financial markets - delivered in an intuitive desktop and mobile interface 
+      </div>
+    </div>
+  </a>
+  <a href="https://tax.thomsonreuters.com/products/brands/checkpoint/" target="_blank">  
+    <div class="product prod-last">
+      <div class="prod-title">CHECKPOINT</div>
+      <div class="prod-content">The industry leader for online information for tax, accounting and finance professionals 
+      </div>
+    </div>
+  </a>  
+</div><div class="linebreak"></div>
+	<div class="footer-policy-links">
+<p> All quotes delayed a minimum of 15 minutes. <a href="/info/disclaimer">See here for a complete list</a> of exchanges and delays. </p>
+<div class="footer-policies">
+<ul>
+<li class="h-links">
+<div class="reuters-copyright">
+
+ <script type="text/javascript">
+            var year = new Date();
+            document.write('<a href="http://thomsonreuters.com/copyright/">&copy;  ' + year.getFullYear() + ' Reuters. All Rights Reserved.</a>');
+        </script>
+</div>
+</li>
+
+<li class="h-links"><a href="http://reuters.zendesk.com/" target="_blank">Site Feedback</a></li>
+<li class="h-links"><a href="https://reuters.zendesk.com/anonymous_requests/new" target="_blank">Corrections</a></li>
+<li class="h-links"><a href="http://sales.reuters.com/">Advertise With Us</a></li>
+<li class="h-links"><a href="/advertising-guidelines">Advertising Guidelines</a></li>
+<li class="h-links"><a href="#" id="_bapw-link" ><img id="_bapw-icon" border="0" width="11" align="top" src="https://cdn.betrad.com/pub/icon1.png" /> AdChoices</a></li>
+<li class="h-links"><a href="/terms-of-use">Terms of Use</a></li>
+<li class="h-links h-links-last"><a href="/privacy-policy">Privacy Policy</a></li>
+
+</ul>
+<script type="text/javascript">
+!function(){function e(e){var o=new Image;o.src=r+"l.betrad.com/pub/p.gif?pid="+n+"&ocid="+t+"&i"+e+"=1&r="+Math.random()}var n=285,t=1237,o=!1,a=document,i=a.getElementById("_bapw-link"),c="https:"==a.location.protocol,r=(c?"https":"http")+"://",d=r+(c?"a248.e.akamai.net/betterad.download.akamai.com/91609":"cdn.betrad.com")+"/pub/";a.getElementById("_bapw-icon").src=d+"icon1.png",i.onmouseover=function(){/#$/.test(i.href)&&(i.href="http://info.evidon.com/pub_info/"+n+"?v=1")},i.onclick=function(){function c(e,n){function t(){r.onload=r.onreadystatechange=null,i.removeChild(r),n()}var i=a.getElementsByTagName("head")[0]||a.documentElement,c=o,r=a.createElement("script");r.src=e,r.onreadystatechange=function(){c||"loaded"!=this.readyState&&"complete"!=this.readyState||(c=!0,t())},r.onload=t,i.insertBefore(r,i.firstChild)}var l=window._bap_p_overrides;return l&&l.hasOwnProperty(n)&&l[n].new_window?(e("c"),!0):(this.onclick="return "+o,c(r+"ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js",function(){c(d+"pub2.js",function(){BAPW.i(i,{pid:n,ocid:t})})}),o)},e("i")}();
+</script>
+</div></div><script src="https://api.b2c.com/api/init-97nl8esjtnxj40gyn4.js" data-cfasync="false" async></script>
+<noscript><img src="https://api.b2c.com/api/noscript-97nl8esjtnxj40gyn4.gif"></noscript><div class="linebreak"></div>
+	</div>
+	</section>
+
+</footer>
+
+<script src="http://s2.reutersmedia.net/resources_v2/js/core-base.js" type="text/javascript"></script>
+<script src="http://s3.reutersmedia.net/resources_v2/js/core-login.js" type="text/javascript"></script>
+<script src="http://s4.reutersmedia.net/resources_v2/js/core-header.js" type="text/javascript"></script>
+<script src="http://s2.reutersmedia.net/resources_v2/js/core-tracking.js" type="text/javascript"></script>
+<script src="http://s2.reutersmedia.net/resources_v2/js/rcom-social-share.js" type="text/javascript"></script>
+
+<script language="javascript" type="text/javascript" src="http://www.reuters.com/reuters_gpt_bootstrap_footer.js"></script>
+
+
+</body>
+
+<section>
+	<div class="group" id="">
+		<script type='text/javascript'>
+        var _sf_startpt = (new Date()).getTime();
+        var _sf_async_config = _sf_async_config || {};
+        
+        _sf_async_config.sections = 'Stocks'; 
+        _sf_async_config.autoDetect = false;
+        
+        _sf_async_config.authors = 'Reuters Editorial'; 
+        _sf_async_config.type = 'Markets'; 
+
+        (function(){
+          function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+            document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+             loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    </script>
+</div>
+	</section>
+
+</html>
+

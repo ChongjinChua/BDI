@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/tr/REC-html40/loose.dtd"><html><head>
+<title> Morningstar.com Error Page </title>
+</head>
+
+
+
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" valign="top">
+
+
+<table cellpadding="0" cellspacing="0" border="0" bordercolor="#000000" align="left" valign="top">
+
+	<tbody><tr>
+
+		<td>
+		<img src="http://im.morningstar.com/mstar-error-header.gif" alt="morningstar.com error header">
+		<br>
+		<font face="verdana" color="#000000" size="2">
+
+
+
+
+
+
+<!--*********** error message start **************-->
+
+
+This page is temporarily unavailable. We apologize for the inconvenience. Please try back again later.
+
+
+
+<!--*********** error message end *****************-->
+
+
+
+
+
+
+		<br><br>
+
+Click here return to <a href="http://www.morningstar.com"><font color="#ff0000">morningstar.com</font></a>.
+
+
+		</font></td>
+
+
+	</tr>
+
+
+</tbody></table>
+
+
+</body></html>
