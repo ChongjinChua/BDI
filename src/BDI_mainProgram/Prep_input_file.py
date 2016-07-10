@@ -34,6 +34,7 @@ class Render(QWebPage):
     self.symbols = in_symbols
     self.it = iter(self.symbols)
     self.cb = in_cb
+    self.count = 1
     self.dh_visited = False
     self.dh_symbol = ''
     self.ms_urls = []
@@ -58,11 +59,12 @@ class Render(QWebPage):
       
     else:
       #dumping html to txt files
-      print(len(self.html_list))
       if not self.dh_visited:
         self.dh_visited = True
       else:
+        print(self.count); self.count += 1
         self.cb(self.dh_symbol,self.html_list)
+        self.html_list = []
         
       if not self.done:
         symbol, has_more = next(self.lookahead())
@@ -140,17 +142,6 @@ csvfile = "../../input_files/constituents-financials.csv"
 print(datetime.now())
 data = pandas.read_csv(csvfile)
 symbols = data.Symbol.tolist()
-ms = Render(symbols,in_cb=dump_html)
+ms = Render(symbols[406:],in_cb=dump_html)
 print("done rendering")
 print(datetime.now())
-
-'''
-for item in ms.html_list:
-   print(item)
-   print("-----------------------------------------\n-------------------------------------------\n---------------------------------------\n-----------------------------------------")
-
-for item in r:
-   print(item)
-   print("-----------------------------------------\n-------------------------------------------\n---------------------------------------\n-----------------------------------------")
-'''
-
