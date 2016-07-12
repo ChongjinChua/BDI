@@ -3,7 +3,7 @@
 import sys, time
 import pyoo, pandas
 import socket
-import subprocess as sub
+from BDI_write import *
 
 def oo_write_header(oo_sheet):
     #write file description
@@ -11,7 +11,6 @@ def oo_write_header(oo_sheet):
     oo_sheet[0,0].font_weight = pyoo.FONT_WEIGHT_BOLD
 
     #write analysis description
-    #oo_cells = oo_sheet[2:11,0:7]
     oo_sheet[2:11,0].values = ['Criteria','Earnings over 5 years','Sales and Revenues over 5 years',
                               'Operating Cash Flow over 5 years','Gross/Net profit margin','Long-Term Growth Rates',
                               'Long-Term Debt','Return On Equity','Intrinsic Value']
@@ -49,22 +48,6 @@ def oo_write_header(oo_sheet):
 filename = 'analysis.ods'
 target = '../../output_files/' + filename
 cf_csvfile = '../../input_files/constituents-financials.csv'
-encoding = 'utf-8'
-
-#use subprocess to make command line calls 
-p = sub.Popen(['ls', target],stdout=sub.PIPE,stderr=sub.PIPE)
-output,error = p.communicate()
-output = output.decode(encoding).rstrip('\n'); error = error.decode(encoding).rstrip('\n')
-
-#determine whether output file exist
-file_exist = False
-if output == target:
-    file_exist = True
-
-#if analysis.ods exist, delete it
-if file_exist:
-    print("-analysis.ods exist. removing...")
-    sub.Popen(["rm",target])
 
 #setup connection to soffice
 oo_desktop = pyoo.Desktop()

@@ -12,7 +12,6 @@ from datetime import datetime
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 from PyQt4.QtWebKit import *
-from bs4 import *
 from copy import deepcopy
 import pandas
 import requests
@@ -54,7 +53,7 @@ class Render(QWebPage):
         url = self.r_urls.pop(0)
         print("Downloading {0}...".format(url))
         r = requests.get(url,headers={'User-Agent':'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0'})
-        self.html_list.append(r.text)#BeautifulSoup(r.text,'html.parser'))
+        self.html_list.append(r.text)
       self.crawl()
       
     else:
@@ -103,18 +102,6 @@ class Render(QWebPage):
     if first == last:
       val = False
     yield first,val
-    '''
-    #make iterable 'symbols' into an iterator
-    self.it = iter(self.symbols)
-    #get the first element
-    last = next(self.it)
-
-    for cur in it: #starting from second element
-      yield last,True
-      last = cur
-    #report last value
-    yield last,False
-    '''
 
   def _loadFinished(self, result):
     print("finished loading!")
@@ -122,7 +109,6 @@ class Render(QWebPage):
     url = str(frame.url().toString())
     html = frame.toHtml()
     self.html_list.append(html)
-#    self.dump_html(url, html)
     self.crawl()
 
 def dump_html(symbol,html_list):

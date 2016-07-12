@@ -10,6 +10,12 @@ echo "running soffice in the background..."
 echo "sleep for 4 seconds..."
 sleep 4
 
+#check if analysis.ods exists already. If so, delete it and call Prep_output_file.py. Prep_output_file.py always create a new analysis.ods
+if [[ -e $target_path ]]; then
+    echo "analysis.ods exist. removing..."
+    rm $target_path
+fi
+
 #execute python script that prepares output file 
 echo "Preparing output file..."
 ./Prep_output_file.py
