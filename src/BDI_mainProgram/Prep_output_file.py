@@ -4,6 +4,7 @@ import sys, time
 import pyoo, pandas
 import socket
 from BDI_write import *
+from BDI_dataStruct import *
 
 def oo_write_header(oo_sheet):
     #write file description
@@ -64,12 +65,17 @@ oo_sheet = oo_doc.sheets[0]
 oo_write_header(oo_sheet)
 
 #extract S&P500 company symbols,names,sectors
-'''
 cf_data = pandas.read_csv(cf_csvfile)
 cf_symbols = cf_data.Symbol.tolist()
-cf_name = cf_data.Name.tolist()
-cf_sector = cf_data.Sector.tolist()
-'''
+cf_names = cf_data.Name.tolist()
+cf_sectors = cf_data.Sector.tolist()
+cf_inputs = tuple(cf_symbols,cf_name,cf_sector)
+
+BDI_input = Input()
+
+for cf_symbol,cf_name,cf_sector in cf_inputs:
+    BDI_read(cf_symbol,BDI_input)
+
 #save spreadsheet
 print("-saving ods file...")
 oo_doc.save(target)

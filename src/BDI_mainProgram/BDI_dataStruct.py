@@ -98,7 +98,7 @@ class Input():
         self.cash_equivalents = children[-1].text
         print('cash & equivalents = {0}'.format(self.cash_equivalents))
 
-    def get_ST_debt(self,in_page):
+    def get_STdebt(self,in_page):
         tag = in_page.find('div',{'id':'data_i41'})
         children = tag.findChildren()
         #only the ST debt for most recent year
