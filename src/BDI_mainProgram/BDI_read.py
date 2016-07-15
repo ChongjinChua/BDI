@@ -3,12 +3,12 @@
 from bs4 import *
 
 html_head = '../../input_files/htmls/'
-html_tail1 = 'MS_url1.txt'
-html_tail2 = 'MS_url2.txt'
-html_tail3 = 'MS_url3.txt'
-html_tail4 = 'MS_url4.txt'
-html_tail5 = 'R_url1.txt'
-html_tail6 = 'R_url2.txt'
+html_tail1 = '/MS_url1.txt'
+html_tail2 = '/MS_url2.txt'
+html_tail3 = '/MS_url3.txt'
+html_tail4 = '/MS_url4.txt'
+html_tail5 = '/R_url1.txt'
+html_tail6 = '/R_url2.txt'
 
 def BDI_read(symbol,BDI_input):
     html_tails = [html_tail1,

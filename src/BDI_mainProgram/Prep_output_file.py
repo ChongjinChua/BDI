@@ -4,7 +4,7 @@ import sys, time
 import pyoo, pandas
 import socket
 from BDI_write import *
-from BDI_dataStruct import *
+#from BDI_dataStruct import *
 
 def oo_write_header(oo_sheet):
     #write file description
@@ -25,25 +25,34 @@ def oo_write_header(oo_sheet):
     oo_sheet[3:11,3].border_left_width = 75       
 
     #prepare header
-    oo_sheet[13:15,0:29].font_weight = pyoo.FONT_WEIGHT_BOLD
-    oo_sheet[14,0:29].values = ['Index','Symbol',
-                                'Name','Sector',
-                                'Status','2011','2012','2013','2014','2015','TTM',
-                                'Status','2011','2012','2013','2014','2015','TTM',
-                                'Status','2011','2012','2013','2014','2015','TTM',
-                                'LT Growth (%)','LT Debt (Millions)','ROE (%)','Intrinsic Val ($)']
-    oo_sheet[13,4].value = 'Earnings over 5 years (Millions)'
-    oo_sheet[13,11].value = 'Sales & Revenue over 5 years (Millions)'
-    oo_sheet[13,18].value = 'Operating Cash Flow over 5 years (Millions)'
+    hdr_rowStart = 13
+    hdr_rowEnd = 518
+    hdr_colStart = 0
+    hdr_colEnd = 37
+    oo_sheet[ hdr_rowStart : 15 , hdr_colStart : hdr_colEnd ].font_weight = pyoo.FONT_WEIGHT_BOLD
+    oo_sheet[ hdr_rowStart+1 , hdr_colStart : hdr_colEnd ].values = ['Index','Symbol',
+                                                                     'Name','Sector',
+                                                                     'Status','2011','2012','2013','2014','2015','TTM',
+                                                                     'Status','2011','2012','2013','2014','2015','TTM',
+                                                                     'Status','2011','2012','2013','2014','2015','TTM',
+                                                                     'Status','Gross Profit Margin (%)',
+                                                                     'Status','Net Profit Margin (%)',
+                                                                     'Status','LT Growth (%)',
+                                                                     'Status','LT Debt (Millions)',
+                                                                     'Status','ROE (%)',
+                                                                     'Status','Intrinsic Val ($)']
+    oo_sheet[ hdr_rowStart , 4 ].value = 'Earnings over 5 years (Millions)'
+    oo_sheet[ hdr_rowStart , 11 ].value = 'Sales & Revenue over 5 years (Millions)'
+    oo_sheet[ hdr_rowStart , 18 ].value = 'Operating Cash Flow over 5 years (Millions)'
 
-    oo_sheet[13:519,0:29].border_top_width = 75
-    oo_sheet[13:518,25:29].border_width = 70
-    oo_sheet[13:518,0:5].border_left_width = 65
-    oo_sheet[13:518,11].border_left_width = 65    
-    oo_sheet[13:518,18].border_left_width = 65    
-    oo_sheet[14:518,5:11].border_left_width = 40
-    oo_sheet[14:518,12:18].border_left_width = 40
-    oo_sheet[14:518,19:25].border_left_width = 40
+    oo_sheet[ hdr_rowStart : hdr_rowEnd+1 , hdr_colStart : hdr_colEnd ].border_top_width = 75
+    oo_sheet[ hdr_rowStart : hdr_rowEnd , 25 : hdr_colEnd ].border_width = 70
+    oo_sheet[ hdr_rowStart : hdr_rowEnd , hdr_colStart : 5 ].border_left_width = 65
+    oo_sheet[ hdr_rowStart : hdr_rowEnd , 11 ].border_left_width = 65    
+    oo_sheet[ hdr_rowStart : hdr_rowEnd , 18 ].border_left_width = 65    
+    oo_sheet[ hdr_rowStart+1 : hdr_rowEnd , 5 : 11 ].border_left_width = 40
+    oo_sheet[ hdr_rowStart+1 : hdr_rowEnd , 12 : 18 ].border_left_width = 40
+    oo_sheet[ hdr_rowStart+1 : hdr_rowEnd , 19 : 25 ].border_left_width = 40
     pass
 
 filename = 'analysis.ods'
@@ -65,6 +74,7 @@ oo_sheet = oo_doc.sheets[0]
 oo_write_header(oo_sheet)
 
 #extract S&P500 company symbols,names,sectors
+'''
 cf_data = pandas.read_csv(cf_csvfile)
 cf_symbols = cf_data.Symbol.tolist()
 cf_names = cf_data.Name.tolist()
@@ -75,7 +85,7 @@ BDI_input = Input()
 
 for cf_symbol,cf_name,cf_sector in cf_inputs:
     BDI_read(cf_symbol,BDI_input)
-
+'''
 #save spreadsheet
 print("-saving ods file...")
 oo_doc.save(target)
