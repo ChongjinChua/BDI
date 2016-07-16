@@ -125,6 +125,7 @@ class Output:
         self.earnings = Output_attr()
         self.revenue = Output_attr()
         self.cash_flow = Output_attr()
+        self.calcList = [self.earnings,self.revenue,self.cash_flow]
         self.gross_margin = Output_attr()
         self.net_margin = Output_attr()
         self.LT_growthRate = Output_attr()
@@ -146,18 +147,20 @@ class Output:
         self.in_shares_outstanding = BDI_input.shares_outstanding
         self.in_cash_equivalents = BDI_input.cash_equivalents
         
-    def compute_earnings(self):
+    def compute_5years(self,switch):
+        #switch == 0 -> earnings
+        #Switch == 1 -> revenue
+        #switch == 2 -> cash flow
+        calcItem = self.calcList[switch]
+        
         #for status attribute, default is green, modify to red if computation conditions are not met
-        status_golden = Output.green
-
-        #load data
-        self.earnings.data = self.in_earnings
+        status_color = Output.green
 
         #convert string data to float(string contains comma)
-        float_data = [float(item.replace(',','')) for item in self.earnings.data]
+        float_data = [float(item.replace(',','')) for item in calcItem.data]
 
         #first data has nothing before it, no comparison needed, thus color remains black
-        self.earnings.data_color.append(Output.black)
+        calcItem.data_color.append(Output.black)
 
         #first item neglected, nothing to compare before it
         #last item neglected, since TTM data is not needed
@@ -168,8 +171,183 @@ class Output:
             #if value decreases over the year, set data_color to red, status no longer golden
             if item < float_data[ind]:
                 indiv_color = Output.red
-                status_golden = Output.red
+                status_color = Output.red
 
-            self.earnings.data_color.append(indiv_color)
+            calcItem.data_color.append(indiv_color)
 
-        self.earnings.status = status_golden
+        #set TTM data text to blue just to make it stand out
+        calcItem.data_color.append(Output.blue)
+        #set status tile color
+        calcItem.status = status_color
+
+    def compute_earnings(self):
+        #load data
+        self.earnings.data = self.in_earnings        
+
+        #pass '0' as parameter to indicate 'earnings'
+        self.compute_5years(0)
+
+    def compute_revenue(self):
+        #load data
+        self.revenue.data = self.in_revenue        
+
+        #pass '1' as parameter to indicate 'revenue'
+        self.compute_5years(1)
+
+    def compute_cashFlow(self):
+        #load data
+        self.cash_flow.data = self.in_cash_flow  
+
+        #pass '2' as parameter to indicate 'cash flow'
+        self.compute_5years(2)        
+
+    def compute_grossMargin(self):
+        #load data
+        self.gross_margin.data.append(self.in_gross_margin)
+        #set color. Has to compare to competitor, and this feature is not implemented
+        self.gross_margin.status = Output.black
+        self.gross_margin.data_color.append(Output.blue)
+
+    def compute_netMargin(self):
+        #load data
+        self.net_margin.data.append(self.in_net_margin)
+        #set color. Has to compare to competitor, and this feature is not implemented
+        self.net_margin.status = Output.black
+        self.net_margin.data_color.append(Output.blue)
+
+    def compute_LTgrowthRate(self):
+        result_gr = self.GR_getMeanGrowthRate()
+
+        #load data
+        self.LT_growthRate.data.append(str(result_gr))
+
+        #if Long term growth Rate exceeds 10%, set status to green
+        threshold = 10
+        self.LT_growthRate.status = Output.red
+        if self.LT_growthRate.data > threshold:
+            self.LT_growthRate.status = Output.green
+
+        self.LT_growthRate.data_color.append(Output.black)
+
+    def GR_getMeanGrowthRate(self):
+        #extract mean and 1 year ago growth rate
+        mean_gr = float(self.in_LT_growthRate[1].replace(',',''))
+        1yearAgo_gr = float(self.in_LT_growthRate[4].replace(',',''))
+        #computation method: take the mean of mean_growth_rate and 1_year_ago_growth_rate
+        result_gr = (mean_gr + 1yearAgo_gr) / 2
+
+        return result_gr
+
+    def compute_LTdebt(self):
+        #conservative debt: LT_debt < 3 x Net Income
+        debt = float(self.in_LT_debt.replace(',',''))
+        threshold = 3 * float(self.in_earnings[-1].replace(',',''))
+
+        #load data
+        self.LT_debt.data.append(self.in_LT_debt)
+
+        self.LT_debt.status = Output.red
+        if debt > threshold:
+            self.LT_debt.status = Output.green
+
+        self.LT_debt.data_color.append(Output.black)
+
+    def compute_returnOnEquity(self):
+        #extract ROE
+        roe = float(self.in_ROE.replace(',',''))
+
+        #load data
+        self.ROE.data.append(self.in_ROE)
+
+        #if return on equity exceeds 12%, set status to green
+        threshold = 12
+        self.ROE.status = Output.red
+        if roe > threshold:
+            self.ROE.status = Output.green
+
+        self.ROE.data_color.append(Output.black)
+
+    def compute_intrinsicVal(self):
+        #formula:
+        #get projected cash flow for ten years => cash flow * long term growthRate
+        #get discounted values by applying discounted factor to all 10 years of cash flow
+        #get present value of company by adding up all the discounted values
+        #get rough intrinsic val of one share by dividing present val with outstanding shares
+        #get intrinsic val by adding net cash per share((cashEquivalents-totalDebt)/outstanding shares)
+        
+        outstandingShares = float(self.in_shares_outstanding.replace(',',''))
+
+        #get list of projected cash flow
+        pcf_list = self.IV_projectCashFlow()
+
+        #get discount rate
+        discount_rate = self.IV_discountRate()
+
+        #get net cash per share
+        net_cash_per_share = self.IV_netCashPerShare(outstandingShares)
+
+        #rough present value of company
+        present_val = 0
+
+        #get discount value by applying discount rate to each pcf
+        #DV = CF * DF(discounted factor)
+        for ind, cf in enumerate(pcf,1):
+            present_val += (cf * (1 / ((1+discount_rate) ** ind)))
+
+        rough_IV_per_share = present_val / outstandingShares
+        intrinsic_val = rough_IV_per_share + net_cash_per_share
+
+        #update data
+        self.intrinsic_val.data.append(str(intrinsic_val))
+        self.intrinsic_val.status = Output.black
+        self.intrinsic_val.data_color.append(Output.blue)
+
+
+    def IV_netCashPerShare(self,outstandingShares):
+        ST_debt = float(self.in_ST_debt.replace(',',''))
+        LT_debt = float(self.in_LT_debt.replace(',',''))
+        cash_equivalents = float(self.in_cash_equivalents.replace(',',''))
+
+        return_val = (cash_equivalents - (ST_debt + LT_debt)) / outstandingShares
+        return return_val
+
+    def IV_projectCashFlow(self):
+        cash_flow = float(self.in_cash_flow[-1].replace(',',''))
+        growth_rate = self.GR_getMeanGrowthRate()
+        #projected cash flow
+        pcf = []
+        #TTM is the baseline, no calculation needed
+        pcf.append(cash_flow)
+        #loop for 10 times, and calculate projected cash flow in 10 years
+        ind = 0
+        for ind < 9:
+            #current projected cash flow is
+            #previous projected cash flow +
+            #previous projected cash flow * growth rate
+            pcf.append(pcf[ind] * growth_rate + pcf[ind])
+            ind += 1
+        return pcf
+        
+    def IV_discountRate(self):
+        #discount rate based on beta value(adam khoo)
+        beta = float(self.in_beta.replace(',',''))
+        if beta < 0.801:
+            discount_rate = 0.05
+        elif beta < 0.901:
+            discount_rate = 0.055
+        elif beta < 0.101:
+            discount_rate = 0.06
+        elif beta < 0.111:
+            discount_rate = 0.068
+        elif beta < 0.121:
+            discount_rate = 0.07
+        elif beta < 0.131:
+            discount_rate = 0.079
+        elif beta < 0.141:
+            discount_rate = 0.08
+        elif beta < 0.151:
+            discount_rate = 0.089
+        else:
+            discount_rate = 0.09
+
+        return discount_rate
