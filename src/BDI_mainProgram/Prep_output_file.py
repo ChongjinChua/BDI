@@ -3,8 +3,8 @@
 import sys, time
 import pyoo, pandas
 import socket
-from BDI_write import *
-#from BDI_dataStruct import *
+from BDI_operations import *
+from BDI_dataStruct import *
 
 def oo_write_header(oo_sheet):
     #write file description
@@ -74,18 +74,28 @@ oo_sheet = oo_doc.sheets[0]
 oo_write_header(oo_sheet)
 
 #extract S&P500 company symbols,names,sectors
-'''
 cf_data = pandas.read_csv(cf_csvfile)
 cf_symbols = cf_data.Symbol.tolist()
 cf_names = cf_data.Name.tolist()
 cf_sectors = cf_data.Sector.tolist()
-cf_inputs = tuple(cf_symbols,cf_name,cf_sector)
 
+#Create input and output class, will be reused for all companies
 BDI_input = Input()
+BDI_output = Output()
+ind = 1
+#beginning row of data
+data_rowNum = 15
 
-for cf_symbol,cf_name,cf_sector in cf_inputs:
-    BDI_read(cf_symbol,BDI_input)
-'''
+#read htmls, execute computations and write to analysis.ods company by company
+for i,item in enumerate(cf_symbols):
+    cf_data = [i+1,cf_symbols[i],cf_names[i],cf_sectors[i]]
+    oo_data = [data_rowNum,oo_sheet]
+    
+    BDI_read(cf_symbols[i],BDI_input)
+    BDI_compute(BDI_input,BDI_output)
+    BDI_write(BDI_output,cf_data,oo_data)
+    data_rowNum += 1
+
 #save spreadsheet
 print("-saving ods file...")
 oo_doc.save(target)
