@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 from bs4 import *
+import sys
 
 class Input:
     def __init__(self):
@@ -21,91 +23,164 @@ class Input:
         self.shares_outstanding = ""
         self.cash_equivalents = ""
 
+    #input validation: 1->valid, 0->invalid
+
     def get_earnings(self,in_page):
-        tag = in_page.find('div',{'id':'data_i80'})
-        children = tag.findChildren()
-        #earnings for five years
-        self.earnings = [child.text for child in children]
+        try:
+            tag = in_page.find('div',{'id':'data_i80'})
+            children = tag.findChildren()
+            #earnings for five years
+            self.earnings = [child.text for child in children]
+        except:
+            self.earnings = ['get_earnings ' + sys.exc_info()[0].__name__] #catch any sorts of error
+            return 0
+        return 1
         #print('earnings = {0}'.format(self.earnings))
 
     def get_revenue(self,in_page):
-        tag = in_page.find('div',{'id':'data_i1'})
-        children = tag.findChildren()
-        #revenue for five years
-        self.revenue = [child.text for child in children]
+        try:
+            tag = in_page.find('div',{'id':'data_i1'})
+            children = tag.findChildren()
+            #revenue for five years
+            self.revenue = [child.text for child in children]
+        except:
+            self.revenue = ['get_revenue ' + sys.exc_info()[0].__name__] #catch any sorts of error
+            return 0
+        return 1
+            
         #print('revenue = {0}'.format(self.revenue))
         
     def get_cashFlow(self,in_page):
-        tag = in_page.find('div',{'id':'data_tts1'})
-        children = tag.findChildren()
-        #cash flow for five years
-        self.cash_flow = [child.text for child in children]
+        try:
+            tag = in_page.find('div',{'id':'data_tts1'})
+            children = tag.findChildren()
+            #cash flow for five years
+            self.cash_flow = [child.text for child in children]
+        except:
+            self.cash_flow = ['get_cashFlow ' + sys.exc_info()[0].__name__] #catch any sorts of error
+            return 0
+        return 1
+
         #print('cash flow = {0}'.format(self.cash_flow))
 
     def get_grossMargin(self,in_page):
-        tag = in_page.find('th',{'id':'i14'})
-        siblings = tag.find_next_siblings('td')
-        #only the gross margin for TTM
-        self.gross_margin = siblings[-1].text
+        try:
+            tag = in_page.find('th',{'id':'i14'})
+            siblings = tag.find_next_siblings('td')
+            #only the gross margin for TTM
+            self.gross_margin = siblings[-1].text
+        except:
+            self.gross_margin = 'get_grossMargin ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            return 0
+        return 1
+
         #print('gross margin = {0}'.format(self.gross_margin))
 
     def get_netMargin(self,in_page):
-        tag = in_page.find('th',{'id':'i22'})
-        siblings = tag.find_next_siblings('td')
-        #only the gross margin for TTM
-        self.net_margin = siblings[-1].text
+        try:
+            tag = in_page.find('th',{'id':'i22'})
+            siblings = tag.find_next_siblings('td')
+            #only the gross margin for TTM
+            self.net_margin = siblings[-1].text
+        except:
+            self.net_margin = 'get_netMargin ' + sys.exc_info()[0].__name__
+            return 0
+        return 1
+            
         #print('net margin = {0}'.format(self.net_margin))
 
     def get_LTgrowthRate(self,in_page):
-        tag = in_page.find(text='LT Growth Rate (%)').__dict__
-        #'tag' is now a dictionary, where key 'parent' contains actual html tag. Have to do so cause find() only returns text, where html tag is desired
-        siblings = tag['parent'].find_next_siblings('td')
-        #no. of estimates,mean,high,low,1 year ago
-        self.LT_growthRate = [sibling.text for sibling in siblings]
+        try:
+            tag = in_page.find(text='LT Growth Rate (%)').__dict__
+            #'tag' is now a dictionary, where key 'parent' contains actual html tag. Have to do so cause find() only returns text, where html tag is desired
+            siblings = tag['parent'].find_next_siblings('td')
+            #no. of estimates,mean,high,low,1 year ago
+            self.LT_growthRate = [sibling.text for sibling in siblings]
+        except:
+            self.LT_growthRate = ['get_LTgrowthRate ' + sys.exc_info()[0].__name__] # catch any sorts of error
+            return 0
+        return 1
+
         #print('LT growth rate = {0}'.format(self.LT_growthRate))
 
     def get_LTdebt(self,in_page):
-        tag = in_page.find('div',{'id':'data_i50'})
-        children = tag.findChildren()
-        #only the LT debt for most recent year
-        self.LT_debt = children[-1].text
+        try:
+            tag = in_page.find('div',{'id':'data_i50'})
+            children = tag.findChildren()
+            #only the LT debt for most recent year
+            self.LT_debt = children[-1].text
+        except:
+            self.LT_debt = 'get_LTdebt ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            return 0
+        return 1
+            
         #print('LT debt = {0}'.format(self.LT_debt))
 
     def get_returnOnEquity(self,in_page):
-        tag = in_page.find('th',{'id':'i26'})
-        siblings = tag.find_next_siblings('td')
-        #only the return on Equity for TTM
-        self.ROE = siblings[-1].text
+        try:
+            tag = in_page.find('th',{'id':'i26'})
+            siblings = tag.find_next_siblings('td')
+            #only the return on Equity for TTM
+            self.ROE = siblings[-1].text
+        except:
+            self.ROE = 'get_returnOnEquity ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            return 0
+        return 1
+
         #print('return on equity = {0}'.format(self.ROE))
 
     def get_beta(self,in_page):
-        tag = in_page.find(text='Beta:').__dict__
-        #similar situation as LT_growthRate
-        sibling = tag['parent'].find_next_sibling('td')
-        #only a single value, situated in the 'strong' tag
-        self.beta = sibling.strong.text
+        try:
+            tag = in_page.find(text='Beta:').__dict__
+            #similar situation as LT_growthRate
+            sibling = tag['parent'].find_next_sibling('td')
+            #only a single value, situated in the 'strong' tag
+            self.beta = sibling.strong.text
+        except:
+            self.beta = 'get_beta ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            return 0
+        return 1
+
         #print('Beta = {0}'.format(self.beta))
 
     def get_sharesOutstanding(self,in_page):
-        tag = in_page.find(text='Shares Outstanding(Mil.):').__dict__
-        #similar situation as beta
-        sibling = tag['parent'].find_next_sibling('td')
-        #only a single value, situated in the 'strong' tag
-        self.shares_outstanding = sibling.strong.text
+        try:
+            tag = in_page.find(text='Shares Outstanding(Mil.):').__dict__
+            #similar situation as beta
+            sibling = tag['parent'].find_next_sibling('td')
+            #only a single value, situated in the 'strong' tag
+            self.shares_outstanding = sibling.strong.text
+        except:
+            self.shares_outstanding = 'get_sharesOutstanding ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            return 0
+        return 1
+
         #print('shares outstanding = {0}'.format(self.shares_outstanding))
 
     def get_cashEquivalents(self,in_page):
-        tag = in_page.find('div',{'id':'data_i1'})
-        children = tag.findChildren()
-        #only the cash equivalents for most recent year
-        self.cash_equivalents = children[-1].text
+        try:
+            tag = in_page.find('div',{'id':'data_i1'})
+            children = tag.findChildren()
+            #only the cash equivalents for most recent year
+            self.cash_equivalents = children[-1].text
+        except:
+            self.cash_equivalents = 'get_cashEquivalents ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            return 0
+        return 1
+
         #print('cash & equivalents = {0}'.format(self.cash_equivalents))
 
     def get_STdebt(self,in_page):
-        tag = in_page.find('div',{'id':'data_i41'})
-        children = tag.findChildren()
-        #only the ST debt for most recent year
-        self.ST_debt = children[-1].text
+        try:
+            tag = in_page.find('div',{'id':'data_i41'})
+            children = tag.findChildren()
+            #only the ST debt for most recent year
+            self.ST_debt = children[-1].text
+        except:
+            self.ST_debt = 'get_STdebt ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            return 0
+        return 1
+
         #print('ST debt = {0}'.format(self.ST_debt))
 
 class Output_attr:
@@ -151,40 +226,55 @@ class Output:
         self.in_shares_outstanding = BDI_input.shares_outstanding
         self.in_cash_equivalents = BDI_input.cash_equivalents
         
+    def convert_S2F(self,item):
+        #handles conversion of string with (num) to -ve float values
+        val = 1.0
+        if item[0] == '(':
+            val = -1.0
+        val *= float(item.replace(',','').replace(')','').replace('(',''))
+        return val
+
     def compute_5years(self,switch):
         #switch == 0 -> earnings
         #Switch == 1 -> revenue
         #switch == 2 -> cash flow
         calcItem = self.calcList[switch]
-        
-        #for status attribute, default is green, modify to red if computation conditions are not met
-        status_color = Output.green
-        status_data = 'green'
 
-        #convert string data to float(string contains comma)
-        float_data = [float(item.replace(',','')) for item in calcItem.data]
+        try:
+            #convert string data to float(string contains comma)
+            float_data = [self.convert_S2F(item) for item in calcItem.data]
 
-        #first data has nothing before it, no comparison needed, thus color remains black
-        calcItem.data_color.append(Output.black)
+            #for status attribute, default is green, modify to red if computation conditions are not met
+            status_color = Output.green
+            status_data = 'Green'
 
-        #first item neglected, nothing to compare before it
-        #last item neglected, since TTM data is not needed
-        for ind,item in enumerate(float_data[1:-1]):
-            #resets to green every cycle
-            indiv_color = Output.green
+            #first data has nothing before it, no comparison needed, thus color remains black
+            calcItem.data_color.append(Output.black)
 
-            #if value decreases over the year, set data_color to red, status no longer golden
-            if item < float_data[ind]:
-                indiv_color = Output.red
-                status_color = Output.red
-                status_data = 'red'
-            calcItem.data_color.append(indiv_color)
+            #first item neglected, nothing to compare before it
+            #last item neglected, since TTM data is not needed
+            for ind,item in enumerate(float_data[1:-1]):
+                #resets to green every cycle
+                indiv_color = Output.green
 
-        #set TTM data text to blue just to make it stand out
-        calcItem.data_color.append(Output.blue)
-        #set status tile and text color
-        calcItem.status = status_color
-        calcItem.status_data = status_data        
+                #if value decreases over the year, set data_color to red, status no longer golden
+                if item < float_data[ind]:
+                    indiv_color = Output.red
+                    status_color = Output.red
+                    status_data = 'Red'
+                calcItem.data_color.append(indiv_color)
+
+            #set TTM data text to blue just to make it stand out
+            calcItem.data_color.append(Output.blue)
+            #set status tile and text color
+            calcItem.status = status_color
+            calcItem.status_data = status_data
+        except:
+            #catch error
+            calcItem.data = ['compute function- ' + sys.exc_info()[0].__name__]
+            calcItem.data_color = [Output.red]
+            calcItem.status = Output.red
+            calcItem.status_data = 'Red'
 
     def print_output(self,string):
         if string == 'earnings':
@@ -216,66 +306,52 @@ class Output:
             print(self.intrinsic_val.data);print(self.intrinsic_val.data_color)
 
     def compute_earnings(self):
-        try:
-            #load data
-            self.earnings.data = self.in_earnings        
+        #load data
+        self.earnings.data = self.in_earnings        
+        
+        #pass '0' as parameter to indicate 'earnings'
+        self.compute_5years(0)
             
-            #pass '0' as parameter to indicate 'earnings'
-            self.compute_5years(0)
-            
-            #self.print_output('earnings')
-        except:
-            print('earnings: {0}'.format('error'))
-            
+        #self.print_output('earnings')
+
     def compute_revenue(self):
-        try:
-            #load data
-            self.revenue.data = self.in_revenue        
+        #load data
+        self.revenue.data = self.in_revenue        
             
-            #pass '1' as parameter to indicate 'revenue'
-            self.compute_5years(1)
+        #pass '1' as parameter to indicate 'revenue'
+        self.compute_5years(1)
             
-            #self.print_output('revenue')
-        except:
-            print('revenue: {0}'.format('error'))
-            
+        #self.print_output('revenue')
+                
     def compute_cashFlow(self):
-        try:
-            #load data
-            self.cash_flow.data = self.in_cash_flow  
+        #load data
+        self.cash_flow.data = self.in_cash_flow  
             
-            #pass '2' as parameter to indicate 'cash flow'
-            self.compute_5years(2)        
+        #pass '2' as parameter to indicate 'cash flow'
+        self.compute_5years(2)        
             
-            #self.print_output('cash_flow')
-        except:
-            print('cash flow: {0}'.format('error'))
+        #self.print_output('cash_flow')
             
     def compute_grossMargin(self):
-        try:
-            #load data
-            self.gross_margin.data.append(self.in_gross_margin)
-            #set color. Has to compare value to competitors, this feature is not being implemented
-            self.gross_margin.status = Output.black
-            self.gross_margin.status_data = 'black'
-            self.gross_margin.data_color.append(Output.blue)
+        #input validation is not carried out
+        #load data
+        self.gross_margin.data.append(self.in_gross_margin)
+        #set color. Has to compare value to competitors, this feature is not being implemented
+        self.gross_margin.status = Output.black
+        self.gross_margin.status_data = 'Black'
+        self.gross_margin.data_color.append(Output.blue)
             
-            #self.print_output('gross_margin')
-        except:
-            print('gross margin: {0}'.format('error'))
+        #self.print_output('gross_margin')
 
     def compute_netMargin(self):
-        try:
-            #load data
-            self.net_margin.data.append(self.in_net_margin)
-            #set color. Has to compare value to competitors, this feature is not being implemented
-            self.net_margin.status = Output.black
-            self.net_margin.status_data = 'black'
-            self.net_margin.data_color.append(Output.blue)
+        #load data
+        self.net_margin.data.append(self.in_net_margin)
+        #set color. Has to compare value to competitors, this feature is not being implemented
+        self.net_margin.status = Output.black
+        self.net_margin.status_data = 'Black'
+        self.net_margin.data_color.append(Output.blue)
             
-            #self.print_output('net_margin')
-        except:
-            print('net margin: {0}'.format('error'))
+        #self.print_output('net_margin')
 
     def compute_LTgrowthRate(self):
         try:
@@ -287,22 +363,26 @@ class Output:
             #if Long term growth Rate exceeds 10%, set status to green
             threshold = 10
             self.LT_growthRate.status = Output.red
-            self.LT_growthRate.status_data = 'red'
+            self.LT_growthRate.status_data = 'Red'
             if result_gr > threshold:
                 self.LT_growthRate.status = Output.green
-                self.LT_growthRate.status_data = 'green'
+                self.LT_growthRate.status_data = 'Green'
                 
             self.LT_growthRate.data_color.append(Output.black)
                 
             #self.print_output('LT_growthRate')
         except:
-            print('LT_growthRate: {0}'.format('error'))
+            #catch error
+            calcItem.data = ['compute LTgrowthRate- ' + sys.exc_info()[0].__name__]
+            calcItem.data_color = [Output.red]
+            calcItem.status = Output.red
+            calcItem.status_data = 'Red'
 
     def GR_getMeanGrowthRate(self):
         try:
             #extract mean and 1 year ago growth rate
-            mean_gr = float(self.in_LT_growthRate[1].replace(',',''))
-            oneYearAgo_gr = float(self.in_LT_growthRate[4].replace(',',''))
+            mean_gr = self.convert_S2F(self.in_LT_growthRate[1])
+            oneYearAgo_gr = self.convert_S2F(self.in_LT_growthRate[4])
             #computation method: take the mean of mean_growth_rate and 1_year_ago_growth_rate
             result_gr = (mean_gr + oneYearAgo_gr) / 2
         except:
@@ -313,28 +393,32 @@ class Output:
     def compute_LTdebt(self):
         try:
             #conservative debt: LT_debt < 3 x Net Income
-            debt = float(self.in_LT_debt.replace(',',''))
-            threshold = 3 * float(self.in_earnings[-1].replace(',',''))
+            debt = self.convert_S2F(self.in_LT_debt)
+            threshold = 3 * self.convert_S2F(self.in_earnings[-1])
 
             #load data
             self.LT_debt.data.append(self.in_LT_debt)
             
             self.LT_debt.status = Output.red
-            self.LT_debt.status_data = 'red'
+            self.LT_debt.status_data = 'Red'
             if debt < threshold:
                 self.LT_debt.status = Output.green
-                self.LT_debt.status_data = 'green'
+                self.LT_debt.status_data = 'Green'
                 
             self.LT_debt.data_color.append(Output.black)
                 
             #self.print_output('LT_debt')
         except:
-            print('LT_debt: {0}'.format('error'))
+            #catch error
+            calcItem.data = ['compute LTdebt- ' + sys.exc_info()[0].__name__]
+            calcItem.data_color = [Output.red]
+            calcItem.status = Output.red
+            calcItem.status_data = 'Red'
             
     def compute_returnOnEquity(self):
         try:
             #extract ROE
-            roe = float(self.in_ROE.replace(',',''))
+            roe = self.convert_S2F(self.in_ROE)
 
             #load data
             self.ROE.data.append(self.in_ROE)
@@ -342,16 +426,20 @@ class Output:
             #if return on equity exceeds 12%, set status to green
             threshold = 12
             self.ROE.status = Output.red
-            self.ROE.status_data = 'red'
+            self.ROE.status_data = 'Red'
             if roe > threshold:
                 self.ROE.status = Output.green
-                self.ROE.status_data = 'green'                
+                self.ROE.status_data = 'Green'                
 
             self.ROE.data_color.append(Output.black)
                 
             #self.print_output('ROE')
         except:
-            print('ROE: {0}'.format('error'))
+            #catch error
+            calcItem.data = ['compute ROE- ' + sys.exc_info()[0].__name__]
+            calcItem.data_color = [Output.red]
+            calcItem.status = Output.red
+            calcItem.status_data = 'Red'
             
     def compute_intrinsicVal(self):
         try:
@@ -362,7 +450,7 @@ class Output:
             #get rough intrinsic val of one share by dividing present val with outstanding shares
             #get intrinsic val by adding net cash per share((cashEquivalents-totalDebt)/outstanding shares)
             
-            outstandingShares = float(self.in_shares_outstanding.replace(',',''))
+            outstandingShares = self.convert_S2F(self.in_shares_outstanding)
 
             #get list of projected cash flow
             pcf_list = self.IV_projectCashFlow()
@@ -387,31 +475,34 @@ class Output:
             #update data
             self.intrinsic_val.data.append(str(intrinsic_val))
             self.intrinsic_val.status = Output.black
-            self.intrinsic_val.status_data = 'black'
+            self.intrinsic_val.status_data = 'Black'
             self.intrinsic_val.data_color.append(Output.blue)
             #print('present_val: {0}'.format(present_val))
             #print('rough_iv_per share: {0}'.format(rough_IV_per_share))
             #self.print_output('intrinsic_val')
         except:
-            print('intrinsic_val: {0}'.format('error'))
+            #catch error
+            calcItem.data = ['compute intrinsic_val- ' + sys.exc_info()[0].__name__]
+            calcItem.data_color = [Output.red]
+            calcItem.status = Output.red
+            calcItem.status_data = 'Red'
 
     def IV_netCashPerShare(self,outstandingShares):
         try:
-            ST_debt = float(self.in_ST_debt.replace(',',''))
-            LT_debt = float(self.in_LT_debt.replace(',',''))
-            cash_equivalents = float(self.in_cash_equivalents.replace(',',''))
+            ST_debt = self.convert_S2F(self.in_ST_debt)
+            LT_debt = self.convert_S2F(self.in_LT_debt)
+            cash_equivalents = self.convert_S2F(self.in_cash_equivalents)
 
             #formula
             return_val = (cash_equivalents - (ST_debt + LT_debt)) / outstandingShares
         except:
             return_val = 'error'
             
-        print('net cash per share: {0}'.format(return_val))
         return return_val
 
     def IV_projectCashFlow(self):
         try:
-            cash_flow = float(self.in_cash_flow[-1].replace(',',''))
+            cash_flow = self.convert_S2F(self.in_cash_flow[-1])
             #convert percentage to decimal
             growth_rate = self.GR_getMeanGrowthRate() / 100
             #print('growth rate: {0}'.format(growth_rate))
@@ -430,13 +521,12 @@ class Output:
         except:
             pcf = 'error'
 
-        print('pcf: {0}'.format(pcf))
         return pcf
         
     def IV_discountRate(self):
         try:
             #discount rate based on beta value(adam khoo)
-            beta = float(self.in_beta.replace(',',''))
+            beta = self.convert(self.in_beta)
             if beta < 0.801:
                 discount_rate = 0.05
             elif beta < 0.901:
@@ -458,5 +548,4 @@ class Output:
         except:
             discount_rate = 'error'
 
-        print('discount_rate: {0}'.format(discount_rate))
         return discount_rate

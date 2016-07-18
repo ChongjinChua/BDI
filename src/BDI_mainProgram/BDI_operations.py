@@ -34,18 +34,20 @@ def BDI_read(symbol,BDI_input):
     #html_pages[5] -> Beta, outstanding shares    
 
     #Extract required data from html pages 
-    BDI_input.get_earnings(html_pages[0])
-    BDI_input.get_revenue(html_pages[0])
-    BDI_input.get_LTdebt(html_pages[1])
-    BDI_input.get_STdebt(html_pages[1])
-    BDI_input.get_cashEquivalents(html_pages[1])
-    BDI_input.get_cashFlow(html_pages[2])
-    BDI_input.get_grossMargin(html_pages[3])
-    BDI_input.get_netMargin(html_pages[3])
-    BDI_input.get_returnOnEquity(html_pages[3])
-    BDI_input.get_LTgrowthRate(html_pages[4])
-    BDI_input.get_beta(html_pages[5])
-    BDI_input.get_sharesOutstanding(html_pages[5])
+    valid = BDI_input.get_earnings(html_pages[0])
+    valid = BDI_input.get_revenue(html_pages[0])
+    valid = BDI_input.get_LTdebt(html_pages[1])
+    valid = BDI_input.get_STdebt(html_pages[1])
+    valid = BDI_input.get_cashEquivalents(html_pages[1])
+    valid = BDI_input.get_cashFlow(html_pages[2])
+    valid = BDI_input.get_grossMargin(html_pages[3])
+    valid = BDI_input.get_netMargin(html_pages[3])
+    valid = BDI_input.get_returnOnEquity(html_pages[3])
+    valid = BDI_input.get_LTgrowthRate(html_pages[4])
+    valid = BDI_input.get_beta(html_pages[5])
+    valid = BDI_input.get_sharesOutstanding(html_pages[5])
+
+    return valid
 
 def BDI_compute(BDI_input,BDI_output):
     #clean up output
@@ -76,8 +78,9 @@ def BDI_write(BDI_output,cf_data,oo_data):
     #write earnings
     #validate that valid data exist
     earnings = BDI_output.earnings
-    if earnings.data_color:
+    if earnings.data:
         oo_sheet[ data_rowCursor , data_colCursor ].background_color = earnings.status
+        oo_sheet[ data_rowCursor , data_colCursor ].text_color = earnings.status
         oo_sheet[ data_rowCursor , data_colCursor ].value = earnings.status_data
         data_colCursor += 1
         for index,item in enumerate(earnings.data):
@@ -91,8 +94,9 @@ def BDI_write(BDI_output,cf_data,oo_data):
     #write revenue
     #validate that valid data exist
     revenue = BDI_output.revenue
-    if revenue.data_color:
+    if revenue.data:
         oo_sheet[ data_rowCursor , data_colCursor ].background_color = revenue.status
+        oo_sheet[ data_rowCursor , data_colCursor ].text_color = revenue.status
         oo_sheet[ data_rowCursor , data_colCursor ].value = revenue.status_data
         data_colCursor += 1
         for index,item in enumerate(revenue.data):
@@ -106,8 +110,9 @@ def BDI_write(BDI_output,cf_data,oo_data):
     #write cash flow
     #validate that valid data exist
     cash_flow = BDI_output.cash_flow
-    if cash_flow.data_color:
+    if cash_flow.data:
         oo_sheet[ data_rowCursor , data_colCursor ].background_color = cash_flow.status
+        oo_sheet[ data_rowCursor , data_colCursor ].text_color = cash_flow.status
         oo_sheet[ data_rowCursor , data_colCursor ].value = cash_flow.status_data
         data_colCursor += 1
         for index,item in enumerate(cash_flow.data):
@@ -121,8 +126,9 @@ def BDI_write(BDI_output,cf_data,oo_data):
     #write gross profit margin
     #validate the data
     gross_margin = BDI_output.gross_margin
-    if gross_margin.data_color:
+    if gross_margin.data:
         oo_sheet[ data_rowCursor , data_colCursor ].background_color = gross_margin.status
+        oo_sheet[ data_rowCursor , data_colCursor ].text_color = gross_margin.status
         oo_sheet[ data_rowCursor , data_colCursor ].value = gross_margin.status_data
         oo_sheet[ data_rowCursor , data_colCursor+1 ].value = gross_margin.data[0]
         oo_sheet[ data_rowCursor , data_colCursor+1 ].text_color = gross_margin.data_color[0]
@@ -133,8 +139,9 @@ def BDI_write(BDI_output,cf_data,oo_data):
     #write net profit margin
     #validate the data
     net_margin = BDI_output.net_margin
-    if net_margin.data_color:
+    if net_margin.data:
         oo_sheet[ data_rowCursor , data_colCursor ].background_color = net_margin.status
+        oo_sheet[ data_rowCursor , data_colCursor ].text_color = net_margin.status
         oo_sheet[ data_rowCursor , data_colCursor ].value = net_margin.status_data
         oo_sheet[ data_rowCursor , data_colCursor+1 ].value = net_margin.data[0]
         oo_sheet[ data_rowCursor , data_colCursor+1 ].text_color = net_margin.data_color[0]
@@ -145,8 +152,9 @@ def BDI_write(BDI_output,cf_data,oo_data):
     #write LT_growthRate
     #validate the data
     LT_growthRate = BDI_output.LT_growthRate
-    if LT_growthRate.data_color:
+    if LT_growthRate.data:
         oo_sheet[ data_rowCursor , data_colCursor ].background_color = LT_growthRate.status
+        oo_sheet[ data_rowCursor , data_colCursor ].text_color = LT_growthRate.status
         oo_sheet[ data_rowCursor , data_colCursor ].value = LT_growthRate.status_data
         oo_sheet[ data_rowCursor , data_colCursor+1 ].value = LT_growthRate.data[0]
         oo_sheet[ data_rowCursor , data_colCursor+1 ].text_color = LT_growthRate.data_color[0]
@@ -157,8 +165,9 @@ def BDI_write(BDI_output,cf_data,oo_data):
     #write Long term debt
     #validate the data
     LT_debt = BDI_output.LT_debt
-    if LT_debt.data_color:
+    if LT_debt.data:
         oo_sheet[ data_rowCursor , data_colCursor ].background_color = LT_debt.status
+        oo_sheet[ data_rowCursor , data_colCursor ].text_color = LT_debt.status        
         oo_sheet[ data_rowCursor , data_colCursor ].value = LT_debt.status_data
         oo_sheet[ data_rowCursor , data_colCursor+1 ].value = LT_debt.data[0]
         oo_sheet[ data_rowCursor , data_colCursor+1 ].text_color = LT_debt.data_color[0]
@@ -169,8 +178,9 @@ def BDI_write(BDI_output,cf_data,oo_data):
     #write Return on equity
     #validate the data
     ROE = BDI_output.ROE
-    if ROE.data_color:
+    if ROE.data:
         oo_sheet[ data_rowCursor , data_colCursor ].background_color = ROE.status
+        oo_sheet[ data_rowCursor , data_colCursor ].text_color = ROE.status
         oo_sheet[ data_rowCursor , data_colCursor ].value = ROE.status_data
         oo_sheet[ data_rowCursor , data_colCursor+1 ].value = ROE.data[0]
         oo_sheet[ data_rowCursor , data_colCursor+1 ].text_color = ROE.data_color[0]
@@ -181,8 +191,9 @@ def BDI_write(BDI_output,cf_data,oo_data):
     #write Intrinsic Value
     #validate the data
     intrinsic_val = BDI_output.intrinsic_val
-    if intrinsic_val.data_color:
+    if intrinsic_val.data:
         oo_sheet[ data_rowCursor , data_colCursor ].background_color = intrinsic_val.status
+        oo_sheet[ data_rowCursor , data_colCursor ].text_color = intrinsic_val.status
         oo_sheet[ data_rowCursor , data_colCursor ].value = intrinsic_val.status_data
         oo_sheet[ data_rowCursor , data_colCursor+1 ].value = intrinsic_val.data[0]
         oo_sheet[ data_rowCursor , data_colCursor+1 ].text_color = intrinsic_val.data_color[0]

@@ -83,6 +83,7 @@ cf_sectors = cf_data.Sector.tolist()
 BDI_input = Input()
 BDI_output = Output()
 ind = 1
+valid = 1
 #beginning row of data
 data_rowNum = 15
 
@@ -91,8 +92,10 @@ for i,item in enumerate(cf_symbols):
     cf_data = [i+1,cf_symbols[i],cf_names[i],cf_sectors[i]]
     oo_data = [data_rowNum,oo_sheet]
     
-    BDI_read(cf_symbols[i],BDI_input)
-    BDI_compute(BDI_input,BDI_output)
+    valid = BDI_read(cf_symbols[i],BDI_input)
+    if valid:
+        #compute only when inputs are valid, if not jump straight to write function
+        BDI_compute(BDI_input,BDI_output)
     BDI_write(BDI_output,cf_data,oo_data)
     data_rowNum += 1
 
