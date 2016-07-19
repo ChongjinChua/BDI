@@ -34,25 +34,20 @@ def BDI_read(symbol,BDI_input):
     #html_pages[5] -> Beta, outstanding shares    
 
     #Extract required data from html pages 
-    valid = BDI_input.get_earnings(html_pages[0])
-    valid = BDI_input.get_revenue(html_pages[0])
-    valid = BDI_input.get_LTdebt(html_pages[1])
-    valid = BDI_input.get_STdebt(html_pages[1])
-    valid = BDI_input.get_cashEquivalents(html_pages[1])
-    valid = BDI_input.get_cashFlow(html_pages[2])
-    valid = BDI_input.get_grossMargin(html_pages[3])
-    valid = BDI_input.get_netMargin(html_pages[3])
-    valid = BDI_input.get_returnOnEquity(html_pages[3])
-    valid = BDI_input.get_LTgrowthRate(html_pages[4])
-    valid = BDI_input.get_beta(html_pages[5])
-    valid = BDI_input.get_sharesOutstanding(html_pages[5])
-
-    return valid
+    BDI_input.get_earnings(html_pages[0])
+    BDI_input.get_revenue(html_pages[0])
+    BDI_input.get_LTdebt(html_pages[1])
+    BDI_input.get_STdebt(html_pages[1])
+    BDI_input.get_cashEquivalents(html_pages[1])
+    BDI_input.get_cashFlow(html_pages[2])
+    BDI_input.get_grossMargin(html_pages[3])
+    BDI_input.get_netMargin(html_pages[3])
+    BDI_input.get_returnOnEquity(html_pages[3])
+    BDI_input.get_LTgrowthRate(html_pages[4])
+    BDI_input.get_beta(html_pages[5])
+    BDI_input.get_sharesOutstanding(html_pages[5])
 
 def BDI_compute(BDI_input,BDI_output):
-    #clean up output
-    BDI_clean(BDI_output)
-
     #execute computation
     BDI_output.load_inputs(BDI_input)
 
@@ -203,12 +198,17 @@ def BDI_write(BDI_output,cf_data,oo_data):
     
         
 def BDI_clean(BDI_output):
+    BDI_output.earnings.data_color = []
+    BDI_output.revenue.data_color = []
+    BDI_output.cash_flow.data_color = []    
     BDI_output.gross_margin.data = []
     BDI_output.gross_margin.data_color = []    
     BDI_output.net_margin.data = []
     BDI_output.net_margin.data_color = []    
     BDI_output.LT_growthRate.data = []
     BDI_output.LT_growthRate.data_color = []    
+    BDI_output.LT_debt.data = []
+    BDI_output.LT_debt.data_color = []    
     BDI_output.ROE.data = []
     BDI_output.ROE.data_color = []    
     BDI_output.intrinsic_val.data = []

@@ -32,7 +32,7 @@ class Input:
             #earnings for five years
             self.earnings = [child.text for child in children]
         except:
-            self.earnings = ['get_earnings ' + sys.exc_info()[0].__name__] #catch any sorts of error
+            self.earnings = ['get_earnings ' + sys.exc_info()[1].args[0]] #catch any sorts of error
             return 0
         return 1
         #print('earnings = {0}'.format(self.earnings))
@@ -44,7 +44,7 @@ class Input:
             #revenue for five years
             self.revenue = [child.text for child in children]
         except:
-            self.revenue = ['get_revenue ' + sys.exc_info()[0].__name__] #catch any sorts of error
+            self.revenue = ['get_revenue ' + sys.exc_info()[1].args[0]] #catch any sorts of error
             return 0
         return 1
             
@@ -57,7 +57,7 @@ class Input:
             #cash flow for five years
             self.cash_flow = [child.text for child in children]
         except:
-            self.cash_flow = ['get_cashFlow ' + sys.exc_info()[0].__name__] #catch any sorts of error
+            self.cash_flow = ['get_cashFlow ' + sys.exc_info()[1].args[0]] #catch any sorts of error
             return 0
         return 1
 
@@ -70,7 +70,7 @@ class Input:
             #only the gross margin for TTM
             self.gross_margin = siblings[-1].text
         except:
-            self.gross_margin = 'get_grossMargin ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            self.gross_margin = 'get_grossMargin ' + sys.exc_info()[1].args[0] #catch any sorts of error
             return 0
         return 1
 
@@ -83,7 +83,7 @@ class Input:
             #only the gross margin for TTM
             self.net_margin = siblings[-1].text
         except:
-            self.net_margin = 'get_netMargin ' + sys.exc_info()[0].__name__
+            self.net_margin = 'get_netMargin ' + sys.exc_info()[1].args[0]
             return 0
         return 1
             
@@ -97,7 +97,7 @@ class Input:
             #no. of estimates,mean,high,low,1 year ago
             self.LT_growthRate = [sibling.text for sibling in siblings]
         except:
-            self.LT_growthRate = ['get_LTgrowthRate ' + sys.exc_info()[0].__name__] # catch any sorts of error
+            self.LT_growthRate = ['get_LTgrowthRate ' + sys.exc_info()[1].args[0]] # catch any sorts of error
             return 0
         return 1
 
@@ -110,7 +110,7 @@ class Input:
             #only the LT debt for most recent year
             self.LT_debt = children[-1].text
         except:
-            self.LT_debt = 'get_LTdebt ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            self.LT_debt = 'get_LTdebt ' + sys.exc_info()[1].args[0] #catch any sorts of error
             return 0
         return 1
             
@@ -123,7 +123,7 @@ class Input:
             #only the return on Equity for TTM
             self.ROE = siblings[-1].text
         except:
-            self.ROE = 'get_returnOnEquity ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            self.ROE = 'get_returnOnEquity ' + sys.exc_info()[1].args[0] #catch any sorts of error
             return 0
         return 1
 
@@ -137,7 +137,7 @@ class Input:
             #only a single value, situated in the 'strong' tag
             self.beta = sibling.strong.text
         except:
-            self.beta = 'get_beta ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            self.beta = 'get_beta ' + sys.exc_info()[1].args[0] #catch any sorts of error
             return 0
         return 1
 
@@ -151,7 +151,7 @@ class Input:
             #only a single value, situated in the 'strong' tag
             self.shares_outstanding = sibling.strong.text
         except:
-            self.shares_outstanding = 'get_sharesOutstanding ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            self.shares_outstanding = 'get_sharesOutstanding ' + sys.exc_info()[1].args[0] #catch any sorts of error
             return 0
         return 1
 
@@ -164,7 +164,7 @@ class Input:
             #only the cash equivalents for most recent year
             self.cash_equivalents = children[-1].text
         except:
-            self.cash_equivalents = 'get_cashEquivalents ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            self.cash_equivalents = 'get_cashEquivalents ' + sys.exc_info()[1].args[0] #catch any sorts of error
             return 0
         return 1
 
@@ -177,7 +177,7 @@ class Input:
             #only the ST debt for most recent year
             self.ST_debt = children[-1].text
         except:
-            self.ST_debt = 'get_STdebt ' + sys.exc_info()[0].__name__ #catch any sorts of error
+            self.ST_debt = 'get_STdebt ' + sys.exc_info()[1].args[0] #catch any sorts of error
             return 0
         return 1
 
@@ -271,8 +271,8 @@ class Output:
             calcItem.status_data = status_data
         except:
             #catch error
-            calcItem.data = ['compute function- ' + sys.exc_info()[0].__name__]
-            calcItem.data_color = [Output.red]
+            calcItem.data = ['compute function- ' + sys.exc_info()[1].args[0],'','','','','']
+            calcItem.data_color = [Output.red,Output.red,Output.red,Output.red,Output.red,Output.red]
             calcItem.status = Output.red
             calcItem.status_data = 'Red'
 
@@ -373,10 +373,10 @@ class Output:
             #self.print_output('LT_growthRate')
         except:
             #catch error
-            calcItem.data = ['compute LTgrowthRate- ' + sys.exc_info()[0].__name__]
-            calcItem.data_color = [Output.red]
-            calcItem.status = Output.red
-            calcItem.status_data = 'Red'
+            self.LT_growthRate.data = ['compute LTgrowthRate- ' + sys.exc_info()[1].args[0],'','','','','']
+            self.LT_growthRate.data_color = [Output.red,Output.red,Output.red,Output.red,Output.red,Output.red]
+            self.LT_growthRate.status = Output.red
+            self.LT_growthRate.status_data = 'Red'
 
     def GR_getMeanGrowthRate(self):
         try:
@@ -410,10 +410,10 @@ class Output:
             #self.print_output('LT_debt')
         except:
             #catch error
-            calcItem.data = ['compute LTdebt- ' + sys.exc_info()[0].__name__]
-            calcItem.data_color = [Output.red]
-            calcItem.status = Output.red
-            calcItem.status_data = 'Red'
+            self.LT_debt.data = ['compute LTdebt- ' + sys.exc_info()[1].args[0],'','','','','']
+            self.LT_debt.data_color = [Output.red,Output.red,Output.red,Output.red,Output.red,Output.red]
+            self.LT_debt.status = Output.red
+            self.LT_debt.status_data = 'Red'
             
     def compute_returnOnEquity(self):
         try:
@@ -436,10 +436,10 @@ class Output:
             #self.print_output('ROE')
         except:
             #catch error
-            calcItem.data = ['compute ROE- ' + sys.exc_info()[0].__name__]
-            calcItem.data_color = [Output.red]
-            calcItem.status = Output.red
-            calcItem.status_data = 'Red'
+            self.ROE.data = ['compute ROE- ' + sys.exc_info()[1].args[0],'','','','','']
+            self.ROE.data_color = [Output.red,Output.red,Output.red,Output.red,Output.red,Output.red]
+            self.ROE.status = Output.red
+            self.ROE.status_data = 'Red'
             
     def compute_intrinsicVal(self):
         try:
@@ -482,10 +482,10 @@ class Output:
             #self.print_output('intrinsic_val')
         except:
             #catch error
-            calcItem.data = ['compute intrinsic_val- ' + sys.exc_info()[0].__name__]
-            calcItem.data_color = [Output.red]
-            calcItem.status = Output.red
-            calcItem.status_data = 'Red'
+            self.intrinsic_val.data = ['compute intrinsic_val- ' + sys.exc_info()[1].args[0],'','','','','']
+            self.intrinsic_val.data_color = [Output.red,Output.red,Output.red,Output.red,Output.red,Output.red]
+            self.intrinsic_val.status = Output.red
+            self.intrinsic_val.status_data = 'Red'
 
     def IV_netCashPerShare(self,outstandingShares):
         try:
@@ -526,7 +526,7 @@ class Output:
     def IV_discountRate(self):
         try:
             #discount rate based on beta value(adam khoo)
-            beta = self.convert(self.in_beta)
+            beta = self.convert_S2F(self.in_beta)
             if beta < 0.801:
                 discount_rate = 0.05
             elif beta < 0.901:

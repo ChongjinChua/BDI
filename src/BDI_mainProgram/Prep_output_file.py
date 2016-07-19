@@ -88,14 +88,16 @@ valid = 1
 data_rowNum = 15
 
 #read htmls, execute computations and write to analysis.ods company by company
-for i,item in enumerate(cf_symbols):
+for i,item in enumerate(cf_symbols[:30]):
     cf_data = [i+1,cf_symbols[i],cf_names[i],cf_sectors[i]]
     oo_data = [data_rowNum,oo_sheet]
     
-    valid = BDI_read(cf_symbols[i],BDI_input)
-    if valid:
-        #compute only when inputs are valid, if not jump straight to write function
-        BDI_compute(BDI_input,BDI_output)
+    BDI_read(cf_symbols[i],BDI_input)
+    #clean up output
+    BDI_clean(BDI_output)
+
+    #compute only when inputs are valid, if not jump straight to write function
+    BDI_compute(BDI_input,BDI_output)
     BDI_write(BDI_output,cf_data,oo_data)
     data_rowNum += 1
 

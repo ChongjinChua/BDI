@@ -2,6 +2,11 @@
 
 target_path='../../output_files/analysis.ods'
 
+#close existing soffice, or else it will cause trouble
+#kill running soffice process, -c for count, -e to display what is killed
+echo "killing all soffice processes..."
+pkill -c -e soffice
+
 #create sub-shell that runs in background
 echo "running soffice in the background..."
 (soffice --calc --accept="socket,host=localhost,port=2002;urp;StarOffice.ServiceManager" --norestore --nologo --nodefault) &
