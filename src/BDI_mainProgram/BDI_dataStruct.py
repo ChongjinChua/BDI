@@ -23,69 +23,80 @@ class Input:
         self.shares_outstanding = ""
         self.cash_equivalents = ""
 
-    #input validation: 1->valid, 0->invalid
+    def get_rowId(self,in_page,string_ls):
+        #determine row id of a particular html string using it's text string. Will not fail when data in html pages have different order
+        for string in string_ls:
+            try:
+                #accessing _dict_ of Nonetype will break the code
+                tag_dict = in_page.find(text=string).__dict__
+                break
+            except Exception:
+                pass
+        tag = tag_dict['parent']
+        row_id = tag.get('id')
+        if row_id is None:
+            row_id = tag.parent.get('id')
+            row_id = row_id.replace('label','data')
+
+        return row_id
 
     def get_earnings(self,in_page):
         try:
-            tag = in_page.find('div',{'id':'data_i80'})
+            row_id = self.get_rowId(in_page,['Net income'])
+            tag = in_page.find('div',{'id':row_id})
             children = tag.findChildren()
             #earnings for five years
             self.earnings = [child.text for child in children]
         except:
             self.earnings = ['get_earnings ' + sys.exc_info()[1].args[0]] #catch any sorts of error
-            return 0
-        return 1
+
         #print('earnings = {0}'.format(self.earnings))
 
     def get_revenue(self,in_page):
         try:
-            tag = in_page.find('div',{'id':'data_i1'})
+            row_id = self.get_rowId(in_page,['Revenue','Total revenues'])
+            tag = in_page.find('div',{'id':row_id})
             children = tag.findChildren()
             #revenue for five years
             self.revenue = [child.text for child in children]
         except:
             self.revenue = ['get_revenue ' + sys.exc_info()[1].args[0]] #catch any sorts of error
-            return 0
-        return 1
             
         #print('revenue = {0}'.format(self.revenue))
         
     def get_cashFlow(self,in_page):
         try:
-            tag = in_page.find('div',{'id':'data_tts1'})
+            row_id = self.get_rowId(in_page,['Operating cash flow','Net cash provided by o...'])
+            tag = in_page.find('div',{'id':row_id})
             children = tag.findChildren()
             #cash flow for five years
             self.cash_flow = [child.text for child in children]
         except:
             self.cash_flow = ['get_cashFlow ' + sys.exc_info()[1].args[0]] #catch any sorts of error
-            return 0
-        return 1
 
         #print('cash flow = {0}'.format(self.cash_flow))
 
     def get_grossMargin(self,in_page):
         try:
-            tag = in_page.find('th',{'id':'i14'})
+            row_id = self.get_rowId(in_page,['Gross Margin %'])
+            tag = in_page.find('th',{'id':row_id})
             siblings = tag.find_next_siblings('td')
             #only the gross margin for TTM
             self.gross_margin = siblings[-1].text
         except:
             self.gross_margin = 'get_grossMargin ' + sys.exc_info()[1].args[0] #catch any sorts of error
-            return 0
-        return 1
 
         #print('gross margin = {0}'.format(self.gross_margin))
 
     def get_netMargin(self,in_page):
         try:
-            tag = in_page.find('th',{'id':'i22'})
+            row_id = self.get_rowId(in_page,['Net Margin %'])
+            tag = in_page.find('th',{'id':row_id})
             siblings = tag.find_next_siblings('td')
             #only the gross margin for TTM
             self.net_margin = siblings[-1].text
         except:
             self.net_margin = 'get_netMargin ' + sys.exc_info()[1].args[0]
-            return 0
-        return 1
             
         #print('net margin = {0}'.format(self.net_margin))
 
@@ -98,34 +109,30 @@ class Input:
             self.LT_growthRate = [sibling.text for sibling in siblings]
         except:
             self.LT_growthRate = ['get_LTgrowthRate ' + sys.exc_info()[1].args[0]] # catch any sorts of error
-            return 0
-        return 1
 
         #print('LT growth rate = {0}'.format(self.LT_growthRate))
 
     def get_LTdebt(self,in_page):
         try:
-            tag = in_page.find('div',{'id':'data_i50'})
+            row_id = self.get_rowId(in_page,['Long-term debt'])
+            tag = in_page.find('div',{'id':row_id})
             children = tag.findChildren()
             #only the LT debt for most recent year
             self.LT_debt = children[-1].text
         except:
             self.LT_debt = 'get_LTdebt ' + sys.exc_info()[1].args[0] #catch any sorts of error
-            return 0
-        return 1
             
         #print('LT debt = {0}'.format(self.LT_debt))
 
     def get_returnOnEquity(self,in_page):
         try:
-            tag = in_page.find('th',{'id':'i26'})
+            row_id = self.get_rowId(in_page,['Return on Equity %'])
+            tag = in_page.find('th',{'id':row_id})
             siblings = tag.find_next_siblings('td')
             #only the return on Equity for TTM
             self.ROE = siblings[-1].text
         except:
             self.ROE = 'get_returnOnEquity ' + sys.exc_info()[1].args[0] #catch any sorts of error
-            return 0
-        return 1
 
         #print('return on equity = {0}'.format(self.ROE))
 
@@ -138,8 +145,6 @@ class Input:
             self.beta = sibling.strong.text
         except:
             self.beta = 'get_beta ' + sys.exc_info()[1].args[0] #catch any sorts of error
-            return 0
-        return 1
 
         #print('Beta = {0}'.format(self.beta))
 
@@ -152,34 +157,30 @@ class Input:
             self.shares_outstanding = sibling.strong.text
         except:
             self.shares_outstanding = 'get_sharesOutstanding ' + sys.exc_info()[1].args[0] #catch any sorts of error
-            return 0
-        return 1
 
         #print('shares outstanding = {0}'.format(self.shares_outstanding))
 
     def get_cashEquivalents(self,in_page):
         try:
-            tag = in_page.find('div',{'id':'data_i1'})
+            row_id = self.get_rowId(in_page,['Cash and cash equivale...'])
+            tag = in_page.find('div',{'id':row_id})
             children = tag.findChildren()
             #only the cash equivalents for most recent year
             self.cash_equivalents = children[-1].text
         except:
             self.cash_equivalents = 'get_cashEquivalents ' + sys.exc_info()[1].args[0] #catch any sorts of error
-            return 0
-        return 1
 
         #print('cash & equivalents = {0}'.format(self.cash_equivalents))
 
     def get_STdebt(self,in_page):
         try:
-            tag = in_page.find('div',{'id':'data_i41'})
+            row_id = self.get_rowId(in_page,['Short-term debt'])
+            tag = in_page.find('div',{'id':row_id})
             children = tag.findChildren()
             #only the ST debt for most recent year
             self.ST_debt = children[-1].text
         except:
             self.ST_debt = 'get_STdebt ' + sys.exc_info()[1].args[0] #catch any sorts of error
-            return 0
-        return 1
 
         #print('ST debt = {0}'.format(self.ST_debt))
 
@@ -386,7 +387,8 @@ class Output:
             #computation method: take the mean of mean_growth_rate and 1_year_ago_growth_rate
             result_gr = (mean_gr + oneYearAgo_gr) / 2
         except:
-            result_gr = 'error'
+            result_gr = 'mean growth rate error'
+            print(result_gr)
             
         return result_gr
 
@@ -496,7 +498,11 @@ class Output:
             #formula
             return_val = (cash_equivalents - (ST_debt + LT_debt)) / outstandingShares
         except:
-            return_val = 'error'
+            return_val = 'net cash per share error'
+            print(self.in_ST_debt); print(ST_debt)
+            print(self.in_LT_debt); print(LT_debt)
+            print(self.in_cash_equivalents); print(cash_equivalents)                        
+            print(return_val)
             
         return return_val
 
@@ -519,8 +525,9 @@ class Output:
                 pcf.append(pcf[ind] * growth_rate + pcf[ind])
                 ind += 1
         except:
-            pcf = 'error'
-
+            pcf = 'pcf error'
+            print(pcf)
+            
         return pcf
         
     def IV_discountRate(self):
@@ -546,6 +553,7 @@ class Output:
             else:
                 discount_rate = 0.09
         except:
-            discount_rate = 'error'
+            discount_rate = 'discount_rate error'
+            print(discount_rate)
 
         return discount_rate

@@ -17,7 +17,7 @@ def oo_write_header(oo_sheet):
                               'Long-Term Debt','Return On Equity','Intrinsic Value']
     oo_sheet[3:11,3].values = ['Increase over the years','Increase over the years','Increase over the years',
                               'Higher than closest competitors','Higher than 10%','3 x current net income after tax',
-                              'Higher than 15%','Lower than current price']
+                              'Higher than 12%','Lower than current price']
     oo_sheet[2,0].font_weight = pyoo.FONT_WEIGHT_BOLD
     oo_sheet[2:12,0:6].border_top_width = 65
     oo_sheet[2:11,5].border_right_width = 75
@@ -88,7 +88,7 @@ valid = 1
 data_rowNum = 15
 
 #read htmls, execute computations and write to analysis.ods company by company
-for i,item in enumerate(cf_symbols[:30]):
+for i,item in enumerate(cf_symbols[10:30]):
     cf_data = [i+1,cf_symbols[i],cf_names[i],cf_sectors[i]]
     oo_data = [data_rowNum,oo_sheet]
     
