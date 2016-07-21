@@ -23,7 +23,7 @@ fi
 
 #execute python script that prepares output file 
 echo "Preparing output file..."
-./Prep_output_file.py
+./Prep_output_file.py > debug.txt
 
 #kill running soffice process, -c for count, -e to display what is killed
 echo "killing all soffice processes..."

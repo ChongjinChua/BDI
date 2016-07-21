@@ -1,0 +1,1900 @@
+-creating new ods file...
+1.MMM
+2.ABT
+3.ABBV
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:406
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:8,399
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+4.ACN
+5.ATVI
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:4,079
+cash_equivalents:<class 'str'>:1,823
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+6.AYI
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:352
+cash_equivalents:<class 'str'>:757
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+7.ADBE
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,907
+cash_equivalents:<class 'str'>:877
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+8.AAP
+9.AES
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:5,015
+cash_equivalents:<class 'str'>:1,262
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+10.AET
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:7,828
+cash_equivalents:<class 'str'>:2,524
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+11.AMG
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:1,895
+cash_equivalents:<class 'str'>:564
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+12.AFL
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:5,011
+cash_equivalents:<class 'str'>:4,350
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+13.A
+get_cashFlow:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_cashFlow '
+pcf error
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,655
+cash_equivalents:<class 'str'>:2,003
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+14.GAS
+15.APD
+16.AKAM
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:624
+cash_equivalents:<class 'str'>:289
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+17.ALK
+18.AA
+19.ALXN
+20.ALLE
+discount_rate error
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+21.AGN
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,096
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+22.ADS
+23.ALL
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:5,124
+cash_equivalents:<class 'str'>:495
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+24.GOOGL
+25.GOOG
+26.MO
+27.AMZN
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:8,235
+cash_equivalents:<class 'str'>:15,890
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+28.AEE
+29.AAL
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+discount_rate error
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:390
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+30.AEP
+31.AXP
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:48,061
+cash_equivalents:<class 'str'>:22,762
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+32.AIG
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:29,350
+cash_equivalents:<class 'str'>:1,629
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+33.AMT
+34.AWK
+35.AMP
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:10,246
+cash_equivalents:<class 'str'>:2,357
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+36.ABC
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:3,493
+cash_equivalents:<class 'str'>:2,167
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+37.AME
+38.AMGN
+get_cashFlow:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_cashFlow '
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+39.APH
+40.APC
+41.ADI
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+42.ANTM
+43.AON
+44.APA
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+45.AIV
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:3,873
+cash_equivalents:<class 'str'>:51
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+46.AAPL
+47.AMAT
+48.ADM
+49.AJG
+50.AIZ
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,171
+cash_equivalents:<class 'str'>:1,288
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+51.T
+52.ADSK
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,488
+cash_equivalents:<class 'str'>:1,353
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+53.ADP
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:9
+cash_equivalents:<class 'str'>:1,639
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+54.AN
+55.AZO
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:4,625
+cash_equivalents:<class 'str'>:175
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+56.AVGO
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+57.AVB
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:6,457
+cash_equivalents:<class 'str'>:401
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+58.AVY
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:964
+cash_equivalents:<class 'str'>:159
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+59.BHI
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+60.BLL
+get_netMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_returnOnEquity:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_ROE:Attribute not found.:'list' object has no attribute 'replace'
+61.BAC
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:236,764
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+62.BCR
+63.BAX
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:1,775
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:2,213
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+64.BBT
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:23,769
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+65.BDX
+66.BBBY
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,500
+cash_equivalents:<class 'str'>:516
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+67.BRK-B
+get_earnings:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_LTdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashFlow:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_grossMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_netMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_returnOnEquity:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_beta:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_sharesOutstanding:Attribute not found.:'NoneType' object has no attribute '__dict__'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_cashFlow '
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+compute_LTdebt:Attribute not found.:'list' object has no attribute 'replace'
+compute_ROE:Attribute not found.:'list' object has no attribute 'replace'
+compute_intrinsicVal:Attribute not found.:'list' object has no attribute 'replace'
+68.BBY
+69.BIIB
+70.BLK
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:4,930
+cash_equivalents:<class 'str'>:6,231
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+71.HRB
+72.BA
+73.BWA
+74.BXP
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:9,037
+cash_equivalents:<class 'str'>:724
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+75.BSX
+76.BMY
+77.BF-B
+get_earnings:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_LTdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashFlow:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_grossMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_netMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_returnOnEquity:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_beta:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_sharesOutstanding:Attribute not found.:'NoneType' object has no attribute '__dict__'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_cashFlow '
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+compute_LTdebt:Attribute not found.:'list' object has no attribute 'replace'
+compute_ROE:Attribute not found.:'list' object has no attribute 'replace'
+compute_intrinsicVal:Attribute not found.:'list' object has no attribute 'replace'
+78.CHRW
+79.CA
+80.CVC
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:20
+cash_equivalents:<class 'str'>:54
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+81.COG
+82.CPB
+83.COF
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:58,134
+cash_equivalents:<class 'str'>:7,984
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+84.CAH
+85.KMX
+86.CCL
+87.CAT
+88.CBG
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:2,645
+cash_equivalents:<class 'str'>:540
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+89.CBS
+90.CELG
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:14,250
+cash_equivalents:<class 'str'>:4,880
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+91.CNC
+92.CNP
+93.CTL
+94.CERN
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:402
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+95.CF
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:5,593
+cash_equivalents:<class 'str'>:286
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+96.SCHW
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:2,890
+cash_equivalents:<class 'str'>:11,978
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+97.CHK
+98.CVX
+99.CMG
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:248
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+100.CB
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:9,447
+cash_equivalents:<class 'str'>:1,775
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+101.CHD
+102.CI
+103.XEC
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,486
+cash_equivalents:<class 'str'>:779
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+104.CINF
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:856
+cash_equivalents:<class 'str'>:544
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+105.CTAS
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,300
+cash_equivalents:<class 'str'>:417
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+106.CSCO
+107.C
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:201,275
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+108.CFG
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+discount_rate error
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:9,886
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+109.CTXS
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,325
+cash_equivalents:<class 'str'>:369
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+110.CME
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:2,241
+cash_equivalents:<class 'str'>:1,693
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+111.CMS
+112.COH
+113.CTSH
+114.CL
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+115.CPGX
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+discount_rate error
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+116.CMCSA
+117.CMA
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:3,058
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+118.CAG
+119.CXO
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:3,332
+cash_equivalents:<class 'str'>:229
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+120.COP
+121.ED
+122.STZ
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+123.GLW
+124.COST
+125.CCI
+get_earnings:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+126.CSRA
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_beta:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_sharesOutstanding:Attribute not found.:'NoneType' object has no attribute '__dict__'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+compute_intrinsicVal:Attribute not found.:'list' object has no attribute 'replace'
+127.CSX
+get_grossMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+128.CMI
+129.CVS
+130.DHI
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:3,812
+cash_equivalents:<class 'str'>:1,384
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+131.DHR
+132.DRI
+133.DVA
+134.DE
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+135.DLPH
+136.DAL
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,972
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+137.XRAY
+138.DVN
+139.DO
+get_earnings:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+140.DLR
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:5,934
+cash_equivalents:<class 'str'>:57
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+141.DFS
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:24,724
+cash_equivalents:<class 'str'>:9,572
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+142.DISCA
+get_earnings:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+143.DISCK
+144.DG
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:158
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+145.DLTR
+146.D
+147.DOV
+get_netMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_returnOnEquity:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_ROE:Attribute not found.:'list' object has no attribute 'replace'
+148.DOW
+149.DPS
+150.DTE
+151.DD
+152.DUK
+153.DNB
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+154.ETFC
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:1,488
+cash_equivalents:<class 'str'>:2,233
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+155.EMN
+156.ETN
+157.EBAY
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:6,779
+cash_equivalents:<class 'str'>:1,832
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+158.ECL
+159.EIX
+160.EW
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:600
+cash_equivalents:<class 'str'>:718
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+161.EA
+162.EMC
+163.EMR
+164.ENDP
+165.ETR
+166.EOG
+167.EQT
+168.EFX
+169.EQIX
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:4,277
+cash_equivalents:<class 'str'>:2,229
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+170.EQR
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:10,581
+cash_equivalents:<class 'str'>:42
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+171.ESS
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:5,315
+cash_equivalents:<class 'str'>:30
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+172.EL
+173.ES
+174.EXC
+175.EXPE
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:3,201
+cash_equivalents:<class 'str'>:1,676
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+176.EXPD
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:808
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+177.ESRX
+178.EXR
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:3,500
+cash_equivalents:<class 'str'>:76
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+179.XOM
+180.FFIV
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:390
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+181.FB
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:201
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:4,907
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+182.FAST
+183.FRT
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:2,571
+cash_equivalents:<class 'str'>:21
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+184.FDX
+185.FIS
+186.FITB
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:15,844
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+187.FSLR
+188.FE
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:2,874
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:131
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+189.FISV
+190.FLIR
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+191.FLS
+192.FLR
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:993
+cash_equivalents:<class 'str'>:1,950
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+193.FMC
+194.FTI
+195.FL
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,021
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+196.F
+197.BEN
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:2,155
+cash_equivalents:<class 'str'>:8,368
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+198.FCX
+199.FTR
+200.GPS
+201.GRMN
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:833
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+202.GD
+203.GE
+204.GGP
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:14,422
+cash_equivalents:<class 'str'>:357
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+205.GIS
+206.GM
+207.GPC
+208.GILD
+209.GPN
+210.GS
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:200,175
+cash_equivalents:<class 'str'>:75,105
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+211.GT
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+mean growth rate error
+pcf error
+net cash per share error
+ST_debt:<class 'str'>:49
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,476
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+212.GWW
+213.HAL
+214.HBI
+215.HOG
+216.HAR
+217.HRS
+218.HIG
+219.HAS
+220.HCA
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+221.HCP
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:11,069
+cash_equivalents:<class 'str'>:347
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+222.HP
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+223.HSIC
+224.HES
+get_cashFlow:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_cashFlow '
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+225.HPE
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+discount_rate error
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+226.HOLX
+227.HD
+228.HON
+229.HRL
+230.HST
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:2,726
+cash_equivalents:<class 'str'>:239
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+231.HPQ
+get_LTdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_grossMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_LTdebt:Attribute not found.:'list' object has no attribute 'replace'
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'list'>:['get_LTdebt ']
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+232.HUM
+233.HBAN
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:7,068
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+234.ITW
+235.ILMN
+236.IR
+237.INTC
+238.ICE
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:4,717
+cash_equivalents:<class 'str'>:627
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+239.IBM
+240.IP
+241.IPG
+242.IFF
+243.INTU
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:500
+cash_equivalents:<class 'str'>:808
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+244.ISRG
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:715
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+245.IVZ
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:7,510
+cash_equivalents:<class 'str'>:2,215
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+246.IRM
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+247.JBHT
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,005
+cash_equivalents:<class 'str'>:6
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+248.JEC
+249.JNJ
+250.JCI
+251.JPM
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:309,756
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+252.JNPR
+253.KSU
+254.K
+255.KEY
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:10,186
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+256.KMB
+257.KIM
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:5,376
+cash_equivalents:<class 'str'>:190
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+258.KMI
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+259.KLAC
+260.KSS
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:2,792
+cash_equivalents:<class 'str'>:707
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+261.KHC
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+discount_rate error
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:25,151
+cash_equivalents:<class 'str'>:4,837
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+262.KR
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:277
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+263.LB
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+264.LLL
+265.LH
+266.LRCX
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,502
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+267.LM
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:1,741
+cash_equivalents:<class 'str'>:1,329
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+268.LEG
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+269.LEN
+270.LUK
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+271.LVLT
+272.LLY
+273.LNC
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:5,582
+cash_equivalents:<class 'str'>:3,146
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+274.LLTC
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:196
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+275.LKQ
+276.LMT
+get_earnings:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+277.L
+278.LOW
+279.LYB
+280.MTB
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_netMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_returnOnEquity:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_ROE:Attribute not found.:'list' object has no attribute 'replace'
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:10,654
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+281.MAC
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:5,284
+cash_equivalents:<class 'str'>:87
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+282.M
+283.MNK
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_beta:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_sharesOutstanding:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+compute_intrinsicVal:Attribute not found.:'list' object has no attribute 'replace'
+284.MRO
+285.MPC
+get_LTdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_LTdebt:Attribute not found.:'list' object has no attribute 'replace'
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'list'>:['get_LTdebt ']
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+286.MAR
+get_netMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_returnOnEquity:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_beta:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_sharesOutstanding:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+compute_ROE:Attribute not found.:'list' object has no attribute 'replace'
+compute_intrinsicVal:Attribute not found.:'list' object has no attribute 'replace'
+287.MMC
+288.MLM
+289.MAS
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+290.MA
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:3,287
+cash_equivalents:<class 'str'>:5,747
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+291.MAT
+292.MKC
+293.MCD
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:24,122
+cash_equivalents:<class 'str'>:7,686
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+294.MCK
+295.MJN
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+296.MDT
+297.MRK
+get_LTdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashFlow:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_cashFlow '
+compute_LTdebt:Attribute not found.:'list' object has no attribute 'replace'
+pcf error
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'list'>:['get_LTdebt ']
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+298.MET
+299.KORS
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_beta:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_sharesOutstanding:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+compute_intrinsicVal:Attribute not found.:'list' object has no attribute 'replace'
+300.MCHP
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:2,483
+cash_equivalents:<class 'str'>:2,093
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+301.MU
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+302.MSFT
+303.MHK
+get_earnings:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+304.TAP
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+305.MDLZ
+306.MON
+307.MNST
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:2,175
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+308.MCO
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:3,401
+cash_equivalents:<class 'str'>:1,757
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+309.MS
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:163,232
+cash_equivalents:<class 'str'>:54,083
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+310.MSI
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+311.MUR
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+mean growth rate error
+pcf error
+net cash per share error
+ST_debt:<class 'str'>:19
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:283
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+312.MYL
+313.NDAQ
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:2,364
+cash_equivalents:<class 'str'>:301
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+314.NOV
+315.NAVI
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_netMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_returnOnEquity:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_ROE:Attribute not found.:'list' object has no attribute 'replace'
+discount_rate error
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:124,833
+cash_equivalents:<class 'str'>:1,594
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+316.NTAP
+317.NFLX
+get_LTdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_LTdebt:Attribute not found.:'list' object has no attribute 'replace'
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'list'>:['get_LTdebt ']
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+318.NWL
+319.NFX
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:2,467
+cash_equivalents:<class 'str'>:5
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+320.NEM
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+321.NWSA
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+discount_rate error
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,951
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+322.NWS
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+discount_rate error
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,951
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+323.NEE
+324.NLSN
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:357
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+325.NKE
+326.NI
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+327.NBL
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:7,976
+cash_equivalents:<class 'str'>:1,028
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+328.JWN
+get_earnings:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_netMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_returnOnEquity:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+compute_ROE:Attribute not found.:'list' object has no attribute 'replace'
+329.NSC
+330.NTRS
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:7,201
+cash_equivalents:<class 'str'>:36,986
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+331.NOC
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:6,416
+cash_equivalents:<class 'str'>:2,319
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+332.NRG
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,518
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+333.NUE
+334.NVDA
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:1,413
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:596
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+335.ORLY
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,390
+cash_equivalents:<class 'str'>:116
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+336.OXY
+337.OMC
+338.OKE
+339.ORCL
+340.OI
+341.PCAR
+342.PH
+343.PDCO
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:725
+cash_equivalents:<class 'str'>:347
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+344.PAYX
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:170
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+345.PYPL
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+mean growth rate error
+pcf error
+discount_rate error
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,393
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+346.PNR
+347.PBCT
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:4,503
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+348.PEP
+349.PKI
+350.PRGO
+351.PFE
+352.PCG
+353.PM
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+354.PSX
+355.PNW
+356.PXD
+357.PBI
+358.PNC
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:52,741
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+359.RL
+360.PPG
+361.PPL
+get_LTdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_LTdebt:Attribute not found.:'list' object has no attribute 'replace'
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'list'>:['get_LTdebt ']
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+362.PX
+363.PCLN
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:6,158
+cash_equivalents:<class 'str'>:1,477
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+364.PFG
+365.PG
+366.PGR
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:2,708
+cash_equivalents:<class 'str'>:224
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+367.PLD
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:11,627
+cash_equivalents:<class 'str'>:264
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+368.PRU
+369.PEG
+370.PSA
+get_LTdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_LTdebt:Attribute not found.:'list' object has no attribute 'replace'
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'list'>:['get_LTdebt ']
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+371.PHM
+372.PVH
+373.QRVO
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:988
+cash_equivalents:<class 'str'>:426
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+374.QCOM
+375.PWR
+376.DGX
+377.RRC
+get_earnings:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_revenue:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_revenue '
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: 'get_earnings '
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:2,651
+cash_equivalents:<class 'str'>:0
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+378.RTN
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:5,330
+cash_equivalents:<class 'str'>:2,328
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+379.O
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:4,841
+cash_equivalents:<class 'str'>:40
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+380.RHT
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:724
+cash_equivalents:<class 'str'>:928
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+381.REGN
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:809
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+382.RF
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:8,349
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+383.RSG
+384.RAI
+385.RHI
+386.ROK
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,501
+cash_equivalents:<class 'str'>:1,427
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+387.COL
+388.ROP
+389.ROST
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:396
+cash_equivalents:<class 'str'>:762
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+390.RCL
+391.R
+392.SPGI
+get_netMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_returnOnEquity:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_ROE:Attribute not found.:'list' object has no attribute 'replace'
+393.CRM
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,294
+cash_equivalents:<class 'str'>:1,158
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+394.SCG
+395.SLB
+396.SNI
+397.STX
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:4,155
+cash_equivalents:<class 'str'>:2,479
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+398.SEE
+399.SRE
+400.SHW
+401.SIG
+402.SPG
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:22,502
+cash_equivalents:<class 'str'>:701
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+403.SWKS
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,044
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+404.SLG
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:10,406
+cash_equivalents:<class 'str'>:255
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+405.SJM
+406.SNA
+get_cashFlow:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+compute_function:Inappropriate argument value (of correct type).:could not convert string to float: 'get_cashFlow '
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+407.SO
+408.LUV
+409.SWN
+410.SE
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+411.STJ
+412.SWK
+413.SPLS
+414.SBUX
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:2,348
+cash_equivalents:<class 'str'>:1,530
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+415.HOT
+416.STT
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:11,534
+cash_equivalents:<class 'str'>:76,545
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+417.SRCL
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+418.SYK
+419.STI
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:8,462
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+420.SYMC
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:2,207
+cash_equivalents:<class 'str'>:5,983
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+421.SYF
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+discount_rate error
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:24,344
+cash_equivalents:<class 'str'>:12,325
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+422.SYY
+423.TROW
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:1,172
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+424.TGT
+425.TEL
+get_beta:Attribute not found.:'NoneType' object has no attribute '__dict__'
+get_sharesOutstanding:Attribute not found.:'NoneType' object has no attribute '__dict__'
+compute_intrinsicVal:Attribute not found.:'list' object has no attribute 'replace'
+426.TE
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+427.TGNA
+428.TDC
+429.TSO
+430.TXN
+431.TXT
+432.BK
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:22,070
+cash_equivalents:<class 'str'>:134,886
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+433.CLX
+434.KO
+435.HSY
+436.MOS
+437.TRV
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:6,344
+cash_equivalents:<class 'str'>:380
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+438.DIS
+439.TMO
+440.TIF
+441.TWX
+442.TJX
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,624
+cash_equivalents:<class 'str'>:2,095
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+443.TMK
+444.TSS
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:1,380
+cash_equivalents:<class 'str'>:389
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+445.TSCO
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:150
+cash_equivalents:<class 'str'>:64
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+446.TDG
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+447.RIG
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+448.TRIP
+449.FOXA
+450.FOX
+451.TYC
+452.TSN
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+453.USB
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:32,078
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+454.UDR
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:3,571
+cash_equivalents:<class 'str'>:7
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+455.ULTA
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:346
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+456.UA
+457.UNP
+458.UAL
+459.UNH
+460.UPS
+461.URI
+462.UTX
+463.UHS
+464.UNM
+465.URBN
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:150
+cash_equivalents:<class 'str'>:265
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+466.VFC
+467.VLO
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:4,114
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+468.VAR
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+469.VTR
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:11,207
+cash_equivalents:<class 'str'>:53
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+470.VRSN
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+471.VRSK
+472.VZ
+473.VRTX
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+474.VIAB
+475.V
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:3,518
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+476.VNO
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:11,091
+cash_equivalents:<class 'str'>:1,836
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+477.VMC
+478.WMT
+479.WBA
+480.WM
+get_grossMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_netMargin:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_returnOnEquity:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+compute_ROE:Attribute not found.:'list' object has no attribute 'replace'
+481.WAT
+482.WFC
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:199,536
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+483.HCN
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:12,892
+cash_equivalents:<class 'str'>:361
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+484.WDC
+485.WU
+486.WRK
+discount_rate error
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'int' and 'str'
+487.WY
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:5,402
+cash_equivalents:<class 'str'>:1,012
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+488.WHR
+489.WFM
+compute_LTdebt:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:—
+cash_equivalents:<class 'str'>:237
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+490.WMB
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+491.WLTW
+492.WEC
+493.WYN
+get_LTgrowthRate:Attribute not found.:'NoneType' object has no attribute '__dict__'
+mean growth rate error
+compute_LTgrowthRate:Inappropriate argument type.:unorderable types: str() > int()
+mean growth rate error
+pcf error
+compute_intrinsicVal:Inappropriate argument type.:can't multiply sequence by non-int of type 'float'
+494.WYNN
+compute_ROE:Inappropriate argument value (of correct type).:could not convert string to float: '—'
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:9,213
+cash_equivalents:<class 'str'>:2,080
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+495.XEL
+496.XRX
+497.XLNX
+498.XL
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:2,645
+cash_equivalents:<class 'str'>:3,256
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+499.XYL
+500.YHOO
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:1,233
+cash_equivalents:<class 'str'>:1,632
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+501.YUM
+502.ZBH
+net cash per share error
+ST_debt:<class 'str'>:—
+LT_debt:<class 'str'>:11,556
+cash_equivalents:<class 'str'>:1,459
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+503.ZION
+get_STdebt:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+get_cashEquivalents:Local name referenced but not bound to a value.:local variable 'tag_dict' referenced before assignment
+net cash per share error
+ST_debt:<class 'list'>:['get_STdebt ']
+LT_debt:<class 'str'>:817
+cash_equivalents:<class 'list'>:['get_cashEquivalents ']
+compute_intrinsicVal:Inappropriate argument type.:unsupported operand type(s) for +: 'float' and 'str'
+504.ZTS
+-saving ods file...
+-closing ods file...

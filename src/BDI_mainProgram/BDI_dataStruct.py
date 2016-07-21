@@ -48,7 +48,8 @@ class Input:
             #earnings for five years
             self.earnings = [child.text for child in children]
         except:
-            self.earnings = ['get_earnings ' + sys.exc_info()[1].args[0]] #catch any sorts of error
+            print('get_earnings:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.earnings = ['get_earnings '] #catch any sorts of error
 
         #print('earnings = {0}'.format(self.earnings))
 
@@ -60,8 +61,8 @@ class Input:
             #revenue for five years
             self.revenue = [child.text for child in children]
         except:
-            self.revenue = ['get_revenue ' + sys.exc_info()[1].args[0]] #catch any sorts of error
-            
+            print('get_revenue:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.revenue = ['get_revenue '] #catch any sorts of error
         #print('revenue = {0}'.format(self.revenue))
         
     def get_cashFlow(self,in_page):
@@ -72,7 +73,8 @@ class Input:
             #cash flow for five years
             self.cash_flow = [child.text for child in children]
         except:
-            self.cash_flow = ['get_cashFlow ' + sys.exc_info()[1].args[0]] #catch any sorts of error
+            print('get_cashFlow:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.cash_flow = ['get_cashFlow '] #catch any sorts of error
 
         #print('cash flow = {0}'.format(self.cash_flow))
 
@@ -84,8 +86,9 @@ class Input:
             #only the gross margin for TTM
             self.gross_margin = siblings[-1].text
         except:
-            self.gross_margin = 'get_grossMargin ' + sys.exc_info()[1].args[0] #catch any sorts of error
-
+            print('get_grossMargin:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.gross_margin = ['get_grossMargin '] #catch any sorts of error
+            
         #print('gross margin = {0}'.format(self.gross_margin))
 
     def get_netMargin(self,in_page):
@@ -96,7 +99,8 @@ class Input:
             #only the gross margin for TTM
             self.net_margin = siblings[-1].text
         except:
-            self.net_margin = 'get_netMargin ' + sys.exc_info()[1].args[0]
+            print('get_netMargin:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.net_margin = ['get_netMargin '] #catch any sorts of error
             
         #print('net margin = {0}'.format(self.net_margin))
 
@@ -108,7 +112,8 @@ class Input:
             #no. of estimates,mean,high,low,1 year ago
             self.LT_growthRate = [sibling.text for sibling in siblings]
         except:
-            self.LT_growthRate = ['get_LTgrowthRate ' + sys.exc_info()[1].args[0]] # catch any sorts of error
+            print('get_LTgrowthRate:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.LT_growthRate = ['get_LTgrowthRate '] #catch any sorts of error
 
         #print('LT growth rate = {0}'.format(self.LT_growthRate))
 
@@ -120,7 +125,8 @@ class Input:
             #only the LT debt for most recent year
             self.LT_debt = children[-1].text
         except:
-            self.LT_debt = 'get_LTdebt ' + sys.exc_info()[1].args[0] #catch any sorts of error
+            print('get_LTdebt:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.LT_debt = ['get_LTdebt '] #catch any sorts of error
             
         #print('LT debt = {0}'.format(self.LT_debt))
 
@@ -132,7 +138,8 @@ class Input:
             #only the return on Equity for TTM
             self.ROE = siblings[-1].text
         except:
-            self.ROE = 'get_returnOnEquity ' + sys.exc_info()[1].args[0] #catch any sorts of error
+            print('get_returnOnEquity:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.ROE = ['get_returnOnEquity '] #catch any sorts of error
 
         #print('return on equity = {0}'.format(self.ROE))
 
@@ -144,7 +151,8 @@ class Input:
             #only a single value, situated in the 'strong' tag
             self.beta = sibling.strong.text
         except:
-            self.beta = 'get_beta ' + sys.exc_info()[1].args[0] #catch any sorts of error
+            print('get_beta:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.beta = ['get_beta '] #catch any sorts of error
 
         #print('Beta = {0}'.format(self.beta))
 
@@ -156,7 +164,8 @@ class Input:
             #only a single value, situated in the 'strong' tag
             self.shares_outstanding = sibling.strong.text
         except:
-            self.shares_outstanding = 'get_sharesOutstanding ' + sys.exc_info()[1].args[0] #catch any sorts of error
+            print('get_sharesOutstanding:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.shares_outstanding = ['get_sharesOutstanding '] #catch any sorts of error
 
         #print('shares outstanding = {0}'.format(self.shares_outstanding))
 
@@ -168,7 +177,8 @@ class Input:
             #only the cash equivalents for most recent year
             self.cash_equivalents = children[-1].text
         except:
-            self.cash_equivalents = 'get_cashEquivalents ' + sys.exc_info()[1].args[0] #catch any sorts of error
+            print('get_cashEquivalents:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.cash_equivalents = ['get_cashEquivalents '] #catch any sorts of error
 
         #print('cash & equivalents = {0}'.format(self.cash_equivalents))
 
@@ -180,7 +190,8 @@ class Input:
             #only the ST debt for most recent year
             self.ST_debt = children[-1].text
         except:
-            self.ST_debt = 'get_STdebt ' + sys.exc_info()[1].args[0] #catch any sorts of error
+            print('get_STdebt:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.ST_debt = ['get_STdebt '] #catch any sorts of error
 
         #print('ST debt = {0}'.format(self.ST_debt))
 
@@ -272,7 +283,8 @@ class Output:
             calcItem.status_data = status_data
         except:
             #catch error
-            calcItem.data = ['compute function- ' + sys.exc_info()[1].args[0],'','','','','']
+            print('compute_function:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            calcItem.data = ['compute function','','','','','']
             calcItem.data_color = [Output.red,Output.red,Output.red,Output.red,Output.red,Output.red]
             calcItem.status = Output.red
             calcItem.status_data = 'Red'
@@ -345,6 +357,7 @@ class Output:
         #self.print_output('gross_margin')
 
     def compute_netMargin(self):
+        #input validation is not carried out
         #load data
         self.net_margin.data.append(self.in_net_margin)
         #set color. Has to compare value to competitors, this feature is not being implemented
@@ -374,7 +387,8 @@ class Output:
             #self.print_output('LT_growthRate')
         except:
             #catch error
-            self.LT_growthRate.data = ['compute LTgrowthRate- ' + sys.exc_info()[1].args[0],'','','','','']
+            print('compute_LTgrowthRate:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.LT_growthRate.data = ['compute_LTgrowthRate','','','','','']
             self.LT_growthRate.data_color = [Output.red,Output.red,Output.red,Output.red,Output.red,Output.red]
             self.LT_growthRate.status = Output.red
             self.LT_growthRate.status_data = 'Red'
@@ -412,7 +426,8 @@ class Output:
             #self.print_output('LT_debt')
         except:
             #catch error
-            self.LT_debt.data = ['compute LTdebt- ' + sys.exc_info()[1].args[0],'','','','','']
+            print('compute_LTdebt:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.LT_debt.data = ['compute_LTdebt','','','','','']
             self.LT_debt.data_color = [Output.red,Output.red,Output.red,Output.red,Output.red,Output.red]
             self.LT_debt.status = Output.red
             self.LT_debt.status_data = 'Red'
@@ -438,7 +453,8 @@ class Output:
             #self.print_output('ROE')
         except:
             #catch error
-            self.ROE.data = ['compute ROE- ' + sys.exc_info()[1].args[0],'','','','','']
+            print('compute_ROE:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.ROE.data = ['compute_ROE','','','','','']
             self.ROE.data_color = [Output.red,Output.red,Output.red,Output.red,Output.red,Output.red]
             self.ROE.status = Output.red
             self.ROE.status_data = 'Red'
@@ -484,7 +500,8 @@ class Output:
             #self.print_output('intrinsic_val')
         except:
             #catch error
-            self.intrinsic_val.data = ['compute intrinsic_val- ' + sys.exc_info()[1].args[0],'','','','','']
+            print('compute_intrinsicVal:{0}:{1}'.format(sys.exc_info()[0].__doc__,sys.exc_info()[1].args[0]))
+            self.intrinsic_val.data = ['compute_intrinsicVal','','','','','']
             self.intrinsic_val.data_color = [Output.red,Output.red,Output.red,Output.red,Output.red,Output.red]
             self.intrinsic_val.status = Output.red
             self.intrinsic_val.status_data = 'Red'
@@ -499,10 +516,10 @@ class Output:
             return_val = (cash_equivalents - (ST_debt + LT_debt)) / outstandingShares
         except:
             return_val = 'net cash per share error'
-            print(self.in_ST_debt); print(ST_debt)
-            print(self.in_LT_debt); print(LT_debt)
-            print(self.in_cash_equivalents); print(cash_equivalents)                        
             print(return_val)
+            print('ST_debt:{0}:{1}'.format(type(self.in_ST_debt),self.in_ST_debt));
+            print('LT_debt:{0}:{1}'.format(type(self.in_LT_debt),self.in_LT_debt));
+            print('cash_equivalents:{0}:{1}'.format(type(self.in_cash_equivalents),self.in_cash_equivalents));            
             
         return return_val
 
