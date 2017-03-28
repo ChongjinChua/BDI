@@ -1,0 +1,2 @@
+- analysis_all_companies shows all the companies that were computed
+- analysis_good_companies shows all the companies that passed all the analysis criteria
